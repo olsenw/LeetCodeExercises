@@ -8,3 +8,4 @@ python ./template.py
 Replace `template` with the correct problem name.
 
 ### Completed Problems
+* [Minimum cost to move chips to the same position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
