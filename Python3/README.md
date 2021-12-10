@@ -11,3 +11,4 @@ Replace `template` with the correct problem name.
 * [1217. Minimum cost to move chips to the same position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
+* [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
