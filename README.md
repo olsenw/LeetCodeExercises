@@ -6,6 +6,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
+* [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
 
 
 ### Exercise Templates for Various Languages
@@ -16,3 +17,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
+* [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
