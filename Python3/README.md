@@ -13,3 +13,4 @@ Replace `template` with the correct problem name.
 * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
 * [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+* [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
