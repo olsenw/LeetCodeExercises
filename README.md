@@ -8,6 +8,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
 * [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+* [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 
 
 ### Exercise Templates for Various Languages
@@ -20,3 +21,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
 * [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+* [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)

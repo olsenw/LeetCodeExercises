@@ -14,3 +14,4 @@ Replace `template` with the correct problem name.
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
 * [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+* [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
