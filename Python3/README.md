@@ -15,3 +15,4 @@ Replace `template` with the correct problem name.
 * [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+* [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
