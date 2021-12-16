@@ -11,6 +11,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+* [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
 
 ### Exercise Templates for Various Languages
@@ -26,3 +27,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+* [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
