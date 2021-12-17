@@ -12,6 +12,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 * [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+* [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
 
 
 ### Exercise Templates for Various Languages
@@ -28,3 +29,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 * [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+* [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
