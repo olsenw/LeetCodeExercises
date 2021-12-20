@@ -15,6 +15,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
 * [394. Decode String](https://leetcode.com/problems/decode-string/)
+* [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 
 
 ### Exercise Templates for Various Languages
@@ -34,3 +35,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
 * [394. Decode String](https://leetcode.com/problems/decode-string/)
+* [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
