@@ -16,6 +16,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
 * [394. Decode String](https://leetcode.com/problems/decode-string/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+* [231. Power of Two](https://leetcode.com/problems/power-of-two/)
 
 
 ### Exercise Templates for Various Languages
@@ -36,3 +37,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
 * [394. Decode String](https://leetcode.com/problems/decode-string/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+* [231. Power of Two](https://leetcode.com/problems/power-of-two/)

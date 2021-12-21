@@ -22,4 +22,5 @@ Replace `template` with the correct problem name.
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
 * [394. Decode String](https://leetcode.com/problems/decode-string/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+* [231. Power of Two](https://leetcode.com/problems/power-of-two/)
 
