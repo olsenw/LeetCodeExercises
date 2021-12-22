@@ -17,6 +17,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [394. Decode String](https://leetcode.com/problems/decode-string/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+* [143. Reorder List](https://leetcode.com/problems/reorder-list/)
 
 
 ### Exercise Templates for Various Languages
@@ -38,3 +39,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [394. Decode String](https://leetcode.com/problems/decode-string/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+* [143. Reorder List](https://leetcode.com/problems/reorder-list/)
