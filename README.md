@@ -19,6 +19,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/)
 * [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 
 ### Exercise Templates for Various Languages
@@ -42,3 +43,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/)
 * [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
