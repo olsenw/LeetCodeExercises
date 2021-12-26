@@ -27,3 +27,4 @@ Replace `template` with the correct problem name.
 * [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+* [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
