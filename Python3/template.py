@@ -11,10 +11,17 @@ class Solution:
         return len(arg1)
 
 class UnitTesting(unittest.TestCase):
-    # actual test to run on Solution
-    def test_name(self):
+    def test_one(self):
         s = Solution()
-        self.assertEqual(s.problem_name([1,2,3,4,5]), 5)
+        i = [1,2,3,4,5]
+        o = 5
+        self.assertEqual(s.problem_name(i), o)
+
+    def test_two(self):
+        s = Solution()
+        i = [1,2,3,4,5]
+        o = 5
+        self.assertEqual(s.problem_name(i), o)
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)
