@@ -30,3 +30,4 @@ Replace `template` with the correct problem name.
 * [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 * [476. Number Complement](https://leetcode.com/problems/number-complement/)
 * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+* [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
