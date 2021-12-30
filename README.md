@@ -25,7 +25,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [476. Number Complement](https://leetcode.com/problems/number-complement/)
 * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
-
+* [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -54,3 +54,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [476. Number Complement](https://leetcode.com/problems/number-complement/)
 * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+* [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
