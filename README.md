@@ -27,6 +27,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 * [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
 * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+* [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -57,3 +58,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 * [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
 * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+* [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
