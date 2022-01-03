@@ -29,6 +29,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 * [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 * [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+* [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
 
 ### Exercise Templates for Various Languages
@@ -62,3 +63,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 * [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 * [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+* [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
