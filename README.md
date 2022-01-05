@@ -31,6 +31,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+* [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 
 
 ### Exercise Templates for Various Languages
@@ -66,3 +67,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+* [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
