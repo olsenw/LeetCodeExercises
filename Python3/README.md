@@ -38,3 +38,4 @@ Replace `template` with the correct problem name.
 * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+* [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
