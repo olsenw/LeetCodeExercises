@@ -33,6 +33,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 * [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
+* [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 
 
 ### Exercise Templates for Various Languages
@@ -70,3 +71,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 * [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
+* [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
