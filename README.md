@@ -35,6 +35,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
 * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+* [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
 
 
 ### Exercise Templates for Various Languages
@@ -74,3 +75,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
 * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+* [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
