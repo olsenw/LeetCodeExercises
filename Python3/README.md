@@ -42,3 +42,4 @@ Replace `template` with the correct problem name.
 * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
 * [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
+* [67. Add Binary](https://leetcode.com/problems/add-binary/)
