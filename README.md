@@ -38,6 +38,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/)
 * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+* [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 
 
 ### Exercise Templates for Various Languages
@@ -80,3 +81,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/)
 * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+* [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
