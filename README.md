@@ -40,6 +40,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
 * [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+* [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 
 
 ### Exercise Templates for Various Languages
@@ -84,3 +85,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
 * [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+* [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
