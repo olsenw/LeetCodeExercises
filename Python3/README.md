@@ -48,3 +48,4 @@ Replace `template` with the correct problem name.
 * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 * [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
+* [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
