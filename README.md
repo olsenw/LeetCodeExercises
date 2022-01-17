@@ -43,6 +43,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+* [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
 ### Exercise Templates for Various Languages
@@ -90,3 +91,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+* [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
