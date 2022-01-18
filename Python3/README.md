@@ -50,3 +50,4 @@ Replace `template` with the correct problem name.
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+* [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
