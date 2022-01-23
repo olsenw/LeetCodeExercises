@@ -55,3 +55,4 @@ Replace `template` with the correct problem name.
 * [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 * [134. Gas Station](https://leetcode.com/problems/gas-station/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
+* [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)

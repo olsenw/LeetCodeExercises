@@ -49,6 +49,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 * [134. Gas Station](https://leetcode.com/problems/gas-station/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
+* [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 
 
 ### Exercise Templates for Various Languages
@@ -102,3 +103,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 * [134. Gas Station](https://leetcode.com/problems/gas-station/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
+* [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
