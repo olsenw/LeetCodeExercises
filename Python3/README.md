@@ -56,3 +56,4 @@ Replace `template` with the correct problem name.
 * [134. Gas Station](https://leetcode.com/problems/gas-station/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
 * [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
+* [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
