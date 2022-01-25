@@ -57,3 +57,4 @@ Replace `template` with the correct problem name.
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
 * [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
+* [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
