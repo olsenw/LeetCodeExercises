@@ -52,6 +52,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 * [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+* [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 
 
 ### Exercise Templates for Various Languages
@@ -108,3 +109,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 * [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+* [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
