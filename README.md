@@ -53,6 +53,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 * [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 * [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+* [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 
 
 ### Exercise Templates for Various Languages
@@ -110,3 +111,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 * [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 * [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+* [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
