@@ -62,3 +62,4 @@ Replace `template` with the correct problem name.
 * [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 * [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 * [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+* [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
