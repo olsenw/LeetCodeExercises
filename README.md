@@ -58,6 +58,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+* [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
 ### Exercise Templates for Various Languages
@@ -120,3 +121,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+* [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
