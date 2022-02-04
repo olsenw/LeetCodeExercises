@@ -67,3 +67,4 @@ Replace `template` with the correct problem name.
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 * [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
+* [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
