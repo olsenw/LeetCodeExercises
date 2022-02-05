@@ -68,3 +68,4 @@ Replace `template` with the correct problem name.
 * [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 * [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
 * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)

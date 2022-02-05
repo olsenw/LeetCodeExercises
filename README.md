@@ -62,6 +62,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 * [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
 * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 
 ### Exercise Templates for Various Languages
@@ -128,3 +129,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 * [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
 * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
