@@ -71,3 +71,4 @@ Replace `template` with the correct problem name.
 * [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/submissions/)
+* [258. Add Digits](https://leetcode.com/problems/add-digits/)
