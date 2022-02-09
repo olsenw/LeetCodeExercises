@@ -66,6 +66,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/submissions/)
 * [258. Add Digits](https://leetcode.com/problems/add-digits/)
+* [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 
 
 ### Exercise Templates for Various Languages
@@ -136,3 +137,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/submissions/)
 * [258. Add Digits](https://leetcode.com/problems/add-digits/)
+* [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
