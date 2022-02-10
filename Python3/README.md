@@ -73,3 +73,4 @@ Replace `template` with the correct problem name.
 * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/submissions/)
 * [258. Add Digits](https://leetcode.com/problems/add-digits/)
 * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+* [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
