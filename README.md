@@ -68,6 +68,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [258. Add Digits](https://leetcode.com/problems/add-digits/)
 * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 * [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+* [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
 
 ### Exercise Templates for Various Languages
@@ -140,3 +141,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [258. Add Digits](https://leetcode.com/problems/add-digits/)
 * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 * [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+* [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
