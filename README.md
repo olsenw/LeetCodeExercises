@@ -70,6 +70,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 * [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 * [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+* [78. Subsets](https://leetcode.com/problems/subsets/)
 
 
 ### Exercise Templates for Various Languages
@@ -144,3 +145,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 * [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 * [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+* [78. Subsets](https://leetcode.com/problems/subsets/)
