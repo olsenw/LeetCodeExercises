@@ -77,3 +77,4 @@ Replace `template` with the correct problem name.
 * [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 * [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 * [78. Subsets](https://leetcode.com/problems/subsets/)
+* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
