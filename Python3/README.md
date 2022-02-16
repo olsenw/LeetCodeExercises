@@ -79,3 +79,4 @@ Replace `template` with the correct problem name.
 * [78. Subsets](https://leetcode.com/problems/subsets/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [136. Single Number](https://leetcode.com/problems/single-number/)
+* [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
