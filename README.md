@@ -77,6 +77,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 * [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 * [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
+* [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
 
 
 ### Exercise Templates for Various Languages
@@ -158,3 +159,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 * [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 * [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
+* [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
