@@ -84,3 +84,4 @@ Replace `template` with the correct problem name.
 * [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 * [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
 * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
+* [169. Majority Element](https://leetcode.com/problems/majority-element/)
