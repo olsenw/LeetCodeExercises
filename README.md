@@ -79,6 +79,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
 * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/)
+* [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 
 
 ### Exercise Templates for Various Languages
@@ -162,3 +163,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
 * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/)
+* [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
