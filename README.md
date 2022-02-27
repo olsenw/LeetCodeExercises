@@ -84,6 +84,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [148. Sort List](https://leetcode.com/problems/sort-list/)
 * [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
 * [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+* [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
 
 ### Exercise Templates for Various Languages
@@ -172,3 +173,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [148. Sort List](https://leetcode.com/problems/sort-list/)
 * [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
 * [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+* [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
