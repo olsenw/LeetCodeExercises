@@ -92,3 +92,4 @@ Replace `template` with the correct problem name.
 * [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 * [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+* [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
