@@ -87,6 +87,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+* [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
 
 ### Exercise Templates for Various Languages
@@ -178,3 +179,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+* [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
