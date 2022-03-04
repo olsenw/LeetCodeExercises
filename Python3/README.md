@@ -95,3 +95,4 @@ Replace `template` with the correct problem name.
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 * [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+* [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
