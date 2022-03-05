@@ -90,6 +90,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 * [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 * [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+* [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
 
 
 ### Exercise Templates for Various Languages
@@ -184,3 +185,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 * [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 * [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+* [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
