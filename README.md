@@ -92,6 +92,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
 * [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
 * [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
+* [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 
 ### Exercise Templates for Various Languages
@@ -188,3 +189,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
 * [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
 * [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
+* [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
