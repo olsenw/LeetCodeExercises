@@ -101,3 +101,4 @@ Replace `template` with the correct problem name.
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
