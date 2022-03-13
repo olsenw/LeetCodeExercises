@@ -98,6 +98,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 
 ### Exercise Templates for Various Languages
@@ -200,3 +201,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
