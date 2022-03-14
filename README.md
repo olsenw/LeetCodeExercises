@@ -99,6 +99,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+* [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
 
 
 ### Exercise Templates for Various Languages
@@ -202,3 +203,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+* [71. Simplify Path](https://leetcode.com/problems/simplify-path/)

@@ -105,3 +105,4 @@ Replace `template` with the correct problem name.
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+* [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
