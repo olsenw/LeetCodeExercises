@@ -100,6 +100,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 * [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+* [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 
 ### Exercise Templates for Various Languages
@@ -204,3 +205,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 * [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+* [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
