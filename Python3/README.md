@@ -110,3 +110,4 @@ Replace `template` with the correct problem name.
 * [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 * [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+* [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
