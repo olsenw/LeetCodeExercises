@@ -105,6 +105,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 * [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 * [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+* [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 
 
 ### Exercise Templates for Various Languages
@@ -214,3 +215,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 * [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 * [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+* [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
