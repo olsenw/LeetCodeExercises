@@ -113,3 +113,4 @@ Replace `template` with the correct problem name.
 * [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+* [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
