@@ -108,6 +108,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 * [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
+* [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)
 
 
 ### Exercise Templates for Various Languages
@@ -220,3 +221,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 * [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
+* [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)
