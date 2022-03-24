@@ -109,6 +109,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 * [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
 * [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)
+* [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
 
 ### Exercise Templates for Various Languages
@@ -222,3 +223,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 * [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
 * [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)
+* [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
