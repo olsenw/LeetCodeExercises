@@ -116,3 +116,4 @@ Replace `template` with the correct problem name.
 * [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
 * [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)
 * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+* [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
