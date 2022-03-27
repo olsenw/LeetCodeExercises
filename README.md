@@ -112,6 +112,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 * [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/)
+* [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 
 
 ### Exercise Templates for Various Languages
@@ -228,3 +229,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 * [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/)
+* [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
