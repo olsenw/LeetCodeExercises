@@ -119,3 +119,4 @@ Replace `template` with the correct problem name.
 * [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/)
 * [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+* [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
