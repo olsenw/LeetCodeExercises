@@ -117,6 +117,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 * [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 * [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+* [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 
 
 ### Exercise Templates for Various Languages
@@ -238,3 +239,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 * [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 * [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+* [344. Reverse String](https://leetcode.com/problems/reverse-string/)
