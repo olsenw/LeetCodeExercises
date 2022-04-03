@@ -125,3 +125,4 @@ Replace `template` with the correct problem name.
 * [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+* [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
