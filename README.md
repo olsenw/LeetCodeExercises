@@ -120,6 +120,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 * [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+* [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
 
 ### Exercise Templates for Various Languages
@@ -244,3 +245,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 * [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+* [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
