@@ -122,6 +122,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
 
 
 ### Exercise Templates for Various Languages
@@ -248,3 +249,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)

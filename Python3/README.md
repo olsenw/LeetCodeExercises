@@ -128,3 +128,4 @@ Replace `template` with the correct problem name.
 * [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
