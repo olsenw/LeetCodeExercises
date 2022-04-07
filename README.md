@@ -123,6 +123,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 * [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
+* [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
 
 ### Exercise Templates for Various Languages
@@ -250,3 +251,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 * [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
+* [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
