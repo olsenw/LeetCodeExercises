@@ -132,3 +132,4 @@ Replace `template` with the correct problem name.
 * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 * [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 * [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+* [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
