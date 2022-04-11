@@ -127,6 +127,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 * [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+* [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 
 
 ### Exercise Templates for Various Languages
@@ -258,3 +259,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 * [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+* [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
