@@ -134,3 +134,4 @@ Replace `template` with the correct problem name.
 * [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
+* [289. Game of Life](https://leetcode.com/problems/game-of-life/)
