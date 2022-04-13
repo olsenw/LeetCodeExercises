@@ -129,6 +129,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+* [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 
 
 ### Exercise Templates for Various Languages
@@ -262,3 +263,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+* [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
