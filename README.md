@@ -130,6 +130,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/)
 * [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+* [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)
 
 
 ### Exercise Templates for Various Languages
@@ -264,3 +265,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/)
 * [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+* [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)
