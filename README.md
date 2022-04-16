@@ -132,6 +132,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 * [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)
 * [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+* [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 
 
 ### Exercise Templates for Various Languages
@@ -268,3 +269,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 * [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)
 * [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+* [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
