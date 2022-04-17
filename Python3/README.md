@@ -140,3 +140,4 @@ Replace `template` with the correct problem name.
 * [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
 * [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
+* [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
