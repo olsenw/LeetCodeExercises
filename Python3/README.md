@@ -141,3 +141,4 @@ Replace `template` with the correct problem name.
 * [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+* [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
