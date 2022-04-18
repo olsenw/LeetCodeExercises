@@ -136,6 +136,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+* [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
 
 ### Exercise Templates for Various Languages
@@ -276,3 +277,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+* [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
