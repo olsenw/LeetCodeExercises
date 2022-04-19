@@ -143,3 +143,4 @@ Replace `template` with the correct problem name.
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+* [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
