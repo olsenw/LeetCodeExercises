@@ -144,3 +144,4 @@ Replace `template` with the correct problem name.
 * [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 * [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+* [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
