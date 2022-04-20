@@ -145,3 +145,4 @@ Replace `template` with the correct problem name.
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 * [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 * [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
+* [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
