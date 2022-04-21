@@ -140,6 +140,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 * [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+* [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 
 
 ### Exercise Templates for Various Languages
@@ -284,3 +285,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 * [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+* [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
