@@ -148,3 +148,4 @@ Replace `template` with the correct problem name.
 * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 * [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 * [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
+* [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
