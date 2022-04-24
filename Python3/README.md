@@ -149,3 +149,4 @@ Replace `template` with the correct problem name.
 * [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 * [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
 * [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+* [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
