@@ -146,6 +146,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
 * [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
 * [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+* [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
 
 
 ### Exercise Templates for Various Languages
@@ -296,3 +297,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
 * [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
 * [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+* [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
