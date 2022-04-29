@@ -154,3 +154,4 @@ Replace `template` with the correct problem name.
 * [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+* [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
