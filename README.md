@@ -149,6 +149,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
 * [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+* [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
 
 ### Exercise Templates for Various Languages
@@ -302,3 +303,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
 * [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+* [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
