@@ -150,6 +150,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
 * [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
 * [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+* [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
 
 ### Exercise Templates for Various Languages
@@ -304,3 +305,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
 * [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
 * [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+* [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
