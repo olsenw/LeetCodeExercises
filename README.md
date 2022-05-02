@@ -151,6 +151,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
 * [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+* [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 
 
 ### Exercise Templates for Various Languages
@@ -306,3 +307,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
 * [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+* [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
