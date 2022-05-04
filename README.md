@@ -153,6 +153,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 * [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+* [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 
 
 ### Exercise Templates for Various Languages
@@ -310,3 +311,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 * [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+* [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
