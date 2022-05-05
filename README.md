@@ -154,6 +154,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 * [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+* [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 
 
 ### Exercise Templates for Various Languages
@@ -312,3 +313,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 * [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+* [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
