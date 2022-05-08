@@ -163,3 +163,4 @@ Replace `template` with the correct problem name.
 * [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 * [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 * [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+* [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
