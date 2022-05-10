@@ -159,6 +159,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
 * [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 * [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+* [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 
 
 ### Exercise Templates for Various Languages
@@ -322,3 +323,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
 * [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 * [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+* [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
