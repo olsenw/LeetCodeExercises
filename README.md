@@ -160,6 +160,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 * [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+* [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 
 
 ### Exercise Templates for Various Languages
@@ -324,3 +325,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 * [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+* [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
