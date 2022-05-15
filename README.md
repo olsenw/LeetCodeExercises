@@ -164,6 +164,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 * [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+* [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 
 
 ### Exercise Templates for Various Languages
@@ -332,3 +333,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 * [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+* [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
