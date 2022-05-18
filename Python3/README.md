@@ -173,3 +173,4 @@ Replace `template` with the correct problem name.
 * [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 * [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 * [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
+* [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
