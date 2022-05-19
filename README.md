@@ -168,6 +168,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 * [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 * [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+* [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
 
 ### Exercise Templates for Various Languages
@@ -340,3 +341,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 * [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 * [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+* [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
