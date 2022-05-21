@@ -176,3 +176,4 @@ Replace `template` with the correct problem name.
 * [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
 * [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+* [322. Coin Change](https://leetcode.com/problems/coin-change/)
