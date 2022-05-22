@@ -171,6 +171,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
+* [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
 
 ### Exercise Templates for Various Languages
@@ -346,3 +347,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
+* [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)

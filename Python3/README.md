@@ -177,3 +177,4 @@ Replace `template` with the correct problem name.
 * [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
+* [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
