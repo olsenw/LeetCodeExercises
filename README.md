@@ -172,6 +172,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+* [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 
 
 ### Exercise Templates for Various Languages
@@ -348,3 +349,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+* [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)

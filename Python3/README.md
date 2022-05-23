@@ -178,3 +178,4 @@ Replace `template` with the correct problem name.
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+* [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
