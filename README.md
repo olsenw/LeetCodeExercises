@@ -173,6 +173,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+* [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
 
 ### Exercise Templates for Various Languages
@@ -350,3 +351,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+* [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)

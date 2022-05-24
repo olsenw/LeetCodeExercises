@@ -179,3 +179,4 @@ Replace `template` with the correct problem name.
 * [322. Coin Change](https://leetcode.com/problems/coin-change/)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+* [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
