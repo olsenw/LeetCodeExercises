@@ -174,6 +174,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 * [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+* [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 
 
 ### Exercise Templates for Various Languages
@@ -352,3 +353,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 * [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+* [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
