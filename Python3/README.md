@@ -181,3 +181,4 @@ Replace `template` with the correct problem name.
 * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 * [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 * [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+* [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
