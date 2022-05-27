@@ -176,6 +176,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 * [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 * [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+* [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
 
 ### Exercise Templates for Various Languages
@@ -356,3 +357,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 * [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 * [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+* [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
