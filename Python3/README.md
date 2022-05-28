@@ -183,3 +183,4 @@ Replace `template` with the correct problem name.
 * [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 * [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 * [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+* [268. Missing Number](https://leetcode.com/problems/missing-number/)
