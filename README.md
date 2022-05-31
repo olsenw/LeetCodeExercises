@@ -180,6 +180,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [268. Missing Number](https://leetcode.com/problems/missing-number/)
 * [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+* [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 
 
 ### Exercise Templates for Various Languages
@@ -364,3 +365,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [268. Missing Number](https://leetcode.com/problems/missing-number/)
 * [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+* [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
