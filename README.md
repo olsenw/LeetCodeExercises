@@ -181,6 +181,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 * [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
+* [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 
 
 ### Exercise Templates for Various Languages
@@ -366,3 +367,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 * [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
+* [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
