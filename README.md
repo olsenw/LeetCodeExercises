@@ -182,6 +182,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 * [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+* [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 
 
 ### Exercise Templates for Various Languages
@@ -368,3 +369,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 * [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+* [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
