@@ -189,3 +189,4 @@ Replace `template` with the correct problem name.
 * [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 * [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+* [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
