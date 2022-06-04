@@ -184,6 +184,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 * [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+* [51. N-Queens](https://leetcode.com/problems/n-queens/)
 
 
 ### Exercise Templates for Various Languages
@@ -372,3 +373,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 * [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+* [51. N-Queens](https://leetcode.com/problems/n-queens/)
