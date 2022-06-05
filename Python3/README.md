@@ -191,3 +191,5 @@ Replace `template` with the correct problem name.
 * [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 * [51. N-Queens](https://leetcode.com/problems/n-queens/)
+* [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+
