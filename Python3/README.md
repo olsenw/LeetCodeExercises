@@ -193,3 +193,4 @@ Replace `template` with the correct problem name.
 * [51. N-Queens](https://leetcode.com/problems/n-queens/)
 * [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 * [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)

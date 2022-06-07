@@ -187,6 +187,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [51. N-Queens](https://leetcode.com/problems/n-queens/)
 * [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 * [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 
 ### Exercise Templates for Various Languages
@@ -378,3 +379,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [51. N-Queens](https://leetcode.com/problems/n-queens/)
 * [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 * [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
