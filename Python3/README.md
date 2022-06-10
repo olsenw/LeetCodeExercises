@@ -196,3 +196,4 @@ Replace `template` with the correct problem name.
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 * [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
 * [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
