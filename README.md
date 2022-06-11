@@ -191,6 +191,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
 * [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+* [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 
 
 ### Exercise Templates for Various Languages
@@ -386,3 +387,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
 * [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+* [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
