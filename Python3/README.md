@@ -198,3 +198,4 @@ Replace `template` with the correct problem name.
 * [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+* [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
