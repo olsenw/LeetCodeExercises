@@ -199,3 +199,4 @@ Replace `template` with the correct problem name.
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
+* [120. Triangle](https://leetcode.com/problems/triangle/)
