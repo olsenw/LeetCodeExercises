@@ -194,6 +194,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 * [120. Triangle](https://leetcode.com/problems/triangle/)
+* [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 
 
 ### Exercise Templates for Various Languages
@@ -392,3 +393,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 * [120. Triangle](https://leetcode.com/problems/triangle/)
+* [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
