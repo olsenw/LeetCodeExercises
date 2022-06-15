@@ -201,3 +201,4 @@ Replace `template` with the correct problem name.
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 * [120. Triangle](https://leetcode.com/problems/triangle/)
 * [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+* [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
