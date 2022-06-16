@@ -202,3 +202,4 @@ Replace `template` with the correct problem name.
 * [120. Triangle](https://leetcode.com/problems/triangle/)
 * [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)

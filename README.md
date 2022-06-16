@@ -196,6 +196,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [120. Triangle](https://leetcode.com/problems/triangle/)
 * [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
 ### Exercise Templates for Various Languages
@@ -396,3 +397,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [120. Triangle](https://leetcode.com/problems/triangle/)
 * [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
