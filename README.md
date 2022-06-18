@@ -198,6 +198,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+* [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
 
 
 ### Exercise Templates for Various Languages
@@ -400,3 +401,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+* [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
