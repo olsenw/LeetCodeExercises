@@ -206,3 +206,4 @@ Replace `template` with the correct problem name.
 * [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
 * [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+* [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
