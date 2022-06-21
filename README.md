@@ -201,6 +201,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 * [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
+* [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/submissions/)
 
 
 ### Exercise Templates for Various Languages
@@ -406,3 +407,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 * [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
+* [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/submissions/)
