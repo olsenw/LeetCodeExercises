@@ -202,6 +202,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 * [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
 * [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/submissions/)
+* [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 
 ### Exercise Templates for Various Languages
@@ -408,3 +409,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 * [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
 * [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/submissions/)
+* [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
