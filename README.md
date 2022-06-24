@@ -204,6 +204,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/submissions/)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 * [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
+* [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 
 
 ### Exercise Templates for Various Languages
@@ -412,3 +413,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/submissions/)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 * [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
+* [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)

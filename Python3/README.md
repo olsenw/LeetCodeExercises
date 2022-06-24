@@ -210,3 +210,4 @@ Replace `template` with the correct problem name.
 * [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/submissions/)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 * [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
+* [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
