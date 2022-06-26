@@ -212,3 +212,4 @@ Replace `template` with the correct problem name.
 * [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
 * [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 * [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
+* [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
