@@ -215,3 +215,4 @@ Replace `template` with the correct problem name.
 * [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 * [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 * [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+* [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
