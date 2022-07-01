@@ -211,6 +211,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 * [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 * [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
+* [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
 
 ### Exercise Templates for Various Languages
@@ -426,3 +427,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 * [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 * [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
+* [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
