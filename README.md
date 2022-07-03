@@ -213,6 +213,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 * [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 * [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
+* [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
 
 
 ### Exercise Templates for Various Languages
@@ -430,3 +431,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 * [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 * [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
+* [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
