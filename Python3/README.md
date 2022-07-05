@@ -221,3 +221,4 @@ Replace `template` with the correct problem name.
 * [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
 * [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
 * [135. Candy](https://leetcode.com/problems/candy/)
+* [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
