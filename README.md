@@ -218,6 +218,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 * [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)
+* [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
 
 
 ### Exercise Templates for Various Languages
@@ -440,3 +441,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 * [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)
+* [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
