@@ -228,6 +228,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 * [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
 * [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
+* [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 
 
 ### Exercise Templates for Various Languages
@@ -460,3 +461,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 * [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
 * [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
+* [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
