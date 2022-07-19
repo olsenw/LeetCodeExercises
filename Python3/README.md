@@ -235,3 +235,4 @@ Replace `template` with the correct problem name.
 * [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
 * [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
 * [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+* [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
