@@ -230,6 +230,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
 * [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+* [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
 
 
 ### Exercise Templates for Various Languages
@@ -464,3 +465,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
 * [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+* [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
