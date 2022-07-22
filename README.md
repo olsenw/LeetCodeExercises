@@ -232,6 +232,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 * [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+* [86. Partition List](https://leetcode.com/problems/partition-list/)
 
 
 ### Exercise Templates for Various Languages
@@ -468,3 +469,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 * [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+* [86. Partition List](https://leetcode.com/problems/partition-list/)
