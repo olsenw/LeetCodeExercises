@@ -239,3 +239,4 @@ Replace `template` with the correct problem name.
 * [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 * [86. Partition List](https://leetcode.com/problems/partition-list/)
+* [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
