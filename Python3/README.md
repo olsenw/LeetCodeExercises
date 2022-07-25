@@ -241,3 +241,4 @@ Replace `template` with the correct problem name.
 * [86. Partition List](https://leetcode.com/problems/partition-list/)
 * [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 * [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+* [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
