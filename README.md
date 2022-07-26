@@ -236,6 +236,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 * [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 
 ### Exercise Templates for Various Languages
@@ -476,3 +477,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 * [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
