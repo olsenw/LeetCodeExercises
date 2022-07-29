@@ -239,6 +239,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/)
+* [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 
 
 ### Exercise Templates for Various Languages
@@ -482,3 +483,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/)
+* [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
