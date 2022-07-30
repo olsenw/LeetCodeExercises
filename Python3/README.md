@@ -246,3 +246,4 @@ Replace `template` with the correct problem name.
 * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/)
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
+* [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
