@@ -241,6 +241,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/)
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+* [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 
 
 ### Exercise Templates for Various Languages
@@ -486,3 +487,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/)
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+* [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
