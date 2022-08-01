@@ -242,6 +242,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+* [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 
 
 ### Exercise Templates for Various Languages
@@ -488,3 +489,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+* [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
