@@ -249,3 +249,4 @@ Replace `template` with the correct problem name.
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
+* [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
