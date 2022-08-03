@@ -244,6 +244,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 * [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+* [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
 
 
 ### Exercise Templates for Various Languages
@@ -492,3 +493,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 * [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+* [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
