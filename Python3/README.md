@@ -251,3 +251,4 @@ Replace `template` with the correct problem name.
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 * [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 * [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+* [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
