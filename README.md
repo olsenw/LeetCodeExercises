@@ -245,6 +245,11 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 * [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 * [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+* [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
+* [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+* [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+* [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
+* [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 * [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
 
 
@@ -495,4 +500,9 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 * [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 * [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+* [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
+* [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+* [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+* [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
+* [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 * [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
