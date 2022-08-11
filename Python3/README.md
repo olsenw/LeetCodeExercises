@@ -258,3 +258,4 @@ Replace `template` with the correct problem name.
 * [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 * [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
