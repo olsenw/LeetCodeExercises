@@ -254,6 +254,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 
 ### Exercise Templates for Various Languages
@@ -512,3 +513,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
