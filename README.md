@@ -258,6 +258,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
 * [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+* [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 
 
 ### Exercise Templates for Various Languages
@@ -520,3 +521,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
 * [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+* [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
