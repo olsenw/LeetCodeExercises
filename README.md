@@ -259,6 +259,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+* [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 
 
 ### Exercise Templates for Various Languages
@@ -522,3 +523,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+* [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
