@@ -266,3 +266,4 @@ Replace `template` with the correct problem name.
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 * [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+* [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
