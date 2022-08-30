@@ -262,6 +262,11 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 * [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
 
+* [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+* [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+* [48. Rotate Image][https://leetcode.com/problems/rotate-image/]
+
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -526,3 +531,8 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 * [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 * [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+
+* [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+* [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+* [48. Rotate Image][https://leetcode.com/problems/rotate-image/]
