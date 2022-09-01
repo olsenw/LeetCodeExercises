@@ -273,3 +273,4 @@ Replace `template` with the correct problem name.
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 * [48. Rotate Image][https://leetcode.com/problems/rotate-image/]
 * [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+* [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)

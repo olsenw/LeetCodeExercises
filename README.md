@@ -267,6 +267,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 * [48. Rotate Image][https://leetcode.com/problems/rotate-image/]
 * [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+* [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 
 
 ### Exercise Templates for Various Languages
@@ -538,3 +539,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 * [48. Rotate Image][https://leetcode.com/problems/rotate-image/]
 * [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+* [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
