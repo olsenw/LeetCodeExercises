@@ -284,3 +284,4 @@ Replace `template` with the correct problem name.
 * [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 * [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 * [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+* [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
