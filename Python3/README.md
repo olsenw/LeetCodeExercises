@@ -285,3 +285,4 @@ Replace `template` with the correct problem name.
 * [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 * [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 * [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
+* [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
