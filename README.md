@@ -281,6 +281,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
 * [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+* [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 
 
 ### Exercise Templates for Various Languages
@@ -566,3 +567,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
 * [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+* [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
