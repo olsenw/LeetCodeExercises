@@ -288,3 +288,4 @@ Replace `template` with the correct problem name.
 * [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+* [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
