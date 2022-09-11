@@ -289,3 +289,4 @@ Replace `template` with the correct problem name.
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+* [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
