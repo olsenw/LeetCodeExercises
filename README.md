@@ -284,6 +284,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 * [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+* [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
 
 
 ### Exercise Templates for Various Languages
@@ -572,3 +573,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 * [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+* [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
