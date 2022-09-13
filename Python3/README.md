@@ -291,3 +291,4 @@ Replace `template` with the correct problem name.
 * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 * [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
 * [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+* [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
