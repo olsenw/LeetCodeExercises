@@ -286,6 +286,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
 * [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+* [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 
 
 ### Exercise Templates for Various Languages
@@ -576,3 +577,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
 * [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+* [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
