@@ -293,3 +293,4 @@ Replace `template` with the correct problem name.
 * [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
 * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+* [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)
