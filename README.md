@@ -288,6 +288,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
 * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 * [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)
+* [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
 
 
 ### Exercise Templates for Various Languages
@@ -580,3 +581,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
 * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 * [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)
+* [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
