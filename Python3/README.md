@@ -295,3 +295,4 @@ Replace `template` with the correct problem name.
 * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 * [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)
 * [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
+* [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
