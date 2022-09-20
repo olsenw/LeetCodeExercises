@@ -296,3 +296,4 @@ Replace `template` with the correct problem name.
 * [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)
 * [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
 * [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
+* [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
