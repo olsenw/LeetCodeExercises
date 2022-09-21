@@ -291,6 +291,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
 * [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 * [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+* [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 
 
 ### Exercise Templates for Various Languages
@@ -586,3 +587,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
 * [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 * [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+* [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
