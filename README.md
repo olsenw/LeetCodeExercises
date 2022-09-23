@@ -293,6 +293,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 * [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+* [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
 
 
 ### Exercise Templates for Various Languages
@@ -590,3 +591,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 * [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+* [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
