@@ -297,6 +297,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 * [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
 * [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+* [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 
 
 ### Exercise Templates for Various Languages
@@ -598,3 +599,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 * [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
 * [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+* [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)

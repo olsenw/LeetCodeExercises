@@ -303,3 +303,4 @@ Replace `template` with the correct problem name.
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 * [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
 * [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+* [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
