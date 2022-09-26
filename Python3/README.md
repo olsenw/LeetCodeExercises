@@ -304,3 +304,4 @@ Replace `template` with the correct problem name.
 * [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
 * [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+* [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
