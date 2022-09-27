@@ -299,6 +299,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 * [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
+* [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)
 
 
 ### Exercise Templates for Various Languages
@@ -602,3 +603,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 * [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
+* [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)
