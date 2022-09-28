@@ -306,3 +306,4 @@ Replace `template` with the correct problem name.
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 * [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
