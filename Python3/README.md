@@ -307,3 +307,4 @@ Replace `template` with the correct problem name.
 * [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+* [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
