@@ -303,6 +303,8 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 * [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
+* [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -608,3 +610,5 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 * [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+
+* [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
