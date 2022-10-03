@@ -304,6 +304,8 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 * [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
 * [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+* [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
+* [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 
 
 ### Exercise Templates for Various Languages
@@ -612,3 +614,5 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 * [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
 * [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+* [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
+* [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
