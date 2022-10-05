@@ -313,3 +313,4 @@ Replace `template` with the correct problem name.
 * [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
 * [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 * [112. Path Sum](https://leetcode.com/problems/path-sum/)
+* [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
