@@ -316,3 +316,4 @@ Replace `template` with the correct problem name.
 * [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
 * [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 * [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
+* [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
