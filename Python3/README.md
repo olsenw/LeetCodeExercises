@@ -317,3 +317,4 @@ Replace `template` with the correct problem name.
 * [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 * [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
 * [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+* [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
