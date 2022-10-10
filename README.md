@@ -312,6 +312,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
 * [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 * [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+* [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
 
 
 ### Exercise Templates for Various Languages
@@ -628,3 +629,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
 * [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 * [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+* [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
