@@ -314,6 +314,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
 * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+* [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 
 
 ### Exercise Templates for Various Languages
@@ -632,3 +633,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
 * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+* [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
