@@ -321,3 +321,5 @@ Replace `template` with the correct problem name.
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
 * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+* [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
