@@ -316,6 +316,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+* [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
 
 ### Exercise Templates for Various Languages
@@ -636,3 +637,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+* [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
