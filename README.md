@@ -318,6 +318,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 * [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 * [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/)
+* [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 
 
 ### Exercise Templates for Various Languages
@@ -640,3 +641,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 * [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 * [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/)
+* [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
