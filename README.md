@@ -320,6 +320,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/)
 * [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 * [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+* [38. Count and Say](https://leetcode.com/problems/count-and-say/)
 
 
 ### Exercise Templates for Various Languages
@@ -644,3 +645,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/)
 * [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 * [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+* [38. Count and Say](https://leetcode.com/problems/count-and-say/)
