@@ -324,6 +324,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 * [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 * [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+* [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 
 ### Exercise Templates for Various Languages
@@ -652,3 +653,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 * [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 * [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+* [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
