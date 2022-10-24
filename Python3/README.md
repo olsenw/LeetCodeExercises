@@ -332,3 +332,4 @@ Replace `template` with the correct problem name.
 * [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 * [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 * [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+* [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
