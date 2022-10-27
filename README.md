@@ -329,6 +329,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 * [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 * [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+* [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
 
 
 ### Exercise Templates for Various Languages
@@ -662,3 +663,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 * [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 * [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+* [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
