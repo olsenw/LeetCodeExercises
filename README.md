@@ -330,6 +330,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 * [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
 * [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
+* [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 
 ### Exercise Templates for Various Languages
@@ -664,3 +665,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 * [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
 * [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
+* [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
