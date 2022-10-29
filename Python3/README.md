@@ -337,3 +337,4 @@ Replace `template` with the correct problem name.
 * [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
 * [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+* [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
