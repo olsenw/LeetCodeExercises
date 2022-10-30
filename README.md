@@ -332,6 +332,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 * [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
+* [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 
 
 ### Exercise Templates for Various Languages
@@ -668,3 +669,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 * [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
+* [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
