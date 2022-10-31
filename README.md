@@ -334,6 +334,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
 * [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 * [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
+* [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
 
 ### Exercise Templates for Various Languages
@@ -672,3 +673,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
 * [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 * [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
+* [1. Two Sum](https://leetcode.com/problems/two-sum/)
