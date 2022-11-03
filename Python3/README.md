@@ -343,3 +343,4 @@ Replace `template` with the correct problem name.
 * [1. Two Sum](https://leetcode.com/problems/two-sum/)
 * [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 * [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+* [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
