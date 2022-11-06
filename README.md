@@ -340,6 +340,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 * [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
+* [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/)
 
 
 ### Exercise Templates for Various Languages
@@ -684,3 +685,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 * [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
+* [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/)
