@@ -347,3 +347,4 @@ Replace `template` with the correct problem name.
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 * [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
 * [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+* [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
