@@ -343,6 +343,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/)
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 * [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/)
+* [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 
 
 ### Exercise Templates for Various Languages
@@ -690,3 +691,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/)
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 * [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/)
+* [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
