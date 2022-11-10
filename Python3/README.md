@@ -350,3 +350,4 @@ Replace `template` with the correct problem name.
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 * [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/)
 * [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+* [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
