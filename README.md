@@ -348,6 +348,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+* [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 
 
 ### Exercise Templates for Various Languages
@@ -700,3 +701,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+* [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
