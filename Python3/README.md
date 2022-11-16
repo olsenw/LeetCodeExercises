@@ -356,3 +356,4 @@ Replace `template` with the correct problem name.
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 * [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 * [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+* [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/)
