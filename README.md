@@ -352,6 +352,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/)
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+* [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 
 
 ### Exercise Templates for Various Languages
@@ -708,3 +709,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/)
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+* [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
