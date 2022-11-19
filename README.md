@@ -353,6 +353,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/)
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
+* [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
 
 
 ### Exercise Templates for Various Languages
@@ -710,3 +711,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/)
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
+* [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)

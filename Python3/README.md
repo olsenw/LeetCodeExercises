@@ -359,3 +359,4 @@ Replace `template` with the correct problem name.
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/)
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
+* [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
