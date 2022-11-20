@@ -354,6 +354,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 * [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+* [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
 
 ### Exercise Templates for Various Languages
@@ -712,3 +713,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 * [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+* [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)

@@ -360,3 +360,4 @@ Replace `template` with the correct problem name.
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 * [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+* [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
