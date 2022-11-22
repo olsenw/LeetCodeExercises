@@ -356,6 +356,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
 * [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 * [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
+* [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 
 
 ### Exercise Templates for Various Languages
@@ -716,3 +717,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
 * [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 * [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
+* [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
