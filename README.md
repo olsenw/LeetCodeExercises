@@ -357,6 +357,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 * [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 * [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 
 ### Exercise Templates for Various Languages
@@ -718,3 +719,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 * [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 * [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
