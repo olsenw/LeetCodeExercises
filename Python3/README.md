@@ -364,3 +364,4 @@ Replace `template` with the correct problem name.
 * [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 * [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+* [79. Word Search](https://leetcode.com/problems/word-search/)
