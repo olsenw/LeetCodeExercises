@@ -365,3 +365,4 @@ Replace `template` with the correct problem name.
 * [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 * [79. Word Search](https://leetcode.com/problems/word-search/)
+* [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
