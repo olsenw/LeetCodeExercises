@@ -366,3 +366,4 @@ Replace `template` with the correct problem name.
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 * [79. Word Search](https://leetcode.com/problems/word-search/)
 * [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+* [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
