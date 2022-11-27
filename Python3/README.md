@@ -367,3 +367,4 @@ Replace `template` with the correct problem name.
 * [79. Word Search](https://leetcode.com/problems/word-search/)
 * [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
 * [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+* [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
