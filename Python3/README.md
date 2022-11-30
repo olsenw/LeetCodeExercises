@@ -370,3 +370,4 @@ Replace `template` with the correct problem name.
 * [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
 * [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
 * [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+* [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
