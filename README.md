@@ -365,6 +365,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
 * [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+* [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 
 
 ### Exercise Templates for Various Languages
@@ -734,3 +735,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
 * [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+* [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
