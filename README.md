@@ -369,6 +369,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 * [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 * [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)
+* [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 
 ### Exercise Templates for Various Languages
@@ -742,3 +743,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 * [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 * [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)
+* [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
