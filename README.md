@@ -372,6 +372,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
+* [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -748,3 +749,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
+* [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
