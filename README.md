@@ -374,6 +374,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 * [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+* [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -752,3 +753,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 * [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+* [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)

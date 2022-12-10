@@ -380,3 +380,4 @@ Replace `template` with the correct problem name.
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 * [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+* [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
