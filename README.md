@@ -381,6 +381,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [198. House Robber](https://leetcode.com/problems/house-robber/description/)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
 * [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+* [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -766,3 +767,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [198. House Robber](https://leetcode.com/problems/house-robber/description/)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
 * [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+* [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
