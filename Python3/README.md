@@ -391,3 +391,4 @@ Replace `template` with the correct problem name.
 * [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 * [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 * [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+* [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)
