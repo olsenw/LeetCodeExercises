@@ -392,3 +392,5 @@ Replace `template` with the correct problem name.
 * [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 * [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
 * [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)
+* [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
+* [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
