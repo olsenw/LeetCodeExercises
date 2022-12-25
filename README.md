@@ -389,6 +389,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
 * [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+* [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -782,3 +783,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
 * [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+* [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
