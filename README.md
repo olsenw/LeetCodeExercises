@@ -391,6 +391,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 * [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
 * [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
+* [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -786,3 +787,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 * [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
 * [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
+* [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
