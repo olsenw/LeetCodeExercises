@@ -398,3 +398,4 @@ Replace `template` with the correct problem name.
 * [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
 * [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
 * [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
+* [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)
