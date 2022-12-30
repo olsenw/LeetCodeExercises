@@ -394,6 +394,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
 * [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)
 * [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)
+* [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -792,3 +793,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
 * [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)
 * [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)
+* [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
