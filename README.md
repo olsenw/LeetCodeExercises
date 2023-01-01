@@ -396,6 +396,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)
 * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
+* [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
 ### Exercise Templates for Various Languages
@@ -796,3 +797,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)
 * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
+* [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
