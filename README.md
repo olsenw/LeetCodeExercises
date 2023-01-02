@@ -397,6 +397,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+* [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -798,3 +799,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+* [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
