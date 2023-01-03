@@ -404,3 +404,4 @@ Replace `template` with the correct problem name.
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+* [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
