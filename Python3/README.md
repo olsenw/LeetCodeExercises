@@ -405,3 +405,4 @@ Replace `template` with the correct problem name.
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 * [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
+* [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
