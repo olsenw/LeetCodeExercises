@@ -400,6 +400,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 * [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
+* [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -804,3 +805,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 * [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
+* [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
