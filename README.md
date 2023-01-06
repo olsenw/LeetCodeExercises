@@ -401,6 +401,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+* [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -806,3 +807,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+* [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)

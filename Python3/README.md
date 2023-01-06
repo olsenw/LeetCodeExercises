@@ -407,3 +407,4 @@ Replace `template` with the correct problem name.
 * [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+* [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
