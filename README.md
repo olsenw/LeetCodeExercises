@@ -402,6 +402,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 * [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
+* [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -808,3 +809,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 * [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
+* [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
