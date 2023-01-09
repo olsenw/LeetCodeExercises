@@ -404,6 +404,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
 * [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -812,3 +813,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
 * [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
