@@ -412,3 +412,4 @@ Replace `template` with the correct problem name.
 * [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
+* [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
