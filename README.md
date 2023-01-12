@@ -407,6 +407,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 * [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
+* [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -818,3 +819,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 * [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
+* [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)
