@@ -418,3 +418,4 @@ Replace `template` with the correct problem name.
 * [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
 * [421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/description/)
 * [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)
+* [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)
