@@ -415,6 +415,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)
 * [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
 * [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
+* [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -834,3 +835,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)
 * [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
 * [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
+* [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)
