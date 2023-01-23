@@ -418,6 +418,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+* [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -840,3 +841,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+* [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
