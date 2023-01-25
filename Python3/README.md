@@ -426,3 +426,4 @@ Replace `template` with the correct problem name.
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
+* [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
