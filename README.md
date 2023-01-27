@@ -422,6 +422,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
 * [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+* [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -848,3 +849,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
 * [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+* [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
