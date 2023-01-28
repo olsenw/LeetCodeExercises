@@ -429,3 +429,4 @@ Replace `template` with the correct problem name.
 * [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 * [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
+* [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
