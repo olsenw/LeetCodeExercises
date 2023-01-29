@@ -424,6 +424,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 * [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
 * [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+* [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -852,3 +853,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 * [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
 * [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+* [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
