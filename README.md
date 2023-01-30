@@ -425,6 +425,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
 * [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 * [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
+* [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -854,3 +855,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
 * [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 * [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
+* [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
