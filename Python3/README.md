@@ -433,3 +433,4 @@ Replace `template` with the correct problem name.
 * [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 * [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
+* [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
