@@ -430,6 +430,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
 * [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 * [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+* [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -864,3 +865,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
 * [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 * [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+* [15. 3Sum](https://leetcode.com/problems/3sum/description/)
