@@ -438,3 +438,4 @@ Replace `template` with the correct problem name.
 * [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 * [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 * [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+* [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
