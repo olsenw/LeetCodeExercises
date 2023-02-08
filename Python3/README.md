@@ -440,3 +440,4 @@ Replace `template` with the correct problem name.
 * [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
 * [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
+* [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
