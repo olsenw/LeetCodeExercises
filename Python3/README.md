@@ -441,3 +441,4 @@ Replace `template` with the correct problem name.
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
 * [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+* [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
