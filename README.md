@@ -436,6 +436,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 * [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
+* [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -876,3 +877,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 * [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
+* [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)

@@ -442,3 +442,4 @@ Replace `template` with the correct problem name.
 * [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 * [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
+* [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
