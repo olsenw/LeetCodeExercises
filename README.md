@@ -438,6 +438,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
 * [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
 * [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
+* [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)
 * [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
 
 
@@ -881,4 +882,5 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
 * [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
 * [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
+* [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)
 * [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
