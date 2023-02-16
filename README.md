@@ -442,6 +442,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
 * [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 * [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
+* [2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -888,3 +889,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
 * [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 * [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
+* [2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/)
