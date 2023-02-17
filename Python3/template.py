@@ -4,7 +4,7 @@ import unittest
 
 # required for type hinting
 # https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
-from typing import List, Dict, Set
+from typing import List, Dict, Set, Optional
 
 class Solution:
     def problem_name(self, arg1: List[int]) -> int:
