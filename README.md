@@ -446,6 +446,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+* [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -896,3 +897,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+* [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/)
