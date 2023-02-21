@@ -453,3 +453,4 @@ Replace `template` with the correct problem name.
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 * [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/)
+* [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
