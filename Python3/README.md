@@ -457,3 +457,4 @@ Replace `template` with the correct problem name.
 * [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 * [502. IPO](https://leetcode.com/problems/ipo/description/)
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+* [66. Plus One](https://leetcode.com/problems/plus-one/description/)
