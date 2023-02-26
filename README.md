@@ -452,6 +452,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [502. IPO](https://leetcode.com/problems/ipo/description/)
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
+* [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -908,3 +909,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [502. IPO](https://leetcode.com/problems/ipo/description/)
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
+* [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
