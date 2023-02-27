@@ -453,6 +453,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+* [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -910,3 +911,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+* [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)

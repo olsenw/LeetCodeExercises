@@ -459,3 +459,4 @@ Replace `template` with the correct problem name.
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+* [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)
