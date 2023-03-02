@@ -456,6 +456,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)
 * [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
 * [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
+* [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -916,3 +917,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)
 * [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
 * [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
+* [443. String Compression](https://leetcode.com/problems/string-compression/description/)
