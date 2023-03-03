@@ -463,3 +463,4 @@ Replace `template` with the correct problem name.
 * [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
 * [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
+* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
