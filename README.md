@@ -458,6 +458,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+* [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -920,3 +921,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+* [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)
