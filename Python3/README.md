@@ -466,3 +466,4 @@ Replace `template` with the correct problem name.
 * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 * [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+* [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
