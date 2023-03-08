@@ -468,3 +468,4 @@ Replace `template` with the correct problem name.
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
 * [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)
+* [46. Permutations](https://leetcode.com/problems/permutations/description/)

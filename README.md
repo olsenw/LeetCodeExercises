@@ -462,6 +462,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
 * [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)
+* [46. Permutations](https://leetcode.com/problems/permutations/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -928,3 +929,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
 * [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)
+* [46. Permutations](https://leetcode.com/problems/permutations/description/)
