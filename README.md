@@ -464,6 +464,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)
 * [46. Permutations](https://leetcode.com/problems/permutations/description/)
 * [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
+* [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -932,3 +933,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)
 * [46. Permutations](https://leetcode.com/problems/permutations/description/)
 * [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
+* [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)
