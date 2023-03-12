@@ -466,6 +466,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
 * [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)
 * [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
+* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
 
 ### Exercise Templates for Various Languages
@@ -936,3 +937,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
 * [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)
 * [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
+* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
