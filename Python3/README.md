@@ -477,3 +477,4 @@ Replace `template` with the correct problem name.
 * [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+* [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
