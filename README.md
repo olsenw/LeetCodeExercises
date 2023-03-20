@@ -472,6 +472,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 * [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
+* [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -948,3 +949,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 * [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
+* [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
