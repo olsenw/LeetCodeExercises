@@ -480,3 +480,4 @@ Replace `template` with the correct problem name.
 * [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
 * [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
 * [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
+* [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
