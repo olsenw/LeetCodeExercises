@@ -475,6 +475,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
 * [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
 * [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
+* [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -954,3 +955,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
 * [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
 * [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
+* [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
