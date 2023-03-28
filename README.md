@@ -480,6 +480,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/)
 * [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
+* [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -964,3 +965,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/)
 * [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
+* [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
