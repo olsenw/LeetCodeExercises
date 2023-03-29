@@ -487,3 +487,4 @@ Replace `template` with the correct problem name.
 * [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
 * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+* [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
