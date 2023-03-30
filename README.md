@@ -482,6 +482,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
 * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
+* [87. Scramble String](https://leetcode.com/problems/scramble-string/)
 
 
 ### Exercise Templates for Various Languages
@@ -968,3 +969,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
 * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
+* [87. Scramble String](https://leetcode.com/problems/scramble-string/)
