@@ -483,6 +483,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 * [87. Scramble String](https://leetcode.com/problems/scramble-string/)
+* [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -970,3 +971,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 * [87. Scramble String](https://leetcode.com/problems/scramble-string/)
+* [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)

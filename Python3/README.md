@@ -489,3 +489,5 @@ Replace `template` with the correct problem name.
 * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 * [87. Scramble String](https://leetcode.com/problems/scramble-string/)
+--- Backlog goes here ---
+* [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
