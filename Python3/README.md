@@ -491,3 +491,4 @@ Replace `template` with the correct problem name.
 * [87. Scramble String](https://leetcode.com/problems/scramble-string/)
 --- Backlog goes here ---
 * [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
+* [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)

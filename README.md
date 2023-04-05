@@ -484,6 +484,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 * [87. Scramble String](https://leetcode.com/problems/scramble-string/)
 * [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
+* [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -972,3 +973,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 * [87. Scramble String](https://leetcode.com/problems/scramble-string/)
 * [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
+* [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
