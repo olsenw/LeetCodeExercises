@@ -492,3 +492,4 @@ Replace `template` with the correct problem name.
 --- Backlog goes here ---
 * [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 * [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
+* [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
