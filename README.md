@@ -487,6 +487,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 * [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
 * [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
+* [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -978,3 +979,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 * [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
 * [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
+* [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
