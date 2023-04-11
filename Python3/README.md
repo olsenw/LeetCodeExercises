@@ -494,3 +494,4 @@ Replace `template` with the correct problem name.
 * [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
 * [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
 * [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
+* [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
