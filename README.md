@@ -491,6 +491,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 * [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
+* [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -986,3 +987,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 * [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
+* [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
