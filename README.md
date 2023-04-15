@@ -492,6 +492,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
 * [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
+* [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -988,3 +989,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
 * [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
+* [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/)
