@@ -501,3 +501,4 @@ Replace `template` with the correct problem name.
 * [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/)
 * [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/)
 * [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
+* [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
