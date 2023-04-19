@@ -496,6 +496,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/)
 * [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 * [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
+* [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -996,3 +997,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/)
 * [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 * [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
+* [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)
