@@ -503,3 +503,4 @@ Replace `template` with the correct problem name.
 * [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 * [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 * [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)
+* [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
