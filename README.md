@@ -498,6 +498,8 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 * [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)
 * [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+--- Backlog goes here ---
+* [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1000,3 +1002,5 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 * [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)
 * [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+--- Backlog goes here ---
+* [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
