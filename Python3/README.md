@@ -506,3 +506,4 @@ Replace `template` with the correct problem name.
 * [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 --- Backlog goes here ---
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+* [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
