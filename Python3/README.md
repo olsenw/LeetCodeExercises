@@ -507,3 +507,4 @@ Replace `template` with the correct problem name.
 --- Backlog goes here ---
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 * [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
+* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
