@@ -503,6 +503,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)
+* [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1010,3 +1011,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)
+* [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)
