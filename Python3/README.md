@@ -510,3 +510,4 @@ Replace `template` with the correct problem name.
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)
 * [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)
+* [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)

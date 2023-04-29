@@ -504,6 +504,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)
 * [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)
+* [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1012,3 +1013,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)
 * [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)
+* [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)
