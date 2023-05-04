@@ -515,3 +515,4 @@ Replace `template` with the correct problem name.
 * [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 * [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
 * [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
+* [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)
