@@ -511,6 +511,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 * [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
+* [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 
 
 ### Exercise Templates for Various Languages
@@ -1026,3 +1027,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 * [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
+* [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
