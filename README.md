@@ -514,6 +514,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 * [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
+* [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1032,3 +1033,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 * [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
+* [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
