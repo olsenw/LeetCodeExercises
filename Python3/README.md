@@ -521,3 +521,4 @@ Replace `template` with the correct problem name.
 * [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+* [77. Combinations](https://leetcode.com/problems/combinations/description/)
