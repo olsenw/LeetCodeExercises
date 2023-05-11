@@ -522,3 +522,4 @@ Replace `template` with the correct problem name.
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [77. Combinations](https://leetcode.com/problems/combinations/description/)
+* [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/)
