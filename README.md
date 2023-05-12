@@ -517,6 +517,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [77. Combinations](https://leetcode.com/problems/combinations/description/)
 * [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/)
+* [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1038,3 +1039,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [77. Combinations](https://leetcode.com/problems/combinations/description/)
 * [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/)
+* [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
