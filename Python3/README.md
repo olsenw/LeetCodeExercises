@@ -524,3 +524,4 @@ Replace `template` with the correct problem name.
 * [77. Combinations](https://leetcode.com/problems/combinations/description/)
 * [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/)
 * [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
+* [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/)
