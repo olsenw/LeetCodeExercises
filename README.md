@@ -520,7 +520,8 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
 * [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/)
 * [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
-* (58. Length of Last Word)[https://leetcode.com/problems/length-of-last-word/description/]
+* [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+* [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1045,4 +1046,5 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
 * [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/)
 * [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
-* (58. Length of Last Word)[https://leetcode.com/problems/length-of-last-word/description/]
+* [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+* [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
