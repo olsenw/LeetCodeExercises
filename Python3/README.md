@@ -528,3 +528,4 @@ Replace `template` with the correct problem name.
 * [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+* [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
