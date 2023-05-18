@@ -523,6 +523,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+* [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1050,3 +1051,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+* [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
