@@ -532,3 +532,4 @@ Replace `template` with the correct problem name.
 * [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
+* [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
