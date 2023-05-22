@@ -533,3 +533,4 @@ Replace `template` with the correct problem name.
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
+* [415. Add Strings](https://leetcode.com/problems/add-strings/description/)

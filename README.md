@@ -527,6 +527,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
+* [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1058,3 +1059,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
+* [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
