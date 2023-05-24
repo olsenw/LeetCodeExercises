@@ -529,6 +529,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+* [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1062,3 +1063,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+* [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
