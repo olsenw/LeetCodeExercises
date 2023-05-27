@@ -532,6 +532,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
 * [837. New 21 Game](https://leetcode.com/problems/new-21-game/description/)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)
+* [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1068,3 +1069,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
 * [837. New 21 Game](https://leetcode.com/problems/new-21-game/description/)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)
+* [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)

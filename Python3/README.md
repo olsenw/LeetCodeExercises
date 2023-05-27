@@ -538,3 +538,4 @@ Replace `template` with the correct problem name.
 * [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
 * [837. New 21 Game](https://leetcode.com/problems/new-21-game/description/)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)
+* [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
