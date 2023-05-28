@@ -533,6 +533,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [837. New 21 Game](https://leetcode.com/problems/new-21-game/description/)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)
 * [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
+* [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1070,3 +1071,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [837. New 21 Game](https://leetcode.com/problems/new-21-game/description/)
 * [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)
 * [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
+* [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
