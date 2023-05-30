@@ -535,6 +535,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
 * [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
+* [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 
 
 ### Exercise Templates for Various Languages
@@ -1074,3 +1075,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
 * [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
+* [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
