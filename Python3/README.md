@@ -542,3 +542,4 @@ Replace `template` with the correct problem name.
 * [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+* [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
