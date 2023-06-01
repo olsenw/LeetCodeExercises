@@ -537,6 +537,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+* [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1078,3 +1079,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+* [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
