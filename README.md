@@ -538,6 +538,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+ * [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1080,3 +1081,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+ * [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
