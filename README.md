@@ -538,8 +538,9 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
- * [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
- * [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
+* [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
+* [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
+* [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1082,5 +1083,6 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
- * [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
- * [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
+* [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
+* [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
+* [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
