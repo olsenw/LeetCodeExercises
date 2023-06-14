@@ -556,3 +556,4 @@ Replace `template` with the correct problem name.
 * [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
 * [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/)
 * [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
+* [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
