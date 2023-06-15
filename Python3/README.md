@@ -557,3 +557,4 @@ Replace `template` with the correct problem name.
 * [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/)
 * [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
+* [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)

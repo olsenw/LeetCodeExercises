@@ -551,6 +551,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/)
 * [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
+* [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1106,3 +1107,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/)
 * [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
+* [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
