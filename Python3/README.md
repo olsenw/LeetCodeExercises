@@ -559,3 +559,4 @@ Replace `template` with the correct problem name.
 * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
 * [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
 * [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
+* [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/)
