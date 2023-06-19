@@ -555,6 +555,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
 * [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/)
 * [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/)
+* [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1114,3 +1115,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
 * [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/)
 * [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/)
+* [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
