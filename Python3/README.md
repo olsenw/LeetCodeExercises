@@ -563,3 +563,4 @@ Replace `template` with the correct problem name.
 * [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/)
 * [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
 * [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/)
+* [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/description/)
