@@ -565,3 +565,4 @@ Replace `template` with the correct problem name.
 * [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/)
 * [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/description/)
 * [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
+* [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/)
