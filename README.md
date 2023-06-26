@@ -562,6 +562,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/)
 * [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/description/)
 * [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
+* [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1128,3 +1129,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/)
 * [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/description/)
 * [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
+* [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
