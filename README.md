@@ -564,6 +564,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
 * [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
 * [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
+* [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1132,3 +1133,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
 * [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
 * [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
+* [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
