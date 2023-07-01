@@ -567,6 +567,9 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 
 
+* [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
+
+
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
 
@@ -1134,3 +1137,6 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
 * [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
 * [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+
+
+* [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
