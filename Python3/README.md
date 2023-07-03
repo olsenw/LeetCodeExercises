@@ -574,3 +574,5 @@ Replace `template` with the correct problem name.
 
 
 * [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
+
+* [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
