@@ -577,3 +577,4 @@ Replace `template` with the correct problem name.
 
 * [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
 * [137. Single Number II](https://leetcode.com/problems/single-number-ii/description/)
+* [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
