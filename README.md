@@ -575,6 +575,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 * [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)
 * [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)
+* [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1154,3 +1155,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 * [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)
 * [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)
+* [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
