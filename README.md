@@ -578,6 +578,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
+* [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1160,3 +1161,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
+* [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
