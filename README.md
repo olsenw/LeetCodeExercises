@@ -579,6 +579,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 * [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
+* [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1162,3 +1163,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 * [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
+* [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
