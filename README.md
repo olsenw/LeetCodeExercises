@@ -580,6 +580,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 * [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
 * [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+* [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1164,3 +1165,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 * [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
 * [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+* [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)
