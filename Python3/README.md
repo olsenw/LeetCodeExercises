@@ -587,3 +587,4 @@ Replace `template` with the correct problem name.
 * [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
 * [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 * [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)
+* [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/)
