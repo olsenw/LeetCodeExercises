@@ -590,3 +590,4 @@ Replace `template` with the correct problem name.
 * [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/)
 * [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
+* [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
