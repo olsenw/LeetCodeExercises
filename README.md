@@ -585,6 +585,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+* [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1174,3 +1175,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+* [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)

@@ -591,3 +591,4 @@ Replace `template` with the correct problem name.
 * [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+* [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
