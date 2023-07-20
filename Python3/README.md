@@ -592,3 +592,4 @@ Replace `template` with the correct problem name.
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
+* [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
