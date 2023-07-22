@@ -588,6 +588,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
 * [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
+* [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1180,3 +1181,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
 * [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
+* [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
