@@ -596,3 +596,4 @@ Replace `template` with the correct problem name.
 * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
 * [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)
+* [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
