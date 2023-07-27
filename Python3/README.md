@@ -598,3 +598,4 @@ Replace `template` with the correct problem name.
 * [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)
 * [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 * [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/)
+* [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/)
