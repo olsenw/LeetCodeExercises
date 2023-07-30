@@ -601,3 +601,4 @@ Replace `template` with the correct problem name.
 * [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/)
 * [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
 * [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/)
+* [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/)
