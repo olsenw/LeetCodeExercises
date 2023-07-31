@@ -596,6 +596,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
 * [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/)
 * [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/)
+* [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1196,3 +1197,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
 * [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/)
 * [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/)
+* [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
