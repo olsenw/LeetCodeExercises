@@ -597,6 +597,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/)
 * [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/)
 * [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
+* [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1198,3 +1199,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/)
 * [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/)
 * [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
+* [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
