@@ -604,3 +604,4 @@ Replace `template` with the correct problem name.
 * [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/)
 * [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
 * [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+* [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
