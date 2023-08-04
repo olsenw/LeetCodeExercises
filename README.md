@@ -600,6 +600,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 * [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+* [139. Word Break](https://leetcode.com/problems/word-break/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1204,3 +1205,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 * [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+* [139. Word Break](https://leetcode.com/problems/word-break/description/)
