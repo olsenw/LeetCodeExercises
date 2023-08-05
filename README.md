@@ -601,6 +601,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 * [139. Word Break](https://leetcode.com/problems/word-break/description/)
+* [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1206,3 +1207,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 * [139. Word Break](https://leetcode.com/problems/word-break/description/)
+* [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
