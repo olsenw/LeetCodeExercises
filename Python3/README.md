@@ -608,4 +608,4 @@ Replace `template` with the correct problem name.
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 * [139. Word Break](https://leetcode.com/problems/word-break/description/)
 * [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
-
+* [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/)
