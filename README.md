@@ -603,6 +603,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [139. Word Break](https://leetcode.com/problems/word-break/description/)
 * [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 * [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/)
+* [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1210,3 +1211,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [139. Word Break](https://leetcode.com/problems/word-break/description/)
 * [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 * [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/)
+* [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
