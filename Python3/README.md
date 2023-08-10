@@ -612,3 +612,4 @@ Replace `template` with the correct problem name.
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 * [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)
+* [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
