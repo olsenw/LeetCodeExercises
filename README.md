@@ -608,6 +608,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)
 * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 * [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)
+* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1220,3 +1221,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)
 * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 * [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)
+* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
