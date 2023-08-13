@@ -609,6 +609,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 * [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+* [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1222,3 +1223,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 * [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+* [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/)
