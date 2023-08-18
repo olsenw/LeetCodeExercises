@@ -619,3 +619,4 @@ Replace `template` with the correct problem name.
 * [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 * [542. 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
+* [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
