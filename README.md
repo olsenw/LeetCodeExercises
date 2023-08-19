@@ -614,6 +614,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 * [542. 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 * [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
+* [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1232,3 +1233,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 * [542. 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 * [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
+* [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
