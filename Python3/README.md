@@ -624,3 +624,4 @@ Replace `template` with the correct problem name.
 * [1203. Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/)
 * [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)
 * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+* [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
