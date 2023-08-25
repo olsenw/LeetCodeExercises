@@ -626,3 +626,4 @@ Replace `template` with the correct problem name.
 * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
 * [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
 * [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
+* [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
