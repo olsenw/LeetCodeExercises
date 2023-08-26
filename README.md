@@ -621,6 +621,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
 * [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+* [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1246,3 +1247,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
 * [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+* [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
