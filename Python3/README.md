@@ -628,3 +628,4 @@ Replace `template` with the correct problem name.
 * [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
+* [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
