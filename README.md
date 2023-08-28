@@ -623,6 +623,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 * [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
+* [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1250,3 +1251,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 * [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
+* [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)

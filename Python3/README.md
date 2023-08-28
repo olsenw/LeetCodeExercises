@@ -629,3 +629,4 @@ Replace `template` with the correct problem name.
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 * [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
+* [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
