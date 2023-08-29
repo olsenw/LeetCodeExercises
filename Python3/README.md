@@ -630,3 +630,4 @@ Replace `template` with the correct problem name.
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 * [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
 * [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
+* [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/)
