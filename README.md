@@ -625,6 +625,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
 * [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
 * [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/)
+* [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1254,3 +1255,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
 * [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
 * [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/)
+* [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)

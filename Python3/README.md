@@ -631,3 +631,4 @@ Replace `template` with the correct problem name.
 * [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
 * [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
 * [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/)
+* [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
