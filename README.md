@@ -627,6 +627,8 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/)
 * [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
 
+* [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -1256,3 +1258,5 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
 * [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/)
 * [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
+
+* [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
