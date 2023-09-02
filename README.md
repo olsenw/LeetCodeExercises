@@ -628,6 +628,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
 
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+* [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1260,3 +1261,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
 
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+* [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)

@@ -634,3 +634,4 @@ Replace `template` with the correct problem name.
 * [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
 
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+* [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)
