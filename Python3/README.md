@@ -637,3 +637,4 @@ Replace `template` with the correct problem name.
 * [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)
 * [1370. Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/)
 * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
+* [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/description/)
