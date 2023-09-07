@@ -633,6 +633,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
 * [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/description/)
 * [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
+* [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1270,3 +1271,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
 * [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/description/)
 * [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
+* [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
