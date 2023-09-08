@@ -634,6 +634,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/description/)
 * [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
 * [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
+* [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1272,3 +1273,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/description/)
 * [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
 * [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
+* [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description/)
