@@ -565,6 +565,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
 * [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
 * [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+* [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)
 
 
 * [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
@@ -1276,3 +1277,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 * [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+* [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)

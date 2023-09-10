@@ -642,3 +642,4 @@ Replace `template` with the correct problem name.
 * [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 * [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+* [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)
