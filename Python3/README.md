@@ -643,3 +643,4 @@ Replace `template` with the correct problem name.
 * [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 * [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)
+* [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/?envType=daily-question&envId=2023-09-11)
