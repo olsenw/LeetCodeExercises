@@ -646,3 +646,6 @@ Replace `template` with the correct problem name.
 * [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/?envType=daily-question&envId=2023-09-11)
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 * [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/)
+* [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/?envType=daily-question&envId=2023-09-14)
+* [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
+* [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
