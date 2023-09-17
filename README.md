@@ -643,6 +643,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/?envType=daily-question&envId=2023-09-14)
 * [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+* [855. Exam Room](https://leetcode.com/problems/exam-room/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1290,3 +1291,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/?envType=daily-question&envId=2023-09-14)
 * [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+* [855. Exam Room](https://leetcode.com/problems/exam-room/description/)

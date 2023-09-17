@@ -649,3 +649,4 @@ Replace `template` with the correct problem name.
 * [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/?envType=daily-question&envId=2023-09-14)
 * [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+* [855. Exam Room](https://leetcode.com/problems/exam-room/description/)
