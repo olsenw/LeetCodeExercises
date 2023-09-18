@@ -644,6 +644,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 * [855. Exam Room](https://leetcode.com/problems/exam-room/description/)
+* [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1292,3 +1293,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 * [855. Exam Room](https://leetcode.com/problems/exam-room/description/)
+* [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
