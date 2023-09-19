@@ -645,6 +645,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 * [855. Exam Room](https://leetcode.com/problems/exam-room/description/)
 * [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
+* [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1294,3 +1295,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 * [855. Exam Room](https://leetcode.com/problems/exam-room/description/)
 * [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
+* [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
