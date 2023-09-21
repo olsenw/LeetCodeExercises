@@ -652,3 +652,4 @@ Replace `template` with the correct problem name.
 * [855. Exam Room](https://leetcode.com/problems/exam-room/description/)
 * [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 * [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
+* [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
