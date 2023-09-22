@@ -647,6 +647,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 * [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
+* [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1298,3 +1299,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 * [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
+* [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
