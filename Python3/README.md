@@ -654,3 +654,4 @@ Replace `template` with the correct problem name.
 * [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
+* [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
