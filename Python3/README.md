@@ -655,3 +655,4 @@ Replace `template` with the correct problem name.
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+* [877. Stone Game](https://leetcode.com/problems/stone-game/description/)

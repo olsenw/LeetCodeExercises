@@ -649,6 +649,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+* [877. Stone Game](https://leetcode.com/problems/stone-game/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1302,3 +1303,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+* [877. Stone Game](https://leetcode.com/problems/stone-game/description/)
