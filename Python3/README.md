@@ -657,3 +657,4 @@ Replace `template` with the correct problem name.
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 * [877. Stone Game](https://leetcode.com/problems/stone-game/description/)
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
+* [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)

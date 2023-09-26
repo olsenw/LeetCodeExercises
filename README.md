@@ -651,6 +651,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 * [877. Stone Game](https://leetcode.com/problems/stone-game/description/)
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
+* [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1306,3 +1307,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 * [877. Stone Game](https://leetcode.com/problems/stone-game/description/)
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
+* [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
