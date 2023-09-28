@@ -659,3 +659,4 @@ Replace `template` with the correct problem name.
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
 * [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
 * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/?envType=daily-question&envId=2023-09-27)
+* [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/)
