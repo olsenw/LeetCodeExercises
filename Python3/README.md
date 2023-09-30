@@ -661,3 +661,4 @@ Replace `template` with the correct problem name.
 * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/?envType=daily-question&envId=2023-09-27)
 * [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/)
 * [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/description/?envType=daily-question&envId=2023-09-29)
+* [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
