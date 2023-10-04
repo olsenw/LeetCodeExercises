@@ -665,3 +665,4 @@ Replace `template` with the correct problem name.
 * [2103. Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)
 * [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/?envType=daily-question&envId=2023-10-02)
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/?envType=daily-question&envId=2023-10-03)
+* [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/)
