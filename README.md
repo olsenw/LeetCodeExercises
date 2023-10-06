@@ -661,6 +661,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/?envType=daily-question&envId=2023-10-03)
 * [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/)
 * [1017. Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/)
+* [343. Integer Break](https://leetcode.com/problems/integer-break/description/?envType=daily-question&envId=2023-10-06)
 
 
 ### Exercise Templates for Various Languages
@@ -1326,3 +1327,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/?envType=daily-question&envId=2023-10-03)
 * [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/)
 * [1017. Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/)
+* [343. Integer Break](https://leetcode.com/problems/integer-break/description/?envType=daily-question&envId=2023-10-06)
