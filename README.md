@@ -664,6 +664,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [343. Integer Break](https://leetcode.com/problems/integer-break/description/?envType=daily-question&envId=2023-10-06)
 * [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/?envType=daily-question&envId=2023-10-07)
 * [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/?envType=daily-question&envId=2023-10-08)
+* [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1332,3 +1333,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [343. Integer Break](https://leetcode.com/problems/integer-break/description/?envType=daily-question&envId=2023-10-06)
 * [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/?envType=daily-question&envId=2023-10-07)
 * [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/?envType=daily-question&envId=2023-10-08)
+* [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/)
