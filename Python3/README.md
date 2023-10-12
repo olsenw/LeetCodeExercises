@@ -673,3 +673,4 @@ Replace `template` with the correct problem name.
 * [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/)
 * [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/?envType=daily-question&envId=2023-10-10)
 * [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/?envType=daily-question&envId=2023-10-11)
+* [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/?envType=daily-question&envId=2023-10-12)
