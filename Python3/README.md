@@ -675,3 +675,4 @@ Replace `template` with the correct problem name.
 * [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/?envType=daily-question&envId=2023-10-11)
 * [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/?envType=daily-question&envId=2023-10-12)
 * [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)
+* [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/description/?envType=daily-question&envId=2023-10-14)
