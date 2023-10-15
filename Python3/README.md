@@ -676,3 +676,4 @@ Replace `template` with the correct problem name.
 * [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/?envType=daily-question&envId=2023-10-12)
 * [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)
 * [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/description/?envType=daily-question&envId=2023-10-14)
+* [1269. Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/?envType=daily-question&envId=2023-10-15)
