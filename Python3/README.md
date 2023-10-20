@@ -681,3 +681,4 @@ Replace `template` with the correct problem name.
 * [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/?envType=daily-question&envId=2023-10-17)
 * [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/?envType=daily-question&envId=2023-10-18)
 * [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
+* [1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/)
