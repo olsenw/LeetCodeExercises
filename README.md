@@ -676,6 +676,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/?envType=daily-question&envId=2023-10-18)
 * [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 * [1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/)
+* [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/description/?envType=daily-question&envId=2023-10-21)
 
 
 ### Exercise Templates for Various Languages
@@ -1356,3 +1357,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/?envType=daily-question&envId=2023-10-18)
 * [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 * [1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/)
+* [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/description/?envType=daily-question&envId=2023-10-21)
