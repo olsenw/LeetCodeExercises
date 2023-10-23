@@ -684,3 +684,4 @@ Replace `template` with the correct problem name.
 * [1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/)
 * [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/description/?envType=daily-question&envId=2023-10-21)
 * [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/?envType=daily-question&envId=2023-10-22)
+* [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
