@@ -686,4 +686,4 @@ Replace `template` with the correct problem name.
 * [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/?envType=daily-question&envId=2023-10-22)
 * [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2023-10-24)
-
+* [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)
