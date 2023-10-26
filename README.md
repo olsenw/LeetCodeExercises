@@ -681,6 +681,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2023-10-24)
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)
+* [481. Magical String](https://leetcode.com/problems/magical-string/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1366,3 +1367,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2023-10-24)
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)
+* [481. Magical String](https://leetcode.com/problems/magical-string/description/)
