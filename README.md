@@ -682,6 +682,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2023-10-24)
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)
 * [481. Magical String](https://leetcode.com/problems/magical-string/description/)
+* [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1368,3 +1369,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2023-10-24)
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)
 * [481. Magical String](https://leetcode.com/problems/magical-string/description/)
+* [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
