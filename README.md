@@ -683,6 +683,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)
 * [481. Magical String](https://leetcode.com/problems/magical-string/description/)
 * [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
+* [475. Heaters](https://leetcode.com/problems/heaters/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1370,3 +1371,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25)
 * [481. Magical String](https://leetcode.com/problems/magical-string/description/)
 * [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
+* [475. Heaters](https://leetcode.com/problems/heaters/description/)
