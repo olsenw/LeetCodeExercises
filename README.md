@@ -684,6 +684,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [481. Magical String](https://leetcode.com/problems/magical-string/description/)
 * [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
 * [475. Heaters](https://leetcode.com/problems/heaters/description/)
+* [1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1372,3 +1373,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [481. Magical String](https://leetcode.com/problems/magical-string/description/)
 * [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
 * [475. Heaters](https://leetcode.com/problems/heaters/description/)
+* [1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/)
