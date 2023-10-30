@@ -691,3 +691,5 @@ Replace `template` with the correct problem name.
 * [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
 * [475. Heaters](https://leetcode.com/problems/heaters/description/)
 * [1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/)
+* [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2023-10-30)
+
