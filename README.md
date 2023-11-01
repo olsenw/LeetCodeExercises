@@ -687,6 +687,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/)
 * [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2023-10-30)
 * [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/?envType=daily-question&envId=2023-10-31)
+* [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1378,3 +1379,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/)
 * [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2023-10-30)
 * [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/?envType=daily-question&envId=2023-10-31)
+* [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)
