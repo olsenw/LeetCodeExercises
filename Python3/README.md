@@ -701,3 +701,4 @@ Replace `template` with the correct problem name.
 * [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/?envType=daily-question&envId=2023-11-06)
 * [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/?envType=daily-question&envId=2023-11-07)
 * [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08)
+* [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/?envType=daily-question&envId=2023-11-09)
