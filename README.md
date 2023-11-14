@@ -700,6 +700,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/?envType=daily-question&envId=2023-11-11)
 * [815. Bus Routes](https://leetcode.com/problems/bus-routes/?envType=daily-question&envId=2023-11-12)
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
+* [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
 
 
 ### Exercise Templates for Various Languages
@@ -1404,3 +1405,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/?envType=daily-question&envId=2023-11-11)
 * [815. Bus Routes](https://leetcode.com/problems/bus-routes/?envType=daily-question&envId=2023-11-12)
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
+* [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
