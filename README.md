@@ -701,6 +701,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [815. Bus Routes](https://leetcode.com/problems/bus-routes/?envType=daily-question&envId=2023-11-12)
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
 * [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
+* [1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1406,3 +1407,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [815. Bus Routes](https://leetcode.com/problems/bus-routes/?envType=daily-question&envId=2023-11-12)
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
 * [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
+* [1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/)
