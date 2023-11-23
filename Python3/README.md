@@ -715,3 +715,4 @@ Replace `template` with the correct problem name.
 * [2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/?envType=daily-question&envId=2023-11-20)
 * [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/description/?envType=daily-question&envId=2023-11-21)
 * [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/description/?envType=daily-question&envId=2023-11-22)
+* [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/?envType=daily-question&envId=2023-11-23)
