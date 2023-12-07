@@ -723,6 +723,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2023-12-04)
 * [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/?envType=daily-question&envId=2023-12-05)
 * [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06)
+* [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07)
 
 
 ### Exercise Templates for Various Languages
@@ -1450,3 +1451,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2023-12-04)
 * [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/?envType=daily-question&envId=2023-12-05)
 * [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06)
+* [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07)
