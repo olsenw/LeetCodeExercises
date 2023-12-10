@@ -726,6 +726,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07)
 * [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
 * [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)
+* [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1456,3 +1457,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07)
 * [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
 * [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)
+* [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/)
