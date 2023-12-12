@@ -728,6 +728,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)
 * [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/)
 * [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11)
+* [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2023-12-12)
 
 
 ### Exercise Templates for Various Languages
@@ -1460,3 +1461,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)
 * [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/)
 * [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11)
+* [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2023-12-12)
