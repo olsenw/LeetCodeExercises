@@ -739,3 +739,4 @@ Replace `template` with the correct problem name.
 * [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/?envType=daily-question&envId=2023-12-14)
 * [1436. Destination City](https://leetcode.com/problems/destination-city/description/?envType=daily-question&envId=2023-12-15)
 * [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
+* [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2023-12-17)
