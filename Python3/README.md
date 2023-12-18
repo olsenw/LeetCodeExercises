@@ -740,3 +740,4 @@ Replace `template` with the correct problem name.
 * [1436. Destination City](https://leetcode.com/problems/destination-city/description/?envType=daily-question&envId=2023-12-15)
 * [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
 * [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2023-12-17)
+* [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)
