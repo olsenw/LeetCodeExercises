@@ -741,3 +741,4 @@ Replace `template` with the correct problem name.
 * [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
 * [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2023-12-17)
 * [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)
+* [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/?envType=daily-question&envId=2023-12-19)
