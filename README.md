@@ -737,6 +737,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)
 * [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/?envType=daily-question&envId=2023-12-19)
 * [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20)
+* [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/?envType=daily-question&envId=2023-12-21)
 
 
 ### Exercise Templates for Various Languages
@@ -1478,3 +1479,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)
 * [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/?envType=daily-question&envId=2023-12-19)
 * [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20)
+* [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/?envType=daily-question&envId=2023-12-21)
