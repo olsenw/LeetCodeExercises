@@ -748,3 +748,4 @@ Replace `template` with the correct problem name.
 * [1496. Path Crossing](https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23)
 * [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/?envType=daily-question&envId=2023-12-24)
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/)
+* [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)
