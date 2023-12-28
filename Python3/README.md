@@ -750,3 +750,4 @@ Replace `template` with the correct problem name.
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/)
 * [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)
 * [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+* [2944. Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/)
