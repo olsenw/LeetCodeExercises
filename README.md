@@ -745,6 +745,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)
 * [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 * [2944. Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/)
+* [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1494,3 +1495,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)
 * [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 * [2944. Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/)
+* [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
