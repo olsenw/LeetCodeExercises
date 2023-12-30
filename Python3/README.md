@@ -752,3 +752,4 @@ Replace `template` with the correct problem name.
 * [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 * [2944. Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/)
 * [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
+* [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30)
