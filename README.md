@@ -749,6 +749,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30)
 * [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/?envType=daily-question&envId=2023-12-31)
 * [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01)
+* [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02)
 
 
 ### Exercise Templates for Various Languages
@@ -1502,3 +1503,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30)
 * [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/?envType=daily-question&envId=2023-12-31)
 * [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01)
+* [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02)
