@@ -755,6 +755,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
 * [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
 * [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
+* [1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1514,3 +1515,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
 * [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
 * [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
+* [1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
