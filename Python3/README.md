@@ -762,3 +762,4 @@ Replace `template` with the correct problem name.
 * [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
 * [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
 * [1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
+* [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
