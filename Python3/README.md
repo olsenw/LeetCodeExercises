@@ -768,3 +768,4 @@ Replace `template` with the correct problem name.
 * [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)
 * [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/?envType=daily-question&envId=2024-01-13)
 * [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)
+* [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/)
