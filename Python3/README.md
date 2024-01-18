@@ -771,3 +771,5 @@ Replace `template` with the correct problem name.
 * [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/)
 * [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
 * [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/)
+* [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/)
+
