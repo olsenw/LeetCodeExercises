@@ -766,6 +766,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
 * [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/)
 * [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/)
+* [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1536,3 +1537,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
 * [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/)
 * [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/)
+* [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
