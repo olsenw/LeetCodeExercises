@@ -773,3 +773,4 @@ Replace `template` with the correct problem name.
 * [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/)
 * [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/)
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
+* [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
