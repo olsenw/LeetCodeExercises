@@ -774,3 +774,4 @@ Replace `template` with the correct problem name.
 * [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/)
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 * [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
+* [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/)
