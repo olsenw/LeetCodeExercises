@@ -775,3 +775,4 @@ Replace `template` with the correct problem name.
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 * [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
 * [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/)
+* [1961. Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/description/)

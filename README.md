@@ -769,6 +769,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 * [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
 * [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/)
+* [1961. Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1542,3 +1543,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 * [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
 * [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/)
+* [1961. Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/description/)
