@@ -779,3 +779,4 @@ Replace `template` with the correct problem name.
 * [900. RLE Iterator](https://leetcode.com/problems/rle-iterator/description/)
 * [911. Online Election](https://leetcode.com/problems/online-election/description/)
 * [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
+* [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/)
