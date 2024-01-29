@@ -782,3 +782,4 @@ Replace `template` with the correct problem name.
 * [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/)
 * [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/)
 * [1186. Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/)
+* [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
