@@ -786,3 +786,4 @@ Replace `template` with the correct problem name.
 * [1195. Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/)
 * [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/)
 * [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01)
+* [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01)

@@ -780,6 +780,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1195. Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/)
 * [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/)
 * [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01)
+* [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01)
 
 
 ### Exercise Templates for Various Languages
@@ -1563,4 +1564,5 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 * [1195. Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/)
 * [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/)
+* [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01)
 * [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01)
