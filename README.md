@@ -785,6 +785,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/)
 * [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)
 * [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/)
+* [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1574,3 +1575,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/)
 * [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)
 * [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/)
+* [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)
