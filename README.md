@@ -791,6 +791,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
 * [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/)
 * [1114. Print in Order](https://leetcode.com/problems/print-in-order/description/)
+* [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=daily-question&envId=2024-02-13)
 
 
 ### Exercise Templates for Various Languages
@@ -1586,3 +1587,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
 * [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/)
 * [1114. Print in Order](https://leetcode.com/problems/print-in-order/description/)
+* [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=daily-question&envId=2024-02-13)
