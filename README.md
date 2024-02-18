@@ -796,6 +796,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=daily-question&envId=2024-02-15)
 * [2544. Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)
 * [2428. Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/)
+* [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18)
 
 
 ### Exercise Templates for Various Languages
@@ -1596,3 +1597,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=daily-question&envId=2024-02-15)
 * [2544. Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)
 * [2428. Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/)
+* [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18)
