@@ -803,3 +803,4 @@ Replace `template` with the correct problem name.
 * [2544. Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)
 * [2428. Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/)
 * [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18)
+* [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)
