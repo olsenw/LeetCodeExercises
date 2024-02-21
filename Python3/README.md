@@ -805,3 +805,4 @@ Replace `template` with the correct problem name.
 * [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18)
 * [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)
 * [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)
+* [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=daily-question&envId=2024-02-21)
