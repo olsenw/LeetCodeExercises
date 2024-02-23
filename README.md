@@ -801,6 +801,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=daily-question&envId=2024-02-21)
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
+* [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1606,3 +1607,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=daily-question&envId=2024-02-21)
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
+* [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
