@@ -810,3 +810,4 @@ Replace `template` with the correct problem name.
 * [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
 * [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/?envType=daily-question&envId=2024-02-24)
 * [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/description/?envType=daily-question&envId=2024-02-25)
+* [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)
