@@ -815,3 +815,4 @@ Replace `template` with the correct problem name.
 * [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28)
 * [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/?envType=daily-question&envId=2024-02-29)
 * [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-01)
+* [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=daily-question&envId=2024-03-02)
