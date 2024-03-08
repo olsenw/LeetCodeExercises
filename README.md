@@ -815,6 +815,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/?envType=daily-question&envId=2024-03-05)
 * [2180. Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/description/)
 * [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/description/)
+* [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?source=submission-noac)
 
 
 ### Exercise Templates for Various Languages
@@ -1634,3 +1635,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/?envType=daily-question&envId=2024-03-05)
 * [2180. Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/description/)
 * [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/description/)
+* [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?source=submission-noac)
