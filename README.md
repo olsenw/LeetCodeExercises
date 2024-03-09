@@ -816,6 +816,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2180. Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/description/)
 * [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/description/)
 * [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?source=submission-noac)
+* [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/?envType=daily-question&envId=2024-03-09)
 
 
 ### Exercise Templates for Various Languages
@@ -1636,3 +1637,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2180. Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/description/)
 * [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/description/)
 * [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?source=submission-noac)
+* [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/?envType=daily-question&envId=2024-03-09)
