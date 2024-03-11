@@ -824,3 +824,4 @@ Replace `template` with the correct problem name.
 * [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?source=submission-noac)
 * [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/?envType=daily-question&envId=2024-03-09)
 * [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/)
+* [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11)
