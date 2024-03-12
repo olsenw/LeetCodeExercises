@@ -819,6 +819,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/?envType=daily-question&envId=2024-03-09)
 * [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/)
 * [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11)
+* [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12)
 
 
 ### Exercise Templates for Various Languages
@@ -1642,3 +1643,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/?envType=daily-question&envId=2024-03-09)
 * [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/)
 * [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11)
+* [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12)
