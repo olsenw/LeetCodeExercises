@@ -823,6 +823,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13)
 * [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14)
 * [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/)
+* [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1650,3 +1651,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13)
 * [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14)
 * [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/)
+* [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/)
