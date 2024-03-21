@@ -828,6 +828,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/description/)
 * [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19)
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20)
+* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21)
 
 
 ### Exercise Templates for Various Languages
@@ -1660,3 +1661,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/description/)
 * [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19)
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20)
+* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21)
