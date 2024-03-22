@@ -835,3 +835,4 @@ Replace `template` with the correct problem name.
 * [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19)
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21)
+* [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
