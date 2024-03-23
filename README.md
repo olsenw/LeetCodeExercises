@@ -830,6 +830,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21)
 * [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
+* [932. Beautiful Array](https://leetcode.com/problems/beautiful-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1664,3 +1665,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21)
 * [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
+* [932. Beautiful Array](https://leetcode.com/problems/beautiful-array/description/)
