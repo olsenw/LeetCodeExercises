@@ -839,3 +839,4 @@ Replace `template` with the correct problem name.
 * [932. Beautiful Array](https://leetcode.com/problems/beautiful-array/description/)
 * [1625. Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/)
 * [1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
+* [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
