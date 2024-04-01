@@ -845,3 +845,4 @@ Replace `template` with the correct problem name.
 * [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2024-03-29)
 * [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30)
 * [3083. Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/)
+* [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
