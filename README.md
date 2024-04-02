@@ -840,6 +840,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30)
 * [3083. Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/)
 * [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
+* [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1684,3 +1685,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30)
 * [3083. Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/)
 * [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
+* [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
