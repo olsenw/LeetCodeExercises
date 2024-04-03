@@ -841,6 +841,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [3083. Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/)
 * [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
 * [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
+* [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1686,3 +1687,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [3083. Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/)
 * [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
 * [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
+* [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
