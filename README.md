@@ -842,6 +842,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
 * [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
 * [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
+* [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=daily-question&envId=2024-04-04)
 
 
 ### Exercise Templates for Various Languages
@@ -1688,3 +1689,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
 * [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
 * [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
+* [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=daily-question&envId=2024-04-04)
