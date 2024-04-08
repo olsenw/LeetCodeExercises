@@ -849,3 +849,7 @@ Replace `template` with the correct problem name.
 * [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
 * [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
 * [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=daily-question&envId=2024-04-04)
+
+
+
+* [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=daily-question&envId=2024-04-08)
