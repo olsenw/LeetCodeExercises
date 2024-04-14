@@ -852,6 +852,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 * [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 * [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2024-04-13)
+* [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)
 
 
 ### Exercise Templates for Various Languages
@@ -1708,3 +1709,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 * [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 * [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2024-04-13)
+* [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)
