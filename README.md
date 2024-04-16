@@ -854,6 +854,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2024-04-13)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+* [274. H-Index](https://leetcode.com/problems/h-index/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1712,3 +1713,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2024-04-13)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+* [274. H-Index](https://leetcode.com/problems/h-index/description/)
