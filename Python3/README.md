@@ -861,3 +861,4 @@ Replace `template` with the correct problem name.
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [274. H-Index](https://leetcode.com/problems/h-index/description/)
+* [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
