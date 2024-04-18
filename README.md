@@ -856,6 +856,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [274. H-Index](https://leetcode.com/problems/h-index/description/)
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
+* [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1716,3 +1717,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [274. H-Index](https://leetcode.com/problems/h-index/description/)
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
+* [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/)
