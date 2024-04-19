@@ -863,4 +863,4 @@ Replace `template` with the correct problem name.
 * [274. H-Index](https://leetcode.com/problems/h-index/description/)
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
 * [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/)
-
+* [504. Base 7](https://leetcode.com/problems/base-7/description/)
