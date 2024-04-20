@@ -858,6 +858,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
 * [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
+* [1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20)
 
 
 ### Exercise Templates for Various Languages
@@ -1720,3 +1721,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
 * [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
+* [1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20)
