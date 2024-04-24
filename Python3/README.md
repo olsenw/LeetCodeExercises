@@ -868,3 +868,4 @@ Replace `template` with the correct problem name.
 * [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)
 * [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/?envType=daily-question&envId=2024-04-22)
 * [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)
+* [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
