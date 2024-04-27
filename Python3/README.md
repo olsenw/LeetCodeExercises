@@ -871,3 +871,4 @@ Replace `template` with the correct problem name.
 * [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
 * [2370. Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/description/?envType=daily-question&envId=2024-04-25)
 * [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/?envType=daily-question&envId=2024-04-26)
+* [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27)
