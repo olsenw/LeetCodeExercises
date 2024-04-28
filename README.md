@@ -866,6 +866,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2370. Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/description/?envType=daily-question&envId=2024-04-25)
 * [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/?envType=daily-question&envId=2024-04-26)
 * [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27)
+* [565. Array Nesting](https://leetcode.com/problems/array-nesting/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1736,3 +1737,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2370. Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/description/?envType=daily-question&envId=2024-04-25)
 * [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/?envType=daily-question&envId=2024-04-26)
 * [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27)
+* [565. Array Nesting](https://leetcode.com/problems/array-nesting/description/)
