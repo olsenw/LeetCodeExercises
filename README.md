@@ -870,6 +870,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2997. Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=daily-question&envId=2024-04-29)
 * [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/?envType=daily-question&envId=2024-04-30)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
+* [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=daily-question&envId=2024-05-02)
 
 
 ### Exercise Templates for Various Languages
@@ -1744,3 +1745,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2997. Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=daily-question&envId=2024-04-29)
 * [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/?envType=daily-question&envId=2024-04-30)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
+* [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=daily-question&envId=2024-05-02)
