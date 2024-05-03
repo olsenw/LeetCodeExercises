@@ -871,6 +871,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/?envType=daily-question&envId=2024-04-30)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
 * [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=daily-question&envId=2024-05-02)
+* [593. Valid Square](https://leetcode.com/problems/valid-square/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1746,3 +1747,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/?envType=daily-question&envId=2024-04-30)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
 * [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=daily-question&envId=2024-05-02)
+* [593. Valid Square](https://leetcode.com/problems/valid-square/description/)
