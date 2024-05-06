@@ -880,3 +880,4 @@ Replace `template` with the correct problem name.
 * [593. Valid Square](https://leetcode.com/problems/valid-square/description/)
 * [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 * [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
+* [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
