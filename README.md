@@ -875,6 +875,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 * [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
 * [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
+* [2816. Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07)
 
 
 ### Exercise Templates for Various Languages
@@ -1754,3 +1755,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 * [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
 * [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
+* [2816. Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07)
