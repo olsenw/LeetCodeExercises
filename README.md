@@ -877,6 +877,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
 * [2816. Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
+* [3075. Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/?envType=daily-question&envId=2024-05-09)
 
 
 ### Exercise Templates for Various Languages
@@ -1758,3 +1759,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
 * [2816. Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
+* [3075. Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/?envType=daily-question&envId=2024-05-09)
