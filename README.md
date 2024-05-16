@@ -884,6 +884,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=daily-question&envId=2024-05-13)
 * [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/?envType=daily-question&envId=2024-05-14)
 * [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2024-05-15)
+* [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16)
 
 
 ### Exercise Templates for Various Languages
@@ -1772,3 +1773,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=daily-question&envId=2024-05-13)
 * [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/?envType=daily-question&envId=2024-05-14)
 * [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2024-05-15)
+* [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16)
