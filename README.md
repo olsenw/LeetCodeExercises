@@ -886,6 +886,7 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2024-05-15)
 * [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16)
 * [648. Replace Words](https://leetcode.com/problems/replace-words/description/)
+* [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18)
 
 
 ### Exercise Templates for Various Languages
@@ -1776,3 +1777,4 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2024-05-15)
 * [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16)
 * [648. Replace Words](https://leetcode.com/problems/replace-words/description/)
+* [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18)
