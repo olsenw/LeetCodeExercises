@@ -888,6 +888,8 @@ Contains my solutions/implementations of various [LeetCode problems](https://lee
 * [648. Replace Words](https://leetcode.com/problems/replace-words/description/)
 * [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18)
 https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19
+* [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2024-05-20)
+
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -1778,4 +1780,5 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16)
 * [648. Replace Words](https://leetcode.com/problems/replace-words/description/)
 * [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18)
+* [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2024-05-20)
 https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19
