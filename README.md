@@ -893,6 +893,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 * [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/?envType=daily-question&envId=2024-05-23)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
+* [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/?envType=daily-question&envId=2024-05-25)
 
 
 ### Exercise Templates for Various Languages
@@ -1790,3 +1791,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 * [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/?envType=daily-question&envId=2024-05-23)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
+* [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/?envType=daily-question&envId=2024-05-25)
