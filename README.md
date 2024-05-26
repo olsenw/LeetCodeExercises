@@ -894,6 +894,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/?envType=daily-question&envId=2024-05-23)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
 * [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/?envType=daily-question&envId=2024-05-25)
+* [552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/?envType=daily-question&envId=2024-05-26)
 
 
 ### Exercise Templates for Various Languages
@@ -1792,3 +1793,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/?envType=daily-question&envId=2024-05-23)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
 * [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/?envType=daily-question&envId=2024-05-25)
+* [552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/?envType=daily-question&envId=2024-05-26)
