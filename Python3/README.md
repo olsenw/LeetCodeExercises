@@ -902,3 +902,4 @@ Replace `template` with the correct problem name.
 * [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/?envType=daily-question&envId=2024-05-25)
 * [552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/?envType=daily-question&envId=2024-05-26)
 * [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/?envType=daily-question&envId=2024-05-27)
+* [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/?envType=daily-question&envId=2024-05-28)
