@@ -907,3 +907,4 @@ Replace `template` with the correct problem name.
 * [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/?envType=daily-question&envId=2024-05-30)
 * [179. Largest Number](https://leetcode.com/problems/largest-number/description/)
 * [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01)
+* [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
