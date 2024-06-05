@@ -910,3 +910,4 @@ Replace `template` with the correct problem name.
 * [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
 * [2486. Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/?envType=daily-question&envId=2024-06-03)
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/?envType=daily-question&envId=2024-06-04)
+* [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
