@@ -907,6 +907,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06)
 * [1941. Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/)
+* [1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1818,3 +1819,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06)
 * [1941. Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/)
+* [1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/)
