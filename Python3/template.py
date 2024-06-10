@@ -8,7 +8,7 @@ from typing import List, Dict, Set, Optional
 
 class Solution:
     def problem_name(self, arg1: List[int]) -> int:
-        return len(arg1)
+        return
 
 class UnitTesting(unittest.TestCase):
     def test_one(self):

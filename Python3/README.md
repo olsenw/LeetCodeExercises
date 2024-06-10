@@ -915,3 +915,4 @@ Replace `template` with the correct problem name.
 * [1941. Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/)
 * [1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/)
 * [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
+* [1051. Height Checker](https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10)
