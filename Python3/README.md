@@ -916,3 +916,4 @@ Replace `template` with the correct problem name.
 * [1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/)
 * [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
 * [1051. Height Checker](https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10)
+* [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11)
