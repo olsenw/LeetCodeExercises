@@ -911,6 +911,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
 * [1051. Height Checker](https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10)
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11)
+* [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1826,3 +1827,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
 * [1051. Height Checker](https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10)
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11)
+* [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)
