@@ -918,3 +918,4 @@ Replace `template` with the correct problem name.
 * [1051. Height Checker](https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10)
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11)
 * [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)
+* [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13)
