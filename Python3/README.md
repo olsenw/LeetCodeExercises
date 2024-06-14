@@ -920,3 +920,4 @@ Replace `template` with the correct problem name.
 * [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)
 * [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13)
 * [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
+* [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/?envType=daily-question&envId=2024-06-14)
