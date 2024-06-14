@@ -913,6 +913,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11)
 * [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)
 * [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13)
+* [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1830,3 +1831,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11)
 * [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)
 * [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13)
+* [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
