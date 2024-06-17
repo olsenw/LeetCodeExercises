@@ -923,3 +923,4 @@ Replace `template` with the correct problem name.
 * [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/?envType=daily-question&envId=2024-06-14)
 * [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)
 * [330. Patching Array](https://leetcode.com/problems/patching-array/description/?envType=daily-question&envId=2024-06-16)
+* [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
