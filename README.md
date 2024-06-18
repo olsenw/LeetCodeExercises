@@ -918,6 +918,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)
 * [330. Patching Array](https://leetcode.com/problems/patching-array/description/?envType=daily-question&envId=2024-06-16)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
+* [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-06-18)
 
 
 ### Exercise Templates for Various Languages
@@ -1840,3 +1841,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)
 * [330. Patching Array](https://leetcode.com/problems/patching-array/description/?envType=daily-question&envId=2024-06-16)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
+* [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-06-18)
