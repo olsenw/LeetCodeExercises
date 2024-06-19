@@ -919,6 +919,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [330. Patching Array](https://leetcode.com/problems/patching-array/description/?envType=daily-question&envId=2024-06-16)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 * [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-06-18)
+* [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/?envType=daily-question&envId=2024-06-19)
 
 
 ### Exercise Templates for Various Languages
@@ -1842,3 +1843,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [330. Patching Array](https://leetcode.com/problems/patching-array/description/?envType=daily-question&envId=2024-06-16)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 * [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-06-18)
+* [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/?envType=daily-question&envId=2024-06-19)
