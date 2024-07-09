@@ -938,7 +938,9 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3203. Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)
 * [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06)
 * [3200. Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/description/)
-https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08
+* [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08)
+* [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)
+
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -1880,4 +1882,5 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3203. Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)
 * [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06)
 * [3200. Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/description/)
-https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08
+*[1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08)
+* [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)

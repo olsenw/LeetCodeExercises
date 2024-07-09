@@ -945,3 +945,4 @@ Replace `template` with the correct problem name.
 * [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06)
 * [3200. Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/description/)
 * [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08)
+* [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)
