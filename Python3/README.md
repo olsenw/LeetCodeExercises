@@ -948,3 +948,4 @@ Replace `template` with the correct problem name.
 * [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)
 * [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10)
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11)
+* [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12)
