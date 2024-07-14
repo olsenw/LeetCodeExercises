@@ -944,6 +944,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11)
 * [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12)
 * [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13)
+* [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14)
 
 
 ### Exercise Templates for Various Languages
@@ -1892,3 +1893,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11)
 * [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12)
 * [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13)
+* [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14)
