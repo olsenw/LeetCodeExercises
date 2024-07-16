@@ -946,6 +946,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13)
 * [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14)
 * [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15)
+* [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16)
 
 
 ### Exercise Templates for Various Languages
@@ -1896,3 +1897,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13)
 * [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14)
 * [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15)
+* [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16)
