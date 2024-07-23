@@ -959,3 +959,4 @@ Replace `template` with the correct problem name.
 * [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/?envType=daily-question&envId=2024-07-20)
 * [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/submissions/1327953578/?envType=daily-question&envId=2024-07-21)
 * [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22)
+* [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
