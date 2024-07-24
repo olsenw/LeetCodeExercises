@@ -960,3 +960,4 @@ Replace `template` with the correct problem name.
 * [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/submissions/1327953578/?envType=daily-question&envId=2024-07-21)
 * [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22)
 * [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
+* [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24)
