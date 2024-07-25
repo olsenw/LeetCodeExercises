@@ -961,3 +961,4 @@ Replace `template` with the correct problem name.
 * [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22)
 * [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
 * [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24)
+* [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/)
