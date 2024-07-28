@@ -958,6 +958,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/)
 * [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26)
 * [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2024-07-27)
+* [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/?envType=daily-question&envId=2024-07-28)
 
 
 ### Exercise Templates for Various Languages
@@ -1920,3 +1921,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/)
 * [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26)
 * [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2024-07-27)
+* [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/?envType=daily-question&envId=2024-07-28)
