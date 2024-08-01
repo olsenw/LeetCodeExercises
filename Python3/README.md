@@ -968,3 +968,4 @@ Replace `template` with the correct problem name.
 * [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29)
 * [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30)
 * [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/?envType=daily-question&envId=2024-07-31)
+* [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/?envType=daily-question&envId=2024-08-01)
