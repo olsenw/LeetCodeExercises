@@ -974,6 +974,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10)
 * [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11)
 * [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
+* [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -1952,3 +1953,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10)
 * [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11)
 * [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
+* [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/)
