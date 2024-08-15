@@ -976,6 +976,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
 * [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/)
 * [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=daily-question&envId=2024-08-14)
+* [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)
 
 
 ### Exercise Templates for Various Languages
@@ -1956,3 +1957,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
 * [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/)
 * [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=daily-question&envId=2024-08-14)
+* [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)
