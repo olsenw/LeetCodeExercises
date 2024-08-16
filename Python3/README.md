@@ -983,3 +983,4 @@ Replace `template` with the correct problem name.
 * [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/)
 * [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=daily-question&envId=2024-08-14)
 * [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)
+* [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=daily-question&envId=2024-08-16)
