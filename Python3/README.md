@@ -985,3 +985,4 @@ Replace `template` with the correct problem name.
 * [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)
 * [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=daily-question&envId=2024-08-16)
 * [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/?envType=daily-question&envId=2024-08-17)
+* [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18)
