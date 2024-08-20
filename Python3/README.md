@@ -987,3 +987,4 @@ Replace `template` with the correct problem name.
 * [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/?envType=daily-question&envId=2024-08-17)
 * [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18)
 * [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/?envType=daily-question&envId=2024-08-19)
+* [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/)
