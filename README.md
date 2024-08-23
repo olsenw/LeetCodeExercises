@@ -984,6 +984,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/)
 * [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/)
 * [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/)
+* [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/?envType=daily-question&envId=2024-08-23)
 
 
 ### Exercise Templates for Various Languages
@@ -1972,3 +1973,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/)
 * [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/)
 * [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/)
+* [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/?envType=daily-question&envId=2024-08-23)
