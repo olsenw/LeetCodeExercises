@@ -998,3 +998,4 @@ Replace `template` with the correct problem name.
 * [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28)
 * [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/)
 * [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/?envType=daily-question&envId=2024-08-30)
+* [2347. Best Poker Hand](https://leetcode.com/problems/best-poker-hand/description/)
