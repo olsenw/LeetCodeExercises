@@ -1000,3 +1000,4 @@ Replace `template` with the correct problem name.
 * [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/?envType=daily-question&envId=2024-08-30)
 * [2347. Best Poker Hand](https://leetcode.com/problems/best-poker-hand/description/)
 * [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
+* [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02)

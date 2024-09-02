@@ -993,6 +993,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/)
 * [2347. Best Poker Hand](https://leetcode.com/problems/best-poker-hand/description/)
 * [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
+* [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02)
 
 
 ### Exercise Templates for Various Languages
@@ -1991,3 +1992,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/?envType=daily-question&envId=2024-08-30)
 * [2347. Best Poker Hand](https://leetcode.com/problems/best-poker-hand/description/)
 * [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
+* [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02)
