@@ -994,6 +994,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2347. Best Poker Hand](https://leetcode.com/problems/best-poker-hand/description/)
 * [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
 * [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02)
+* [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/?envType=daily-question&envId=2024-09-03)
 
 
 ### Exercise Templates for Various Languages
@@ -1993,3 +1994,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2347. Best Poker Hand](https://leetcode.com/problems/best-poker-hand/description/)
 * [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)
 * [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02)
+* [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/?envType=daily-question&envId=2024-09-03)
