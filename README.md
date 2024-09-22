@@ -1013,6 +1013,9 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/?envType=daily-question&envId=2024-09-19)
 * [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20)
 * [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/?envType=daily-question&envId=2024-09-21)
+* [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2024-09-22)
+
+
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -2030,3 +2033,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/?envType=daily-question&envId=2024-09-19)
 * [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20)
 * [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/?envType=daily-question&envId=2024-09-21)
+* [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2024-09-22)
