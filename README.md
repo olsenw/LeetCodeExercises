@@ -1014,7 +1014,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20)
 * [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/?envType=daily-question&envId=2024-09-21)
 * [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2024-09-22)
-
+* [2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -2034,3 +2034,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20)
 * [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/?envType=daily-question&envId=2024-09-21)
 * [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2024-09-22)
+* [2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
