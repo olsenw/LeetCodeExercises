@@ -1020,6 +1020,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/)
 * [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/?envType=daily-question&envId=2024-09-27)
 * [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/?envType=daily-question&envId=2024-09-28)
+* [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/?envType=daily-question&envId=2024-09-29)
 
 
 ### Exercise Templates for Various Languages
@@ -2045,3 +2046,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/)
 * [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/?envType=daily-question&envId=2024-09-27)
 * [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/?envType=daily-question&envId=2024-09-28)
+* [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/?envType=daily-question&envId=2024-09-29)
