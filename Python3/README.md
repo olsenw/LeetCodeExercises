@@ -1033,3 +1033,4 @@ Replace `template` with the correct problem name.
 * [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=daily-question&envId=2024-10-02)
 * [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/?envType=daily-question&envId=2024-10-03)
 * [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/?envType=daily-question&envId=2024-10-04)
+* [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
