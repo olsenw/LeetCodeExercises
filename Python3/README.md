@@ -1034,3 +1034,4 @@ Replace `template` with the correct problem name.
 * [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/?envType=daily-question&envId=2024-10-03)
 * [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/?envType=daily-question&envId=2024-10-04)
 * [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
+* [1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/?envType=daily-question&envId=2024-10-06)
