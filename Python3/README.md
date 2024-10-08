@@ -1036,3 +1036,4 @@ Replace `template` with the correct problem name.
 * [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
 * [1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/?envType=daily-question&envId=2024-10-06)
 * [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/?envType=daily-question&envId=2024-10-07)
+* [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/?envType=daily-question&envId=2024-10-08)
