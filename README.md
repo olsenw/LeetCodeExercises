@@ -1033,6 +1033,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/)
 * [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/?envType=daily-question&envId=2024-10-10)
 * [1942. The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11)
+* [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/?envType=daily-question&envId=2024-10-12)
 
 
 ### Exercise Templates for Various Languages
@@ -2071,3 +2072,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/)
 * [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/?envType=daily-question&envId=2024-10-10)
 * [1942. The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11)
+* [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/?envType=daily-question&envId=2024-10-12)
