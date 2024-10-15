@@ -1036,6 +1036,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/?envType=daily-question&envId=2024-10-12)
 * [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?envType=daily-question&envId=2024-10-13)
 * [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14)
+* [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15)
 
 
 ### Exercise Templates for Various Languages
@@ -2077,3 +2078,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/?envType=daily-question&envId=2024-10-12)
 * [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?envType=daily-question&envId=2024-10-13)
 * [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14)
+* [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15)
