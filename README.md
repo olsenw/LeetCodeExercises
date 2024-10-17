@@ -1038,6 +1038,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14)
 * [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/?envType=daily-question&envId=2024-10-16)
+* [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&envId=2024-10-17)
 
 
 ### Exercise Templates for Various Languages
@@ -2081,3 +2082,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14)
 * [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/?envType=daily-question&envId=2024-10-16)
+* [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&envId=2024-10-17)
