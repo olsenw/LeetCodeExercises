@@ -1046,3 +1046,4 @@ Replace `template` with the correct problem name.
 * [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/?envType=daily-question&envId=2024-10-16)
 * [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&envId=2024-10-17)
+* [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/submissions/1425928232/?envType=daily-question&envId=2024-10-18)
