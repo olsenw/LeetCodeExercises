@@ -1046,6 +1046,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/?envType=daily-question&envId=2024-10-22)
 * [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/?envType=daily-question&envId=2024-10-23)
 * [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24)
+* [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -2097,3 +2098,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/?envType=daily-question&envId=2024-10-22)
 * [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/?envType=daily-question&envId=2024-10-23)
 * [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24)
+* [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
