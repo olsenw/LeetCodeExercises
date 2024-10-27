@@ -1048,6 +1048,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24)
 * [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
 * [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/?envType=daily-question&envId=2024-10-26)
+* [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2024-10-27)
 
 
 ### Exercise Templates for Various Languages
@@ -2101,3 +2102,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24)
 * [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
 * [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/?envType=daily-question&envId=2024-10-26)
+* [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2024-10-27)
