@@ -1055,6 +1055,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/description/?envType=daily-question&envId=2024-10-31)
 * [3274. Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/description/)
 * [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02)
+* [796. Rotate String](https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03)
 
 
 ### Exercise Templates for Various Languages
@@ -2115,3 +2116,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/description/?envType=daily-question&envId=2024-10-31)
 * [3274. Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/description/)
 * [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02)
+* [796. Rotate String](https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03)
