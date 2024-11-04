@@ -1063,3 +1063,4 @@ Replace `template` with the correct problem name.
 * [3274. Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/description/)
 * [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02)
 * [796. Rotate String](https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03)
+* [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/?envType=daily-question&envId=2024-11-04)
