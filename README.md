@@ -1060,6 +1060,10 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2024-11-05)
 * [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/?envType=daily-question&envId=2024-11-06)
 * [2275. Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/?envType=daily-question&envId=2024-11-07)
+* [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=daily-question&envId=2024-11-08)
+* [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/?envType=daily-question&envId=2024-11-09)
+* [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/?envType=daily-question&envId=2024-11-10)
+* [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11)
 
 
 ### Exercise Templates for Various Languages
@@ -2125,3 +2129,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2024-11-05)
 * [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/?envType=daily-question&envId=2024-11-06)
 * [2275. Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/?envType=daily-question&envId=2024-11-07)
+* [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=daily-question&envId=2024-11-08)
+* [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/?envType=daily-question&envId=2024-11-09)
+* [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/?envType=daily-question&envId=2024-11-10)
+* [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11)
