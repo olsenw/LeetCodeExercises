@@ -1071,3 +1071,4 @@ Replace `template` with the correct problem name.
 * [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/?envType=daily-question&envId=2024-11-09)
 * [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/?envType=daily-question&envId=2024-11-10)
 * [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11)
+* [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/description/?envType=daily-question&envId=2024-11-12)
