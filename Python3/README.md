@@ -1073,3 +1073,4 @@ Replace `template` with the correct problem name.
 * [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11)
 * [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/description/?envType=daily-question&envId=2024-11-12)
 * [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2024-11-13)
+* [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/?envType=daily-question&envId=2024-11-14)
