@@ -1078,6 +1078,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2024-11-23)
 * [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2024-11-24)
 * [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/?envType=daily-question&envId=2024-11-25)
+* [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=daily-question&envId=2024-11-26)
 
 
 ### Exercise Templates for Various Languages
@@ -2161,3 +2162,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2024-11-23)
 * [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2024-11-24)
 * [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/?envType=daily-question&envId=2024-11-25)
+* [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=daily-question&envId=2024-11-26)
