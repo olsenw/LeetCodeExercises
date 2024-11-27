@@ -1079,6 +1079,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2024-11-24)
 * [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/?envType=daily-question&envId=2024-11-25)
 * [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=daily-question&envId=2024-11-26)
+* [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/?envType=daily-question&envId=2024-11-27)
 
 
 ### Exercise Templates for Various Languages
@@ -2163,3 +2164,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2024-11-24)
 * [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/?envType=daily-question&envId=2024-11-25)
 * [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=daily-question&envId=2024-11-26)
+* [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/?envType=daily-question&envId=2024-11-27)
