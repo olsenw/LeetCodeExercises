@@ -1087,3 +1087,5 @@ Replace `template` with the correct problem name.
 * [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/?envType=daily-question&envId=2024-11-25)
 * [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=daily-question&envId=2024-11-26)
 * [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/?envType=daily-question&envId=2024-11-27)
+* [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/?envType=daily-question&envId=2024-11-28)
+* [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29)
