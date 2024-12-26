@@ -1108,6 +1108,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/?envType=daily-question&envId=2024-12-23)
 * [3340. Check Balanced String](https://leetcode.com/problems/check-balanced-string/description/)
 * [3386. Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/description/)
+* [494. Target Sum](https://leetcode.com/problems/target-sum/description/?envType=daily-question&envId=2024-12-26)
 
 
 ### Exercise Templates for Various Languages
