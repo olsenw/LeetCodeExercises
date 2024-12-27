@@ -1116,3 +1116,4 @@ Replace `template` with the correct problem name.
 * [3340. Check Balanced String](https://leetcode.com/problems/check-balanced-string/description/)
 * [3386. Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/description/)
 * [494. Target Sum](https://leetcode.com/problems/target-sum/description/?envType=daily-question&envId=2024-12-26)
+* [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/?envType=daily-question&envId=2024-12-27)
