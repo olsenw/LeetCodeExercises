@@ -1123,6 +1123,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/?envType=daily-question&envId=2025-01-07)
 * [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08)
 * [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09)
+* [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -2251,3 +2252,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/?envType=daily-question&envId=2025-01-07)
 * [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08)
 * [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09)
+* [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/)
