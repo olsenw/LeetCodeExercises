@@ -1124,6 +1124,8 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08)
 * [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09)
 * [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/)
+* [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/?envType=daily-question&envId=2025-01-11)
+* [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12)
 
 
 ### Exercise Templates for Various Languages
@@ -2253,3 +2255,5 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08)
 * [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09)
 * [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/)
+* [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/?envType=daily-question&envId=2025-01-11)
+* [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12)
