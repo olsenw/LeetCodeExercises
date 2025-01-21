@@ -1141,3 +1141,4 @@ Replace `template` with the correct problem name.
 * [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=daily-question&envId=2025-01-18)
 * [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-01-19)
 * [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/?envType=daily-question&envId=2025-01-20)
+* [2017. Grid Game](https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21)
