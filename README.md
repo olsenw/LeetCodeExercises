@@ -1135,6 +1135,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-01-19)
 * [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/?envType=daily-question&envId=2025-01-20)
 * [2017. Grid Game](https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21)
+* [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22)
 
 
 ### Exercise Templates for Various Languages
@@ -2275,3 +2276,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-01-19)
 * [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/?envType=daily-question&envId=2025-01-20)
 * [2017. Grid Game](https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21)
+* [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22)
