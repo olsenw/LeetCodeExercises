@@ -1137,6 +1137,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2017. Grid Game](https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21)
 * [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22)
 * [3407. Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/)
+* [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -2279,3 +2280,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2017. Grid Game](https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21)
 * [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22)
 * [3407. Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/)
+* [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
