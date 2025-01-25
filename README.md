@@ -1138,6 +1138,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22)
 * [3407. Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/)
 * [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
+* [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2025-01-25)
 
 
 ### Exercise Templates for Various Languages
@@ -2281,3 +2282,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22)
 * [3407. Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/)
 * [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
+* [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2025-01-25)
