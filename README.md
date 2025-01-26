@@ -1139,6 +1139,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3407. Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/)
 * [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
 * [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2025-01-25)
+* [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/?envType=daily-question&envId=2025-01-26)
 
 
 ### Exercise Templates for Various Languages
@@ -2283,3 +2284,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3407. Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/)
 * [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/)
 * [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2025-01-25)
+* [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/?envType=daily-question&envId=2025-01-26)
