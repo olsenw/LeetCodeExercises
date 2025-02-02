@@ -1153,3 +1153,4 @@ Replace `template` with the correct problem name.
 * [2493. Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/?envType=daily-question&envId=2025-01-30)
 * [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/?envType=daily-question&envId=2025-01-31)
 * [3151. Special Array I](https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01)
+* [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02)
