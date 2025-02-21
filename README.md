@@ -1165,6 +1165,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/?envType=daily-question&envId=2025-02-18)
 * [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/?envType=daily-question&envId=2025-02-19)
 * [3417. Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/description/)
+* [3452. Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -2335,3 +2336,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/?envType=daily-question&envId=2025-02-18)
 * [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/?envType=daily-question&envId=2025-02-19)
 * [3417. Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/description/)
+* [3452. Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/description/)
