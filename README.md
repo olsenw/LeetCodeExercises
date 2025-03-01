@@ -1173,6 +1173,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26)
 * [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/?envType=daily-question&envId=2025-02-27)
 * [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28)
+* [3360. Stone Removal Game](https://leetcode.com/problems/stone-removal-game/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -2351,3 +2352,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26)
 * [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/?envType=daily-question&envId=2025-02-27)
 * [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28)
+* [3360. Stone Removal Game](https://leetcode.com/problems/stone-removal-game/description/)
