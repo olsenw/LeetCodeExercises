@@ -1182,3 +1182,4 @@ Replace `template` with the correct problem name.
 * [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28)
 * [3360. Stone Removal Game](https://leetcode.com/problems/stone-removal-game/description/)
 * [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02)
+* [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/?envType=daily-question&envId=2025-03-03)
