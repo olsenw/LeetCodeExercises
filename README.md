@@ -1182,6 +1182,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/?envType=daily-question&envId=2025-03-07)
 * [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08)
 * [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09)
+* [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/?envType=daily-question&envId=2025-03-10)
 
 
 ### Exercise Templates for Various Languages
@@ -2369,3 +2370,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/?envType=daily-question&envId=2025-03-07)
 * [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08)
 * [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09)
+* [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/?envType=daily-question&envId=2025-03-10)
