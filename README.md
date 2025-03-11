@@ -1183,6 +1183,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08)
 * [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09)
 * [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/?envType=daily-question&envId=2025-03-10)
+* [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11)
 
 
 ### Exercise Templates for Various Languages
@@ -2371,3 +2372,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08)
 * [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09)
 * [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/?envType=daily-question&envId=2025-03-10)
+* [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11)
