@@ -1206,3 +1206,4 @@ Replace `template` with the correct problem name.
 * [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24)
 * [3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/?envType=daily-question&envId=2025-03-25)
 * [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/?envType=daily-question&envId=2025-03-26)
+* [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=daily-question&envId=2025-03-27)
