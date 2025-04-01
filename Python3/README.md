@@ -1211,3 +1211,4 @@ Replace `template` with the correct problem name.
 * [2818. Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/description/?envType=daily-question&envId=2025-03-29)
 * [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)
 * [3502. Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/description/)
+* [3467. Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/description/)
