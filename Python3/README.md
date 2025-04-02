@@ -1212,3 +1212,4 @@ Replace `template` with the correct problem name.
 * [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)
 * [3502. Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/description/)
 * [3467. Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/description/)
+* [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02)
