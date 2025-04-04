@@ -1207,6 +1207,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3467. Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/description/)
 * [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02)
 * [2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description/?envType=daily-question&envId=2025-04-03)
+* [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/?envType=daily-question&envId=2025-04-04)
 
 
 ### Exercise Templates for Various Languages
@@ -2419,3 +2420,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3467. Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/description/)
 * [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02)
 * [2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description/?envType=daily-question&envId=2025-04-03)
+* [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/?envType=daily-question&envId=2025-04-04)
