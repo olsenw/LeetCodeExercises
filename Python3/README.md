@@ -1217,3 +1217,4 @@ Replace `template` with the correct problem name.
 * [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/?envType=daily-question&envId=2025-04-04)
 * [3483. Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/description/)
 * [3498. Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/description/)
+* [2899. Last Visited Integers](https://leetcode.com/problems/last-visited-integers/description/)
