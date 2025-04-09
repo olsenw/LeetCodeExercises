@@ -1212,6 +1212,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3498. Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/description/)
 * [2899. Last Visited Integers](https://leetcode.com/problems/last-visited-integers/description/)
 * [3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08)
+* [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09)
 
 
 ### Exercise Templates for Various Languages
@@ -2429,3 +2430,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3498. Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/description/)
 * [2899. Last Visited Integers](https://leetcode.com/problems/last-visited-integers/description/)
 * [3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08)
+* [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09)
