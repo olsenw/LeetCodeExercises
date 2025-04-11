@@ -1221,3 +1221,4 @@ Replace `template` with the correct problem name.
 * [3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08)
 * [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09)
 * [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/?envType=daily-question&envId=2025-04-10)
+* [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/?envType=daily-question&envId=2025-04-11)
