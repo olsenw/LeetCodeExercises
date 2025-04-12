@@ -1215,6 +1215,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09)
 * [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/?envType=daily-question&envId=2025-04-10)
 * [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/?envType=daily-question&envId=2025-04-11)
+* [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/?envType=daily-question&envId=2025-04-12)
 
 
 ### Exercise Templates for Various Languages
@@ -2435,3 +2436,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09)
 * [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/?envType=daily-question&envId=2025-04-10)
 * [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/?envType=daily-question&envId=2025-04-11)
+* [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/?envType=daily-question&envId=2025-04-12)
