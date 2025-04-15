@@ -1225,3 +1225,4 @@ Replace `template` with the correct problem name.
 * [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/?envType=daily-question&envId=2025-04-12)
 * [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13)
 * [2917. Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/description/)
+* [https://leetcode.com/problems/count-good-triplets-in-an-array/description/?envType=daily-question&envId=2025-04-15](https://leetcode.com/problems/count-good-triplets-in-an-array/description/?envType=daily-question&envId=2025-04-15)
