@@ -1232,3 +1232,4 @@ Replace `template` with the correct problem name.
 * [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/)
 * [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/?envType=daily-question&envId=2025-04-20)
 * [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21)
+* [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/?envType=daily-question&envId=2025-04-22)
