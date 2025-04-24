@@ -1227,6 +1227,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21)
 * [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/?envType=daily-question&envId=2025-04-22)
 * [2903. Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/description/)
+* [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/?envType=daily-question&envId=2025-04-24)
 
 
 ### Exercise Templates for Various Languages
