@@ -1236,6 +1236,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30)
 * [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/?envType=daily-question&envId=2025-05-01)
 * [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/)
+* [3046. Split the Array](https://leetcode.com/problems/split-the-array/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -2477,3 +2478,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30)
 * [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/?envType=daily-question&envId=2025-05-01)
 * [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/)
+* [3046. Split the Array](https://leetcode.com/problems/split-the-array/description/)
