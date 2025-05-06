@@ -1245,3 +1245,5 @@ Replace `template` with the correct problem name.
 * [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/)
 * [3046. Split the Array](https://leetcode.com/problems/split-the-array/description/)
 * [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/?envType=daily-question&envId=2025-05-04)
+* [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)
+* [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06)
