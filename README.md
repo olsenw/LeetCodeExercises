@@ -1241,6 +1241,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)
 * [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06)
 * [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/?envType=daily-question&envId=2025-05-07)
+* [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/?envType=daily-question&envId=2025-05-08)
 
 
 ### Exercise Templates for Various Languages
@@ -2487,3 +2488,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)
 * [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06)
 * [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/?envType=daily-question&envId=2025-05-07)
+* [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/?envType=daily-question&envId=2025-05-08)
