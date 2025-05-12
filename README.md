@@ -1245,6 +1245,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3343. Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/description/?envType=daily-question&envId=2025-05-09)
 * [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/?envType=daily-question&envId=2025-05-10)
 * [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/?difficulty=EASY&page=9&status=NOT_STARTED)
+* [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 
 
 ### Exercise Templates for Various Languages
@@ -2495,3 +2496,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3343. Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/description/?envType=daily-question&envId=2025-05-09)
 * [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/?envType=daily-question&envId=2025-05-10)
 * [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/?difficulty=EASY&page=9&status=NOT_STARTED)
+* [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/?difficulty=EASY&page=9&status=NOT_STARTED)
