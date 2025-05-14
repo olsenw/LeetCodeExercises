@@ -1254,3 +1254,4 @@ Replace `template` with the correct problem name.
 * [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/?envType=daily-question&envId=2025-05-13)
+* [3337. Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/?envType=daily-question&envId=2025-05-14)
