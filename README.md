@@ -1253,6 +1253,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18)
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/?difficulty=EASY&page=9&status=NOT_STARTED)
+* [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
 
 
 ### Exercise Templates for Various Languages
@@ -2511,3 +2512,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18)
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/?difficulty=EASY&page=9&status=NOT_STARTED)
+* [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
