@@ -1255,6 +1255,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
 * [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/?difficulty=EASY&page=9&status=NOT_STARTED)
+* [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/description/?envType=daily-question&envId=2025-05-22)
 
 
 ### Exercise Templates for Various Languages
@@ -2515,3 +2516,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
 * [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/?difficulty=EASY&page=9&status=NOT_STARTED)
+* [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/description/?envType=daily-question&envId=2025-05-22)
