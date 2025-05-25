@@ -1258,6 +1258,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/description/?envType=daily-question&envId=2025-05-22)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)
+* [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 
 
 ### Exercise Templates for Various Languages
@@ -2521,3 +2522,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/description/?envType=daily-question&envId=2025-05-22)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)
+* [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/?difficulty=EASY&page=9&status=NOT_STARTED)
