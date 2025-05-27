@@ -1260,6 +1260,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)
 * [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/?difficulty=EASY&page=9&status=NOT_STARTED)
+* [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)
 
 
 ### Exercise Templates for Various Languages
@@ -2525,3 +2526,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)
 * [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/?difficulty=EASY&page=9&status=NOT_STARTED)
+* [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)
