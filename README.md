@@ -1262,6 +1262,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)
 * [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/description/?envType=daily-question&envId=2025-05-28)
+* [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/?envType=daily-question&envId=2025-05-29)
 
 
 ### Exercise Templates for Various Languages
@@ -2529,3 +2530,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)
 * [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/description/?envType=daily-question&envId=2025-05-28)
+* [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/?envType=daily-question&envId=2025-05-29)
