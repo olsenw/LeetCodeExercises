@@ -89,6 +89,32 @@ class Solution:
     '''
     other solutions also do bfs, but have smarter index systems (ie dont flatten)
     '''
+    # 5.30.25 old solution no longer passes
+    def snakesAndLadders(self, board: List[List[int]]) -> int:
+        n = len(board)
+        flatten = []
+        reverse = False
+        index = 0
+        for row in board[::-1]:
+            if reverse:
+                row = row[::-1]
+            for c in row:
+                flatten.append(index if c == -1 else c - 1)
+                index += 1
+            reverse = not reverse
+        jumps = [10**5] * (n * n)
+        queue = [(0,0)]
+        while queue:
+            hops, i = heapq.heappop(queue)
+            if hops > jumps[i]:
+                continue
+            if i + 1 == n * n:
+                return hops
+            for j in range(i+1,min(i+7, n*n)):
+                if hops+1 < jumps[flatten[j]]:
+                    jumps[flatten[j]] = hops + 1
+                    heapq.heappush(queue, (hops+1, flatten[j]))
+        return - 1
 
 class UnitTesting(unittest.TestCase):
     def test_one(self):
