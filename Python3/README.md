@@ -1272,3 +1272,4 @@ Replace `template` with the correct problem name.
 * [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/?envType=daily-question&envId=2025-05-29)
 * [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/?difficulty=EASY&page=9&status=NOT_STARTED)
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/?envType=daily-question&envId=2025-05-31)
+* [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/?envType=daily-question&envId=2025-06-01)
