@@ -1268,6 +1268,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/?envType=daily-question&envId=2025-06-01)
 * [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 * [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/?envType=daily-question&envId=2025-06-03)
+* [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/description/?envType=daily-question&envId=2025-06-04)
 
 
 ### Exercise Templates for Various Languages
@@ -2541,3 +2542,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/?envType=daily-question&envId=2025-06-01)
 * [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 * [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/?envType=daily-question&envId=2025-06-03)
+* [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/description/?envType=daily-question&envId=2025-06-04)
