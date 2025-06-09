@@ -1280,3 +1280,4 @@ Replace `template` with the correct problem name.
 * [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/?envType=daily-question&envId=2025-06-06)
 * [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/?envType=daily-question&envId=2025-06-07)
 * [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)
+* [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
