@@ -1276,6 +1276,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 * [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/?envType=daily-question&envId=2025-06-10)
 * [3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/?envType=daily-question&envId=2025-06-11)
+* [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12)
 
 
 ### Exercise Templates for Various Languages
@@ -2557,3 +2558,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 * [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/?envType=daily-question&envId=2025-06-10)
 * [3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/?envType=daily-question&envId=2025-06-11)
+* [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12)
