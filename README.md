@@ -1278,6 +1278,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/?envType=daily-question&envId=2025-06-11)
 * [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12)
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
+* [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14)
 
 
 ### Exercise Templates for Various Languages
@@ -2561,3 +2562,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/?envType=daily-question&envId=2025-06-11)
 * [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12)
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
+* [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14)

@@ -1,0 +1,48 @@
+# needed for python unit testings
+# https://docs.python.org/3/library/unittest.html
+import unittest
+
+# required for type hinting
+# https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
+from typing import List, Dict, Set, Optional
+
+class Solution:
+    '''
+    Given an integer num. Bob has sneakily remapped one of the 10 possible
+    digits (0 to 9) to another digit.
+
+    Return the difference between the maximum and minimum values Bob can make by
+    remapping exactly one digit in num.
+
+    Notes:
+    * When Bob remaps a digit d1 to another digit s2, Bob replaces all
+      occurrences of d1 in num with d2.
+    * Bob can remap is a digital to itself, in which case num does not change.
+    * Bob can remap different digits for obtaining minimum and maximum values
+      respectively.
+    * The resulting number after remapping can contain leading zeros.
+    '''
+    def minMaxDifference(self, num: int) -> int:
+        big = little = str(num)
+        for c in big:
+            if c != '9':
+                big = big.replace(c, '9')
+                break
+        little = little.replace(little[0], '0')
+        return int(big) - int(little)
+
+class UnitTesting(unittest.TestCase):
+    def test_one(self):
+        s = Solution()
+        i = 11891
+        o = 99009
+        self.assertEqual(s.minMaxDifference(i), o)
+
+    def test_two(self):
+        s = Solution()
+        i = 90
+        o = 99
+        self.assertEqual(s.minMaxDifference(i), o)
+
+if __name__ == '__main__':
+    unittest.main(verbosity=2)
