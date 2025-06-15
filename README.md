@@ -1279,6 +1279,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12)
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 * [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14)
+* [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15)
 
 
 ### Exercise Templates for Various Languages
@@ -2563,3 +2564,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12)
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 * [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14)
+* [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15)
