@@ -1282,7 +1282,8 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15)
 * [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/?envType=daily-question&envId=2025-06-16)
 * [3405. Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/?envType=daily-question&envId=2025-06-17)
-* [496. Next Greater Element I]{https://leetcode.com/problems/next-greater-element-i/description/}
+* [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
+* [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/?envType=daily-question&envId=2025-06-19)
 
 
 ### Exercise Templates for Various Languages
@@ -2570,4 +2571,5 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15)
 * [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/?envType=daily-question&envId=2025-06-16)
 * [3405. Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/?envType=daily-question&envId=2025-06-17)
-* [496. Next Greater Element I]{https://leetcode.com/problems/next-greater-element-i/description/}
+* [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
+* [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/?envType=daily-question&envId=2025-06-19)
