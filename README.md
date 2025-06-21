@@ -1285,6 +1285,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 * [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/?envType=daily-question&envId=2025-06-19)
 * [3443. Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/?envType=daily-question&envId=2025-06-20)
+* [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/?envType=daily-question&envId=2025-06-21)
 
 
 ### Exercise Templates for Various Languages
@@ -2575,3 +2576,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 * [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/?envType=daily-question&envId=2025-06-19)
 * [3443. Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/?envType=daily-question&envId=2025-06-20)
+* [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/?envType=daily-question&envId=2025-06-21)
