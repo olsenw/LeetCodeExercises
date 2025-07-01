@@ -1301,3 +1301,4 @@ Replace `template` with the correct problem name.
 * [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/?envType=daily-question&envId=2025-06-27)
 * [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)
 * [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30)
+* [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01)
