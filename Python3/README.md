@@ -1303,3 +1303,4 @@ Replace `template` with the correct problem name.
 * [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30)
 * [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01)
 * [3333. Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02)
+* [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/?envType=problem-list-v2&envId=2cmnhthh)
