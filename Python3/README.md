@@ -1304,3 +1304,4 @@ Replace `template` with the correct problem name.
 * [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01)
 * [3333. Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02)
 * [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3307. Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/?envType=daily-question&envId=2025-07-04)
