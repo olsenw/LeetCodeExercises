@@ -1301,6 +1301,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/?envType=daily-question&envId=2025-07-07)
+* [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -2607,3 +2608,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/?envType=daily-question&envId=2025-07-07)
+* [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
