@@ -1302,6 +1302,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/?envType=daily-question&envId=2025-07-07)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3439. Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/?envType=daily-question&envId=2025-07-09)
 
 
 ### Exercise Templates for Various Languages
@@ -2609,3 +2610,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/?envType=daily-question&envId=2025-07-07)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3439. Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/?envType=daily-question&envId=2025-07-09)
