@@ -1310,3 +1310,4 @@ Replace `template` with the correct problem name.
 * [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/?envType=daily-question&envId=2025-07-07)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3439. Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/?envType=daily-question&envId=2025-07-09)
+* [3440. Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/?envType=daily-question&envId=2025-07-10)
