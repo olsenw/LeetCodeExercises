@@ -1314,3 +1314,4 @@ Replace `template` with the correct problem name.
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1900. The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/?envType=daily-question&envId=2025-07-12)
 * [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/?envType=daily-question&envId=2025-07-13)
+* [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/?envType=problem-list-v2&envId=2cmnhthh)
