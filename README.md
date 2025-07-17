@@ -1310,6 +1310,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15)
 * [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/?envType=daily-question&envId=2025-07-16)
+* [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/?envType=daily-question&envId=2025-07-17)
 
 
 ### Exercise Templates for Various Languages
@@ -2625,3 +2626,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15)
 * [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/?envType=daily-question&envId=2025-07-16)
+* [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/?envType=daily-question&envId=2025-07-17)
