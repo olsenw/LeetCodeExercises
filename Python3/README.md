@@ -1321,3 +1321,4 @@ Replace `template` with the correct problem name.
 * [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/?envType=daily-question&envId=2025-07-18)
 * [1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1948. Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/?envType=daily-question&envId=2025-07-20)
+* [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/?envType=problem-list-v2&envId=2cmnhthh)
