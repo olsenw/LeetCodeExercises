@@ -1323,3 +1323,4 @@ Replace `template` with the correct problem name.
 * [1948. Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/?envType=daily-question&envId=2025-07-20)
 * [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [355. Design Twitter](https://leetcode.com/problems/design-twitter/description/)
