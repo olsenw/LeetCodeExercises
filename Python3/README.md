@@ -1325,3 +1325,4 @@ Replace `template` with the correct problem name.
 * [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [355. Design Twitter](https://leetcode.com/problems/design-twitter/description/)
 * [2322. Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/?envType=daily-question&envId=2025-07-24)
+* [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/?envType=daily-question&envId=2025-07-25)
