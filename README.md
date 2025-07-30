@@ -1323,6 +1323,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/?envType=daily-question&envId=2025-07-27)
 * [385. Mini Parser](https://leetcode.com/problems/mini-parser/description/)
 * [2411. Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/?envType=daily-question&envId=2025-07-29)
+* [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -2651,3 +2652,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/?envType=daily-question&envId=2025-07-27)
 * [385. Mini Parser](https://leetcode.com/problems/mini-parser/description/)
 * [2411. Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/?envType=daily-question&envId=2025-07-29)
+* [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
