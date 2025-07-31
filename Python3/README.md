@@ -1331,3 +1331,4 @@ Replace `template` with the correct problem name.
 * [385. Mini Parser](https://leetcode.com/problems/mini-parser/description/)
 * [2411. Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/?envType=daily-question&envId=2025-07-29)
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
+* [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/?envType=daily-question&envId=2025-07-31)
