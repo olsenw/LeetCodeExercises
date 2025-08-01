@@ -1332,3 +1332,4 @@ Replace `template` with the correct problem name.
 * [2411. Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/?envType=daily-question&envId=2025-07-29)
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
 * [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/?envType=daily-question&envId=2025-07-31)
+* [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=problem-list-v2&envId=2cmnhthh)
