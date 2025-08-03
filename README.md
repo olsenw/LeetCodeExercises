@@ -1327,6 +1327,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/?envType=daily-question&envId=2025-07-31)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/?envType=daily-question&envId=2025-08-02)
+* [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/?envType=daily-question&envId=2025-08-03)
 
 
 ### Exercise Templates for Various Languages
@@ -2659,3 +2660,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/?envType=daily-question&envId=2025-07-31)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/?envType=daily-question&envId=2025-08-02)
+* [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/?envType=daily-question&envId=2025-08-03)
