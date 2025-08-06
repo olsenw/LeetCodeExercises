@@ -1337,3 +1337,4 @@ Replace `template` with the correct problem name.
 * [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/?envType=daily-question&envId=2025-08-03)
 * [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06)
