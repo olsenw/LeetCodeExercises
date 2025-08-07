@@ -1331,6 +1331,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06)
+* [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07)
 
 
 ### Exercise Templates for Various Languages
@@ -2666,3 +2667,5 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/?envType=daily-question&envId=2025-08-03)
 * [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06)
+* [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07)
