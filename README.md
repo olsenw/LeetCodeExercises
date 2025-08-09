@@ -1333,6 +1333,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06)
 * [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07)
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 
 ### Exercise Templates for Various Languages
@@ -2671,3 +2672,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06)
 * [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07)
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/?envType=problem-list-v2&envId=ng5yboc7)
