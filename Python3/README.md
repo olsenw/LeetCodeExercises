@@ -1341,3 +1341,4 @@ Replace `template` with the correct problem name.
 * [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07)
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [789. Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/?envType=problem-list-v2&envId=ng5yboc7)
