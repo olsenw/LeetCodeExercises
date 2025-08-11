@@ -1335,6 +1335,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [789. Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11)
 
 
 ### Exercise Templates for Various Languages
@@ -2675,3 +2676,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [789. Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11)
