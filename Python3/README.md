@@ -1345,3 +1345,4 @@ Replace `template` with the correct problem name.
 * [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11)
 * [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/?envType=daily-question&envId=2025-08-12)
 * [1357. Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3211. Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/?envType=problem-list-v2&envId=ng5yboc7)
