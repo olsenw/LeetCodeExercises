@@ -1347,3 +1347,4 @@ Replace `template` with the correct problem name.
 * [1357. Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3211. Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/?envType=problem-list-v2&envId=2cmnhthh)
