@@ -1349,3 +1349,5 @@ Replace `template` with the correct problem name.
 * [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [679. 24 Game](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18)
+* [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=problem-list-v2&envId=2cmnhthh)
