@@ -1344,6 +1344,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [679. 24 Game](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18)
 * [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3249. Count the Number of Good Nodes](https://leetcode.com/problems/count-the-number-of-good-nodes/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 
 ### Exercise Templates for Various Languages
@@ -2693,3 +2694,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [679. 24 Game](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18)
 * [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3249. Count the Number of Good Nodes](https://leetcode.com/problems/count-the-number-of-good-nodes/description/?envType=problem-list-v2&envId=ng5yboc7)
