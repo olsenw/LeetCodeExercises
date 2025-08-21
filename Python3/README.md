@@ -1352,3 +1352,4 @@ Replace `template` with the correct problem name.
 * [679. 24 Game](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18)
 * [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3249. Count the Number of Good Nodes](https://leetcode.com/problems/count-the-number-of-good-nodes/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21)
