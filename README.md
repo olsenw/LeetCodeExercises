@@ -1348,7 +1348,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21)
 * [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/?envType=daily-question&envId=2025-08-22)
 * [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/?envType=daily-question&envId=2025-08-23)
-
+* [2063. Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -2701,3 +2701,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21)
 * [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/?envType=daily-question&envId=2025-08-22)
 * [3197. Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/?envType=daily-question&envId=2025-08-23)
+* [2063. Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/?envType=problem-list-v2&envId=ng5yboc7)
