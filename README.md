@@ -1351,6 +1351,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2063. Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25)
 * [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26)
+* [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27)
 
 
 ### Exercise Templates for Various Languages
@@ -2707,3 +2708,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2063. Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25)
 * [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26)
+* [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27)
