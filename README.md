@@ -1356,7 +1356,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29)
 * [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/?envType=daily-question&envId=2025-08-31) Again as original solution new returns TLE
-
+* [390. Elimination Game](https://leetcode.com/problems/elimination-game/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -2717,3 +2717,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29)
 * [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/?envType=daily-question&envId=2025-08-31) Again as original solution new returns TLE
+* [390. Elimination Game](https://leetcode.com/problems/elimination-game/description/?envType=problem-list-v2&envId=ng5yboc7)
