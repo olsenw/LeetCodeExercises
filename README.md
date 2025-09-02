@@ -1357,6 +1357,8 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/?envType=daily-question&envId=2025-08-31) Again as original solution new returns TLE
 * [390. Elimination Game](https://leetcode.com/problems/elimination-game/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)
+
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -2718,3 +2720,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/?envType=daily-question&envId=2025-08-31) Again as original solution new returns TLE
 * [390. Elimination Game](https://leetcode.com/problems/elimination-game/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)
