@@ -1374,3 +1374,4 @@ Replace `template` with the correct problem name.
 * [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/?envType=daily-question&envId=2025-09-09)
 * [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/?envType=daily-question&envId=2025-09-10)
 * [942. DI String Match](https://leetcode.com/problems/di-string-match/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/?envType=problem-list-v2&envId=ng5yboc7)
