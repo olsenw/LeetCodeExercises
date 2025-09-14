@@ -1376,3 +1376,4 @@ Replace `template` with the correct problem name.
 * [942. DI String Match](https://leetcode.com/problems/di-string-match/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=daily-question&envId=2025-09-13)
+* [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/?envType=problem-list-v2&envId=ng5yboc7)
