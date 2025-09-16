@@ -1378,3 +1378,4 @@ Replace `template` with the correct problem name.
 * [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=daily-question&envId=2025-09-13)
 * [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15)
+* [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/?envType=daily-question&envId=2025-09-16)
