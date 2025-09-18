@@ -1373,6 +1373,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15)
 * [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/?envType=daily-question&envId=2025-09-16)
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)
 
 
 ### Exercise Templates for Various Languages
@@ -2751,3 +2752,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15)
 * [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/?envType=daily-question&envId=2025-09-16)
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)
