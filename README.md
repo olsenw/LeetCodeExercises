@@ -1375,6 +1375,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)
 * [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19)
+* [3508. Implement Router](https://leetcode.com/problems/implement-router/description/?envType=daily-question&envId=2025-09-20)
 
 
 ### Exercise Templates for Various Languages
@@ -2755,3 +2756,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)
 * [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19)
+* [3508. Implement Router](https://leetcode.com/problems/implement-router/description/?envType=daily-question&envId=2025-09-20)
