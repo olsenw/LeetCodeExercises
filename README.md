@@ -1376,6 +1376,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)
 * [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19)
 * [3508. Implement Router](https://leetcode.com/problems/implement-router/description/?envType=daily-question&envId=2025-09-20)
+* [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/?envType=daily-question&envId=2025-09-21)
 
 
 ### Exercise Templates for Various Languages
@@ -2757,3 +2758,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)
 * [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19)
 * [3508. Implement Router](https://leetcode.com/problems/implement-router/description/?envType=daily-question&envId=2025-09-20)
+* [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/?envType=daily-question&envId=2025-09-21)
