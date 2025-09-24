@@ -1386,3 +1386,4 @@ Replace `template` with the correct problem name.
 * [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/?envType=daily-question&envId=2025-09-21)
 * [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/description/?envType=problem-list-v2&envId=ng5yboc7)
