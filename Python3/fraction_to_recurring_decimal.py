@@ -29,8 +29,10 @@ class Solution:
         # build answer
         answer = ""
         # answer will be negative
-        if numerator < 0 ^ denominator < 0:
+        if (numerator < 0) ^ (denominator < 0):
             answer += "-"
+        numerator = abs(numerator)
+        denominator = abs(denominator)
         # result and remainder (ie integer part and decimal part)
         a,b = divmod(numerator, denominator)
         answer += str(a)
@@ -78,6 +80,13 @@ class UnitTesting(unittest.TestCase):
         i = 4
         j = 9
         o = "0.(4)"
+        self.assertEqual(s.fractionToDecimal(i,j), o)
+
+    def test_five(self):
+        s = Solution()
+        i = -50
+        j = 8
+        o = "-6.25"
         self.assertEqual(s.fractionToDecimal(i,j), o)
 
 if __name__ == '__main__':
