@@ -1380,6 +1380,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1781. Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 
 ### Exercise Templates for Various Languages
@@ -2765,3 +2766,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1781. Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/?envType=problem-list-v2&envId=ng5yboc7)
