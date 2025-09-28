@@ -1390,3 +1390,4 @@ Replace `template` with the correct problem name.
 * [1781. Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)
+* [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/?envType=problem-list-v2&envId=ng5yboc7)
