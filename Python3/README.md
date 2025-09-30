@@ -1392,3 +1392,4 @@ Replace `template` with the correct problem name.
 * [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)
 * [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1039. Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/?envType=daily-question&envId=2025-09-29)
+* [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30)
