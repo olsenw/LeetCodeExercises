@@ -1386,6 +1386,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1039. Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/?envType=daily-question&envId=2025-09-29)
 * [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30)
+* [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -2777,3 +2778,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1039. Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/?envType=daily-question&envId=2025-09-29)
 * [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30)
+* [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/?envType=problem-list-v2&envId=2cmnhthh)
