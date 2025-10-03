@@ -1395,3 +1395,4 @@ Replace `template` with the correct problem name.
 * [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30)
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02)
+* [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/description/?envType=problem-list-v2&envId=2cmnhthh)
