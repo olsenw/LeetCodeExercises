@@ -1389,6 +1389,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02)
 * [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 
 ### Exercise Templates for Various Languages
@@ -2783,3 +2784,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02)
 * [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/?envType=problem-list-v2&envId=ng5yboc7)
