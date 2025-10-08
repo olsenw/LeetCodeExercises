@@ -1400,3 +1400,4 @@ Replace `template` with the correct problem name.
 * [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/?envType=daily-question&envId=2025-10-06)
 * [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/?envType=daily-question&envId=2025-10-07)
+* [2079. Watering Plants](https://leetcode.com/problems/watering-plants/description/?envType=problem-list-v2&envId=ng5yboc7)
