@@ -1394,6 +1394,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/?envType=daily-question&envId=2025-10-06)
 * [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/?envType=daily-question&envId=2025-10-07)
 * [2079. Watering Plants](https://leetcode.com/problems/watering-plants/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3494. Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/?envType=daily-question&envId=2025-10-09)
 
 
 ### Exercise Templates for Various Languages
@@ -2793,3 +2794,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/?envType=daily-question&envId=2025-10-06)
 * [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/?envType=daily-question&envId=2025-10-07)
 * [2079. Watering Plants](https://leetcode.com/problems/watering-plants/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3494. Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/?envType=daily-question&envId=2025-10-09)
