@@ -1403,6 +1403,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/?envType=daily-question&envId=2025-10-16)
 * [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/?envType=daily-question&envId=2025-10-17)
 * [3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18)
+* [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 
 ### Exercise Templates for Various Languages
@@ -2811,3 +2812,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/?envType=daily-question&envId=2025-10-16)
 * [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/?envType=daily-question&envId=2025-10-17)
 * [3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18)
+* [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/?envType=problem-list-v2&envId=ng5yboc7)
