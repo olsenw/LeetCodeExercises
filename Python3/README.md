@@ -1417,4 +1417,5 @@ Replace `template` with the correct problem name.
 * [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/?envType=daily-question&envId=2025-10-23)
 * [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/?envType=daily-question&envId=2025-10-24)
 * [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/?envType=daily-question&envId=2025-10-26)
 
