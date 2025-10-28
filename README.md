@@ -1412,6 +1412,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/?envType=daily-question&envId=2025-10-26)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -2829,3 +2830,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/?envType=daily-question&envId=2025-10-26)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/?envType=problem-list-v2&envId=2cmnhthh)
