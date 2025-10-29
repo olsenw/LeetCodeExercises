@@ -1420,3 +1420,4 @@ Replace `template` with the correct problem name.
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/?envType=daily-question&envId=2025-10-26)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/?envType=problem-list-v2&envId=2cmnhthh)
