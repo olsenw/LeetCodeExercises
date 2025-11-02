@@ -1424,3 +1424,4 @@ Replace `template` with the correct problem name.
 * [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/?envType=daily-question&envId=2025-10-30)
 * [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/?envType=daily-question&envId=2025-10-31)
 * [3324. Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/?envType=problem-list-v2&envId=ng5yboc7)
