@@ -1420,6 +1420,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/?envType=daily-question&envId=2025-11-04)
+* [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/?envType=daily-question&envId=2025-11-05)
 
 
 ### Exercise Templates for Various Languages
@@ -2845,3 +2846,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/?envType=daily-question&envId=2025-11-04)
+* [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/?envType=daily-question&envId=2025-11-05)
