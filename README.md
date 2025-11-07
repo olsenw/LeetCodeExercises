@@ -1422,6 +1422,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/?envType=daily-question&envId=2025-11-04)
 * [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/?envType=daily-question&envId=2025-11-05)
 * [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/description/?envType=daily-question&envId=2025-11-06)
+* [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/?envType=daily-question&envId=2025-11-07)
 
 
 ### Exercise Templates for Various Languages
@@ -2849,3 +2850,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/?envType=daily-question&envId=2025-11-04)
 * [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/?envType=daily-question&envId=2025-11-05)
 * [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/description/?envType=daily-question&envId=2025-11-06)
+* [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/?envType=daily-question&envId=2025-11-07)
