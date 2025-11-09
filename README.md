@@ -1424,6 +1424,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/description/?envType=daily-question&envId=2025-11-06)
 * [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/?envType=daily-question&envId=2025-11-07)
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -2853,3 +2854,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/description/?envType=daily-question&envId=2025-11-06)
 * [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/?envType=daily-question&envId=2025-11-07)
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/?envType=problem-list-v2&envId=2cmnhthh)
