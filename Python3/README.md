@@ -1432,3 +1432,4 @@ Replace `template` with the correct problem name.
 * [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/?envType=daily-question&envId=2025-11-07)
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10)
