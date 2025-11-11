@@ -1426,6 +1426,8 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10)
+* [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/description/?envType=problem-list-v2&envId=ng5yboc7)
+
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -2856,3 +2858,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10)
+* [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/description/?envType=problem-list-v2&envId=ng5yboc7)
