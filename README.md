@@ -1428,6 +1428,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10)
 * [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/?envType=daily-question&envId=2025-11-12)
+* [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/?envType=daily-question&envId=2025-11-13)
 
 
 ### Exercise Templates for Various Languages
@@ -2861,3 +2862,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10)
 * [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/?envType=daily-question&envId=2025-11-12)
+* [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/?envType=daily-question&envId=2025-11-13)
