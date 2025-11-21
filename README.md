@@ -1436,6 +1436,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/?envType=daily-question&envId=2025-11-18)
 * [2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/?envType=daily-question&envId=2025-11-20)
+* [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -2877,3 +2878,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/?envType=daily-question&envId=2025-11-18)
 * [2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/?envType=daily-question&envId=2025-11-20)
+* [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/?envType=problem-list-v2&envId=2cmnhthh)
