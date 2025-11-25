@@ -1447,3 +1447,4 @@ Replace `template` with the correct problem name.
 * [3190. Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/?envType=daily-question&envId=2025-11-22)
 * [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/?envType=daily-question&envId=2025-11-23)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/?envType=daily-question&envId=2025-11-24)
+* [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/?envType=problem-list-v2&envId=ng5yboc7)
