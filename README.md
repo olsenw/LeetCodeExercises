@@ -1442,6 +1442,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/?envType=daily-question&envId=2025-11-24)
 * [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/?envType=daily-question&envId=2025-11-26)
+* [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27)
 
 
 ### Exercise Templates for Various Languages
@@ -2889,3 +2890,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/?envType=daily-question&envId=2025-11-24)
 * [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/?envType=daily-question&envId=2025-11-26)
+* [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27)
