@@ -1451,3 +1451,4 @@ Replace `template` with the correct problem name.
 * [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/?envType=daily-question&envId=2025-11-26)
 * [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27)
 * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=daily-question&envId=2025-11-29)
