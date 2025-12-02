@@ -1454,3 +1454,4 @@ Replace `template` with the correct problem name.
 * [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=daily-question&envId=2025-11-29)
 * [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1742. Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/?envType=daily-question&envId=2025-12-02)
