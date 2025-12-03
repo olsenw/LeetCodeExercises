@@ -1448,6 +1448,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1742. Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/?envType=daily-question&envId=2025-12-02)
+* [3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/description/?envType=daily-question&envId=2025-12-03)
 
 
 ### Exercise Templates for Various Languages
@@ -2901,3 +2902,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1742. Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/?envType=daily-question&envId=2025-12-02)
+* [3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/description/?envType=daily-question&envId=2025-12-03)
