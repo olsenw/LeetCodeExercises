@@ -1454,6 +1454,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/?envType=daily-question&envId=2025-12-06)
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/?envType=daily-question&envId=2025-12-08)
+* [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/?envType=daily-question&envId=2025-12-09)
 
 
 ### Exercise Templates for Various Languages
@@ -2913,3 +2914,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/?envType=daily-question&envId=2025-12-06)
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/?envType=daily-question&envId=2025-12-08)
+* [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/?envType=daily-question&envId=2025-12-09)
