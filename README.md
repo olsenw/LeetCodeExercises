@@ -1458,6 +1458,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3577. Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/description/?envType=daily-question&envId=2025-12-10)
 * [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/description/?envType=daily-question&envId=2025-12-11)
 * [3433. Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/description/?envType=daily-question&envId=2025-12-12)
+* [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/?envType=daily-question&envId=2025-12-13)
 
 
 ### Exercise Templates for Various Languages
@@ -2921,3 +2922,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3577. Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/description/?envType=daily-question&envId=2025-12-10)
 * [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/description/?envType=daily-question&envId=2025-12-11)
 * [3433. Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/description/?envType=daily-question&envId=2025-12-12)
+* [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/?envType=daily-question&envId=2025-12-13)
