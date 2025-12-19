@@ -1464,6 +1464,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/description/?envType=daily-question&envId=2025-12-16)
 * [3573. Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/?envType=daily-question&envId=2025-12-17)
 * [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/description/?envType=daily-question&envId=2025-12-18)
+* [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -2933,3 +2934,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3562. Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/description/?envType=daily-question&envId=2025-12-16)
 * [3573. Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/?envType=daily-question&envId=2025-12-17)
 * [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/description/?envType=daily-question&envId=2025-12-18)
+* [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=problem-list-v2&envId=2cmnhthh)
