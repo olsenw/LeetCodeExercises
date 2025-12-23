@@ -1475,3 +1475,4 @@ Replace `template` with the correct problem name.
 * [2423. Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/?envType=daily-question&envId=2025-12-21)
 * [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/?envType=daily-question&envId=2025-12-22)
+* [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/?envType=problem-list-v2&envId=ng5yboc7)
