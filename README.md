@@ -1470,6 +1470,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/?envType=daily-question&envId=2025-12-22)
 * [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/?envType=daily-question&envId=2025-12-24)
+* [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 
 ### Exercise Templates for Various Languages
@@ -2945,3 +2946,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/?envType=daily-question&envId=2025-12-22)
 * [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/?envType=daily-question&envId=2025-12-24)
+* [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/?envType=problem-list-v2&envId=ng5yboc7)
