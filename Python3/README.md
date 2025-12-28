@@ -1480,3 +1480,4 @@ Replace `template` with the correct problem name.
 * [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1387. Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3114. Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/description/?envType=problem-list-v2&envId=2cmnhthh)
