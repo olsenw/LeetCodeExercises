@@ -1475,6 +1475,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3114. Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/?envType=daily-question&envId=2025-12-29)
+* [3065. Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -2955,3 +2956,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3114. Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/?envType=daily-question&envId=2025-12-29)
+* [3065. Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/?envType=problem-list-v2&envId=2cmnhthh)
