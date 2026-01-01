@@ -1484,3 +1484,4 @@ Replace `template` with the correct problem name.
 * [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/?envType=daily-question&envId=2025-12-29)
 * [3065. Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3099. Harshad Number](https://leetcode.com/problems/harshad-number/description/?envType=problem-list-v2&envId=2cmnhthh)
