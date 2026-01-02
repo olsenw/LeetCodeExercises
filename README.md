@@ -1478,6 +1478,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3065. Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3099. Harshad Number](https://leetcode.com/problems/harshad-number/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/?envType=daily-question&envId=2026-01-02)
 
 
 ### Exercise Templates for Various Languages
@@ -2961,3 +2962,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3065. Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3099. Harshad Number](https://leetcode.com/problems/harshad-number/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/?envType=daily-question&envId=2026-01-02)
