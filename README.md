@@ -1485,6 +1485,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2815. Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/?envType=daily-question&envId=2026-01-09)
 
 
 ### Exercise Templates for Various Languages
@@ -2975,3 +2976,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2815. Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/?envType=daily-question&envId=2026-01-09)
