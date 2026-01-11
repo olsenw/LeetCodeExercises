@@ -1494,3 +1494,4 @@ Replace `template` with the correct problem name.
 * [2815. Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/?envType=daily-question&envId=2026-01-09)
 * [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3760. Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/description/?envType=problem-list-v2&envId=ng5yboc7)
