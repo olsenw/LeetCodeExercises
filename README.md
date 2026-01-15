@@ -1491,6 +1491,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/description/?envType=daily-question&envId=2026-01-13)
 * [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/description/?envType=daily-question&envId=2026-01-14)
+* [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15)
 
 
 ### Exercise Templates for Various Languages
@@ -2987,3 +2988,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/description/?envType=daily-question&envId=2026-01-13)
 * [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/description/?envType=daily-question&envId=2026-01-14)
+* [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15)
