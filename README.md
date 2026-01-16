@@ -1492,6 +1492,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/description/?envType=daily-question&envId=2026-01-13)
 * [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/description/?envType=daily-question&envId=2026-01-14)
 * [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15)
+* [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/?envType=daily-question&envId=2026-01-16)
 
 
 ### Exercise Templates for Various Languages
@@ -2989,3 +2990,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/description/?envType=daily-question&envId=2026-01-13)
 * [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/description/?envType=daily-question&envId=2026-01-14)
 * [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15)
+* [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/?envType=daily-question&envId=2026-01-16)
