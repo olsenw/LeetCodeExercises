@@ -1502,6 +1502,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3510. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/?envType=daily-question&envId=2026-01-23)
 * [1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25)
+* [3582. Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3009,3 +3010,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3510. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/?envType=daily-question&envId=2026-01-23)
 * [1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25)
+* [3582. Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/description/?envType=problem-list-v2&envId=2cmnhthh)
