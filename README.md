@@ -1505,6 +1505,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3582. Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27)
 * [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/description/?envType=daily-question&envId=2026-01-28)
+* [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 
 ### Exercise Templates for Various Languages
@@ -3015,3 +3016,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3582. Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27)
 * [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/description/?envType=daily-question&envId=2026-01-28)
+* [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/?envType=problem-list-v2&envId=ng5yboc7)
