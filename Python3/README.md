@@ -1513,3 +1513,4 @@ Replace `template` with the correct problem name.
 * [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27)
 * [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/description/?envType=daily-question&envId=2026-01-28)
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/?envType=daily-question&envId=2026-01-30)
