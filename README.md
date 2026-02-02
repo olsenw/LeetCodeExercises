@@ -1509,6 +1509,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/?envType=daily-question&envId=2026-01-30)
 * [3794. Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3013. Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/?envType=daily-question&envId=2026-02-02)
 
 
 ### Exercise Templates for Various Languages
@@ -3023,3 +3024,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/?envType=daily-question&envId=2026-01-30)
 * [3794. Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3013. Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/?envType=daily-question&envId=2026-02-02)
