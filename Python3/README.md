@@ -1519,3 +1519,4 @@ Replace `template` with the correct problem name.
 * [3013. Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/?envType=daily-question&envId=2026-02-02)
 * [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/?envType=daily-question&envId=2026-02-03)
 * [3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/?envType=daily-question&envId=2026-02-04)
+* [3813. Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/description/?envType=problem-list-v2&envId=2cmnhthh)
