@@ -1513,6 +1513,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/?envType=daily-question&envId=2026-02-03)
 * [3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/?envType=daily-question&envId=2026-02-04)
 * [3813. Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=daily-question&envId=2026-02-06)
 
 
 ### Exercise Templates for Various Languages
@@ -3031,3 +3032,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/?envType=daily-question&envId=2026-02-03)
 * [3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/?envType=daily-question&envId=2026-02-04)
 * [3813. Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=daily-question&envId=2026-02-06)
