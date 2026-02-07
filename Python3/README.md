@@ -1521,3 +1521,4 @@ Replace `template` with the correct problem name.
 * [3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/?envType=daily-question&envId=2026-02-04)
 * [3813. Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=daily-question&envId=2026-02-06)
+* [3798. Largest Even Number](https://leetcode.com/problems/largest-even-number/description/?envType=problem-list-v2&envId=2cmnhthh)
