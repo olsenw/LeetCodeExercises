@@ -1515,6 +1515,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3813. Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=daily-question&envId=2026-02-06)
 * [3798. Largest Even Number](https://leetcode.com/problems/largest-even-number/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3035,3 +3036,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3813. Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=daily-question&envId=2026-02-06)
 * [3798. Largest Even Number](https://leetcode.com/problems/largest-even-number/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/?envType=problem-list-v2&envId=2cmnhthh)
