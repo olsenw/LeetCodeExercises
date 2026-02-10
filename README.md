@@ -1517,6 +1517,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3798. Largest Even Number](https://leetcode.com/problems/largest-even-number/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3527. Find the Most Common Response](https://leetcode.com/problems/find-the-most-common-response/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/description/?envType=daily-question&envId=2026-02-10)
 
 
 ### Exercise Templates for Various Languages
@@ -3039,3 +3040,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3798. Largest Even Number](https://leetcode.com/problems/largest-even-number/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3527. Find the Most Common Response](https://leetcode.com/problems/find-the-most-common-response/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/description/?envType=daily-question&envId=2026-02-10)
