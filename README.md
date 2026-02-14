@@ -1521,6 +1521,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3721. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/description/?envType=daily-question&envId=2026-02-11)
 * [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/?envType=daily-question&envId=2026-02-12)
 * [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/description/?envType=daily-question&envId=2026-02-13)
+* [1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/?envType=problem-list-v2&envId=ng5yboc7)
 
 
 ### Exercise Templates for Various Languages
@@ -3047,3 +3048,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3721. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/description/?envType=daily-question&envId=2026-02-11)
 * [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/?envType=daily-question&envId=2026-02-12)
 * [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/description/?envType=daily-question&envId=2026-02-13)
+* [1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/?envType=problem-list-v2&envId=ng5yboc7)
