@@ -1531,3 +1531,4 @@ Replace `template` with the correct problem name.
 * [1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3159. Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/?envType=problem-list-v2&envId=2cmnhthh)
