@@ -1528,6 +1528,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/?envType=daily-question&envId=2026-02-19)
 * [761. Special Binary String](https://leetcode.com/problems/special-binary-string/description/?envType=daily-question&envId=2026-02-20)
 * [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/?envType=daily-question&envId=2026-02-22)
 
 
 ### Exercise Templates for Various Languages
@@ -3061,3 +3062,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/?envType=daily-question&envId=2026-02-19)
 * [761. Special Binary String](https://leetcode.com/problems/special-binary-string/description/?envType=daily-question&envId=2026-02-20)
 * [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/?envType=daily-question&envId=2026-02-22)
