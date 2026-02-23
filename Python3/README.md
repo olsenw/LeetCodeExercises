@@ -1536,3 +1536,4 @@ Replace `template` with the correct problem name.
 * [761. Special Binary String](https://leetcode.com/problems/special-binary-string/description/?envType=daily-question&envId=2026-02-20)
 * [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/?envType=daily-question&envId=2026-02-22)
+* [3751. Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/description/?envType=problem-list-v2&envId=ng5yboc7)
