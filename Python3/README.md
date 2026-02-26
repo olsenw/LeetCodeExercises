@@ -1539,3 +1539,4 @@ Replace `template` with the correct problem name.
 * [3751. Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=ng5yboc7)
