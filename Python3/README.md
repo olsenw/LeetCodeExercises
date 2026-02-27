@@ -1540,3 +1540,4 @@ Replace `template` with the correct problem name.
 * [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3666. Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/description/?envType=daily-question&envId=2026-02-27)
