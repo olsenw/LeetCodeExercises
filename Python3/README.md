@@ -1542,3 +1542,4 @@ Replace `template` with the correct problem name.
 * [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3666. Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/description/?envType=daily-question&envId=2026-02-27)
 * [1860. Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/?envType=problem-list-v2&envId=ng5yboc7)
