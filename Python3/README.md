@@ -1543,3 +1543,4 @@ Replace `template` with the correct problem name.
 * [3666. Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/description/?envType=daily-question&envId=2026-02-27)
 * [1860. Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/?envType=daily-question&envId=2026-03-02)
