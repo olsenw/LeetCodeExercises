@@ -1538,6 +1538,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/?envType=daily-question&envId=2026-03-02)
 * [3847. Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3852. Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3081,3 +3082,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/?envType=daily-question&envId=2026-03-02)
 * [3847. Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3852. Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/description/?envType=problem-list-v2&envId=2cmnhthh)
