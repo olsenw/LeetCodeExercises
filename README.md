@@ -1540,6 +1540,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3847. Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3852. Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3827. Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3842. Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3085,3 +3086,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3847. Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3852. Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3827. Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3842. Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/description/?envType=problem-list-v2&envId=2cmnhthh)
