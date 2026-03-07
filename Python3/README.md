@@ -1548,3 +1548,4 @@ Replace `template` with the correct problem name.
 * [3852. Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3827. Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3842. Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1888. Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/?envType=daily-question&envId=2026-03-07)
