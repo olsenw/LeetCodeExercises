@@ -1550,3 +1550,4 @@ Replace `template` with the correct problem name.
 * [3842. Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1888. Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/?envType=daily-question&envId=2026-03-07)
 * [2120. Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3129. Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/description/?envType=daily-question&envId=2026-03-09)
