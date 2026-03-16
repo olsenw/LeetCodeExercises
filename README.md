@@ -1550,6 +1550,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/description/?envType=daily-question&envId=2026-03-13)
 * [3856. Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/?envType=daily-question&envId=2026-03-15)
+* [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/?envType=daily-question&envId=2026-03-16)
 
 
 ### Exercise Templates for Various Languages
@@ -3105,3 +3106,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/description/?envType=daily-question&envId=2026-03-13)
 * [3856. Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/?envType=daily-question&envId=2026-03-15)
+* [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/?envType=daily-question&envId=2026-03-16)
