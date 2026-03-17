@@ -1558,3 +1558,4 @@ Replace `template` with the correct problem name.
 * [3856. Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/?envType=daily-question&envId=2026-03-15)
 * [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/?envType=daily-question&envId=2026-03-16)
+* [3648. Minimum Sensors to Cover Grid](https://leetcode.com/problems/minimum-sensors-to-cover-grid/description/?envType=problem-list-v2&envId=ng5yboc7)
