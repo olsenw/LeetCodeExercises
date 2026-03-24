@@ -1557,7 +1557,8 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3567. Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/description/?envType=daily-question&envId=2026-03-20)
 * [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/description/?envType=daily-question&envId=2026-03-21)
 * [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/?envType=problem-list-v2&envId=2cmnhthh)
-* [1594. Maximum Non Negative Product in a Matrix](1594. Maximum Non Negative Product in a Matrix)
+* [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/?envType=daily-question&envId=2026-03-23)
+* [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24)
 
 
 ### Exercise Templates for Various Languages
@@ -3120,4 +3121,5 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3567. Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/description/?envType=daily-question&envId=2026-03-20)
 * [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/description/?envType=daily-question&envId=2026-03-21)
 * [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/?envType=problem-list-v2&envId=2cmnhthh)
-* [1594. Maximum Non Negative Product in a Matrix](1594. Maximum Non Negative Product in a Matrix)
+* [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/?envType=daily-question&envId=2026-03-23)
+* [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24)
