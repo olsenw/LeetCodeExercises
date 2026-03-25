@@ -1566,3 +1566,4 @@ Replace `template` with the correct problem name.
 * [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/?envType=daily-question&envId=2026-03-23)
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24)
+* [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/description/?envType=daily-question&envId=2026-03-25)
