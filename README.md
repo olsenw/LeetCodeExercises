@@ -1561,6 +1561,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24)
 * [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/description/?envType=daily-question&envId=2026-03-25)
 * [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/description/?envType=daily-question&envId=2026-03-26)
+* [2946. Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/?envType=daily-question&envId=2026-03-27)
 
 
 ### Exercise Templates for Various Languages
@@ -3127,3 +3128,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24)
 * [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/description/?envType=daily-question&envId=2026-03-25)
 * [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/description/?envType=daily-question&envId=2026-03-26)
+* [2946. Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/?envType=daily-question&envId=2026-03-27)
