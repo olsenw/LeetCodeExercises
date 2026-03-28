@@ -1569,3 +1569,4 @@ Replace `template` with the correct problem name.
 * [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/description/?envType=daily-question&envId=2026-03-25)
 * [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/description/?envType=daily-question&envId=2026-03-26)
 * [2946. Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/?envType=daily-question&envId=2026-03-27)
+* [2573. Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/description/?envType=daily-question&envId=2026-03-28)
