@@ -1574,6 +1574,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1566. Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/?envType=daily-question&envId=2026-04-07)
 * [3653. XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/description/?envType=daily-question&envId=2026-04-08)
+* [3655. XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/description/?envType=daily-question&envId=2026-04-09)
 
 
 ### Exercise Templates for Various Languages
@@ -3153,3 +3154,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1566. Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/?envType=daily-question&envId=2026-04-07)
 * [3653. XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/description/?envType=daily-question&envId=2026-04-08)
+* [3655. XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/description/?envType=daily-question&envId=2026-04-09)
