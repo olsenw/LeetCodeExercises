@@ -1585,3 +1585,4 @@ Replace `template` with the correct problem name.
 * [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3741. Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/description/?envType=daily-question&envId=2026-04-11)
 * [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/?envType=daily-question&envId=2026-04-12)
+* [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/?envType=daily-question&envId=2026-04-13)
