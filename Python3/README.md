@@ -1587,3 +1587,4 @@ Replace `template` with the correct problem name.
 * [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/?envType=daily-question&envId=2026-04-12)
 * [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/?envType=daily-question&envId=2026-04-13)
 * [3895. Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/description/?envType=problem-list-v2&envId=2cmnhthh)
