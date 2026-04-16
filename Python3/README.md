@@ -1588,3 +1588,4 @@ Replace `template` with the correct problem name.
 * [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/?envType=daily-question&envId=2026-04-13)
 * [3895. Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3488. Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/description/?envType=daily-question&envId=2026-04-16)
