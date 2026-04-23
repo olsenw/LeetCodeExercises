@@ -1588,6 +1588,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/?envType=daily-question&envId=2026-04-20)
 * [1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/?envType=daily-question&envId=2026-04-21)
 * [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/?envType=daily-question&envId=2026-04-22)
+* [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/submissions/1985945072/?envType=daily-question&envId=2026-04-23)
 
 
 ### Exercise Templates for Various Languages
@@ -3181,3 +3182,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/?envType=daily-question&envId=2026-04-20)
 * [1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/?envType=daily-question&envId=2026-04-21)
 * [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/?envType=daily-question&envId=2026-04-22)
+* [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/submissions/1985945072/?envType=daily-question&envId=2026-04-23)
