@@ -1596,3 +1596,4 @@ Replace `template` with the correct problem name.
 * [1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/?envType=daily-question&envId=2026-04-21)
 * [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/?envType=daily-question&envId=2026-04-22)
 * [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/submissions/1985945072/?envType=daily-question&envId=2026-04-23)
+* [2833. Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/?envType=daily-question&envId=2026-04-24)
