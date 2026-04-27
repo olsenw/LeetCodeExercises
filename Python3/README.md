@@ -1599,3 +1599,4 @@ Replace `template` with the correct problem name.
 * [2833. Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/?envType=daily-question&envId=2026-04-24)
 * [3464. Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/?envType=daily-question&envId=2026-04-25)
 * [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/?envType=daily-question&envId=2026-04-26)
+* [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/?envType=daily-question&envId=2026-04-27)
