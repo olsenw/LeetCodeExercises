@@ -1601,3 +1601,4 @@ Replace `template` with the correct problem name.
 * [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/?envType=daily-question&envId=2026-04-26)
 * [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/?envType=daily-question&envId=2026-04-27)
 * [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3225. Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/?envType=daily-question&envId=2026-04-29)
