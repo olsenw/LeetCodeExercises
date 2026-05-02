@@ -1604,3 +1604,4 @@ Replace `template` with the correct problem name.
 * [3225. Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/?envType=daily-question&envId=2026-04-29)
 * [3742. Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/description/?envType=daily-question&envId=2026-04-30)
 * [396. Rotate Function](https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01)
+* [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/description/?envType=daily-question&envId=2026-05-02)
