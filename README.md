@@ -1599,6 +1599,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [396. Rotate Function](https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01)
 * [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/description/?envType=daily-question&envId=2026-05-02)
 * [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3203,3 +3204,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [396. Rotate Function](https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01)
 * [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/description/?envType=daily-question&envId=2026-05-02)
 * [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/?envType=problem-list-v2&envId=2cmnhthh)
