@@ -1601,6 +1601,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)
+* [1116. Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -3207,3 +3208,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)
+* [1116. Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/)
