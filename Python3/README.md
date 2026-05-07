@@ -1609,3 +1609,4 @@ Replace `template` with the correct problem name.
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)
 * [1116. Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/)
+* [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/description/?envType=daily-question&envId=2026-05-07)
