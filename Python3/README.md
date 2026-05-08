@@ -1610,3 +1610,4 @@ Replace `template` with the correct problem name.
 * [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)
 * [1116. Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/)
 * [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/description/?envType=daily-question&envId=2026-05-07)
+* [3629. Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/submissions/1997875531/?envType=daily-question&envId=2026-05-08)
