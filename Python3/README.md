@@ -1612,3 +1612,4 @@ Replace `template` with the correct problem name.
 * [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/description/?envType=daily-question&envId=2026-05-07)
 * [3629. Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/submissions/1997875531/?envType=daily-question&envId=2026-05-08)
 * [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/?envType=daily-question&envId=2026-05-09)
+* [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/?envType=daily-question&envId=2026-05-10)
