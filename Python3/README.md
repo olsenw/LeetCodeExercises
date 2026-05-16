@@ -1618,3 +1618,4 @@ Replace `template` with the correct problem name.
 * [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/?envType=daily-question&envId=2026-05-13)
 * [998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/)
 * [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/?envType=daily-question&envId=2026-05-16)
