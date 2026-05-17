@@ -1619,3 +1619,4 @@ Replace `template` with the correct problem name.
 * [998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/)
 * [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/?envType=daily-question&envId=2026-05-16)
+* [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/?envType=daily-question&envId=2026-05-17)
