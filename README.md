@@ -1614,6 +1614,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/?envType=daily-question&envId=2026-05-16)
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/?envType=daily-question&envId=2026-05-17)
 * [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3857. Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -3233,3 +3234,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/?envType=daily-question&envId=2026-05-16)
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/?envType=daily-question&envId=2026-05-17)
 * [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3857. Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/description/)
