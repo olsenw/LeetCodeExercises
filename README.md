@@ -1618,6 +1618,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3843. First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/description/)
 * [185. Day of the Week](https://leetcode.com/problems/day-of-the-week/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/)
+* [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -3241,3 +3242,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3843. First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/description/)
 * [185. Day of the Week](https://leetcode.com/problems/day-of-the-week/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/)
+* [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)
