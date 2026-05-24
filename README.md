@@ -1619,6 +1619,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [185. Day of the Week](https://leetcode.com/problems/day-of-the-week/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/)
 * [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)
+* [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/description/?envType=daily-question&envId=2026-05-24)
 
 
 ### Exercise Templates for Various Languages
@@ -3243,3 +3244,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [185. Day of the Week](https://leetcode.com/problems/day-of-the-week/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/)
 * [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)
+* [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/description/?envType=daily-question&envId=2026-05-24)
