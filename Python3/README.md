@@ -1627,3 +1627,4 @@ Replace `template` with the correct problem name.
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/)
 * [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)
 * [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/description/?envType=daily-question&envId=2026-05-24)
+* [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/?envType=daily-question&envId=2026-05-25)
