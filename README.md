@@ -1622,6 +1622,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/description/?envType=daily-question&envId=2026-05-24)
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/?envType=daily-question&envId=2026-05-25)
 * [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/?envType=daily-question&envId=2026-05-26)
+* [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/?envType=daily-question&envId=2026-05-27)
 
 
 ### Exercise Templates for Various Languages
@@ -3249,3 +3250,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/description/?envType=daily-question&envId=2026-05-24)
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/?envType=daily-question&envId=2026-05-25)
 * [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/?envType=daily-question&envId=2026-05-26)
+* [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/?envType=daily-question&envId=2026-05-27)
