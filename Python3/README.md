@@ -1630,3 +1630,4 @@ Replace `template` with the correct problem name.
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/?envType=daily-question&envId=2026-05-25)
 * [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/?envType=daily-question&envId=2026-05-26)
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/?envType=daily-question&envId=2026-05-27)
+* [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/description/?envType=daily-question&envId=2026-05-28)
