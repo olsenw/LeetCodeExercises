@@ -1624,6 +1624,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/?envType=daily-question&envId=2026-05-26)
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/?envType=daily-question&envId=2026-05-27)
 * [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/description/?envType=daily-question&envId=2026-05-28)
+* [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/?envType=daily-question&envId=2026-05-29)
 
 
 ### Exercise Templates for Various Languages
@@ -3253,3 +3254,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/?envType=daily-question&envId=2026-05-26)
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/?envType=daily-question&envId=2026-05-27)
 * [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/description/?envType=daily-question&envId=2026-05-28)
+* [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/?envType=daily-question&envId=2026-05-29)
