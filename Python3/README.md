@@ -1632,3 +1632,4 @@ Replace `template` with the correct problem name.
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/?envType=daily-question&envId=2026-05-27)
 * [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/description/?envType=daily-question&envId=2026-05-28)
 * [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/?envType=daily-question&envId=2026-05-29)
+* [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/description/?envType=daily-question&envId=2026-05-30)
