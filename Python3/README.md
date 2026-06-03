@@ -1636,3 +1636,4 @@ Replace `template` with the correct problem name.
 * [2126. Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/?envType=daily-question&envId=2026-05-31)
 * [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/?envType=daily-question&envId=2026-06-01)
 * [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/?envType=daily-question&envId=2026-06-02)
+* [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/description/?envType=daily-question&envId=2026-06-03)
