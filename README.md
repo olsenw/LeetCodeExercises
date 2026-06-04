@@ -1630,6 +1630,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/?envType=daily-question&envId=2026-06-01)
 * [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/?envType=daily-question&envId=2026-06-02)
 * [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/description/?envType=daily-question&envId=2026-06-03)
+* [3941. Password Strength](https://leetcode.com/problems/password-strength/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -3265,3 +3266,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/?envType=daily-question&envId=2026-06-01)
 * [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/?envType=daily-question&envId=2026-06-02)
 * [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/description/?envType=daily-question&envId=2026-06-03)
+* [3941. Password Strength](https://leetcode.com/problems/password-strength/description/)
