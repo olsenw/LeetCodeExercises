@@ -1632,6 +1632,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/description/?envType=daily-question&envId=2026-06-03)
 * [3941. Password Strength](https://leetcode.com/problems/password-strength/description/)
 * [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/description/?envType=daily-question&envId=2026-06-05)
+* [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/?envType=daily-question&envId=2026-06-06)
 
 
 ### Exercise Templates for Various Languages
@@ -3269,3 +3270,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/description/?envType=daily-question&envId=2026-06-03)
 * [3941. Password Strength](https://leetcode.com/problems/password-strength/description/)
 * [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/description/?envType=daily-question&envId=2026-06-05)
+* [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/?envType=daily-question&envId=2026-06-06)
