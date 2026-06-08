@@ -1641,3 +1641,4 @@ Replace `template` with the correct problem name.
 * [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/description/?envType=daily-question&envId=2026-06-05)
 * [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/?envType=daily-question&envId=2026-06-06)
 * [3708. Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/description/)
+* [3898. Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/description/)
