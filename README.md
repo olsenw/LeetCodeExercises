@@ -1635,6 +1635,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/?envType=daily-question&envId=2026-06-06)
 * [3708. Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/description/)
 * [3898. Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/description/)
+* [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/description/?envType=daily-question&envId=2026-06-09)
 
 
 ### Exercise Templates for Various Languages
