@@ -1643,3 +1643,4 @@ Replace `template` with the correct problem name.
 * [3708. Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/description/)
 * [3898. Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/description/)
 * [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/description/?envType=daily-question&envId=2026-06-09)
+* [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/description/?envType=daily-question&envId=2026-06-10)
