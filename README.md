@@ -1641,6 +1641,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3559. Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/submissions/2030384252/?envType=daily-question&envId=2026-06-12)
 * [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)
 * [3894. Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/description/)
+* [2317. Maximum XOR After Operations ](https://leetcode.com/problems/maximum-xor-after-operations/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -3286,3 +3287,5 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3558. Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/?envType=daily-question&envId=2026-06-11)
 * [3559. Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/submissions/2030384252/?envType=daily-question&envId=2026-06-12)
 * [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)
+* [3894. Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/description/)
+* [2317. Maximum XOR After Operations ](https://leetcode.com/problems/maximum-xor-after-operations/description/)
