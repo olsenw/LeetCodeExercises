@@ -1643,6 +1643,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3894. Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/description/)
 * [2317. Maximum XOR After Operations ](https://leetcode.com/problems/maximum-xor-after-operations/description/)
 * [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/?envType=daily-question&envId=2026-06-16)
+* [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/description/?envType=daily-question&envId=2026-06-17)
 
 
 ### Exercise Templates for Various Languages
@@ -3291,3 +3292,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3894. Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/description/)
 * [2317. Maximum XOR After Operations ](https://leetcode.com/problems/maximum-xor-after-operations/description/)
 * [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/?envType=daily-question&envId=2026-06-16)
+* [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/description/?envType=daily-question&envId=2026-06-17)
