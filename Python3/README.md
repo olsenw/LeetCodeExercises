@@ -1652,3 +1652,4 @@ Replace `template` with the correct problem name.
 * [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/?envType=daily-question&envId=2026-06-16)
 * [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/description/?envType=daily-question&envId=2026-06-17)
 * [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/?envType=daily-question&envId=2026-06-18)
+* [3692. Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/description/)
