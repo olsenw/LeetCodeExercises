@@ -1649,6 +1649,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/?envType=daily-question&envId=2026-06-20)
 * [3955. Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/description/)
 * [2960. Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/description/)
+* [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/?envType=daily-question&envId=2026-06-23)
 
 
 ### Exercise Templates for Various Languages
@@ -3303,3 +3304,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/?envType=daily-question&envId=2026-06-20)
 * [3955. Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/description/)
 * [2960. Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/description/)
+* [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/?envType=daily-question&envId=2026-06-23)
