@@ -1655,6 +1655,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3739. Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/?envType=daily-question&envId=2026-06-26)
 * [3020. Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/?envType=daily-question&envId=2026-06-27)
 * [3925. Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/description/)
+* [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/description/)
 
 
 ### Exercise Templates for Various Languages
@@ -3315,3 +3316,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3739. Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/?envType=daily-question&envId=2026-06-26)
 * [3020. Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/?envType=daily-question&envId=2026-06-27)
 * [3925. Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/description/)
+* [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/description/)
