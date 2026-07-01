@@ -1664,3 +1664,4 @@ Replace `template` with the correct problem name.
 * [3925. Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/description/)
 * [3918. Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/description/)
 * [3945. Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/)
+* [2023. Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/description/)
