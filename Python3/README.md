@@ -1666,3 +1666,4 @@ Replace `template` with the correct problem name.
 * [3945. Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/)
 * [2023. Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/description/)
 * [3286. Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=daily-question&envId=2026-07-02)
+* [3620. Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/?envType=daily-question&envId=2026-07-03)
