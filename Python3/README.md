@@ -1668,3 +1668,4 @@ Replace `template` with the correct problem name.
 * [3286. Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=daily-question&envId=2026-07-02)
 * [3620. Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/?envType=daily-question&envId=2026-07-03)
 * [2651. Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)
+* [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/?envType=daily-question&envId=2026-07-05)
