@@ -1670,3 +1670,4 @@ Replace `template` with the correct problem name.
 * [2651. Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)
 * [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/?envType=daily-question&envId=2026-07-05)
 * [3978. Unique Middle Element](https://leetcode.com/problems/unique-middle-element/description/)
+* [3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/?envType=daily-question&envId=2026-07-07)
