@@ -1664,6 +1664,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/?envType=daily-question&envId=2026-07-05)
 * [3978. Unique Middle Element](https://leetcode.com/problems/unique-middle-element/description/)
 * [3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/?envType=daily-question&envId=2026-07-07)
+* [3756. Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/description/?envType=daily-question&envId=2026-07-08)
 
 
 ### Exercise Templates for Various Languages
@@ -3333,3 +3334,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/?envType=daily-question&envId=2026-07-05)
 * [3978. Unique Middle Element](https://leetcode.com/problems/unique-middle-element/description/)
 * [3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/?envType=daily-question&envId=2026-07-07)
+* [3756. Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/description/?envType=daily-question&envId=2026-07-08)
