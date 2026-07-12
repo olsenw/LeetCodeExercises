@@ -1675,3 +1675,4 @@ Replace `template` with the correct problem name.
 * [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/?envType=daily-question&envId=2026-07-09)
 * [3534. Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/?envType=daily-question&envId=2026-07-10)
 * [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)
+* [3270. Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/description/)
