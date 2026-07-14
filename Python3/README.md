@@ -1677,3 +1677,4 @@ Replace `template` with the correct problem name.
 * [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)
 * [3270. Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/description/)
 * [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/description/)
+* [3336. Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/?envType=daily-question&envId=2026-07-14)
