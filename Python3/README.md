@@ -1683,3 +1683,4 @@ Replace `template` with the correct problem name.
 * [3312. Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/?envType=daily-question&envId=2026-07-17)
 * [3210. Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/description/)
 * [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/?envType=daily-question&envId=2026-07-19)
+* [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/description/)
