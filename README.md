@@ -1677,6 +1677,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3210. Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/description/)
 * [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/?envType=daily-question&envId=2026-07-19)
 * [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/description/)
+* [3499. Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/description/?envType=daily-question&envId=2026-07-21)
 
 
 ### Exercise Templates for Various Languages
@@ -3359,3 +3360,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3210. Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/description/)
 * [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/?envType=daily-question&envId=2026-07-19)
 * [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/description/)
+* [3499. Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/description/?envType=daily-question&envId=2026-07-21)
