@@ -1679,6 +1679,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/description/)
 * [3499. Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/description/?envType=daily-question&envId=2026-07-21)
 * [3501. Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/?envType=daily-question&envId=2026-07-22)
+* [3513. Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/description/?envType=daily-question&envId=2026-07-23)
 
 
 ### Exercise Templates for Various Languages
@@ -3363,3 +3364,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/description/)
 * [3499. Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/description/?envType=daily-question&envId=2026-07-21)
 * [3501. Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/?envType=daily-question&envId=2026-07-22)
+* [3513. Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/description/?envType=daily-question&envId=2026-07-23)
