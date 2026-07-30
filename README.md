@@ -1686,6 +1686,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3774. Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/description/)
 * [3517. Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/description/?envType=daily-question&envId=2026-07-28)
 * [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/?envType=daily-question&envId=2026-07-29)
+* [3280. Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3377,3 +3378,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3774. Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/description/)
 * [3517. Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/description/?envType=daily-question&envId=2026-07-28)
 * [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/?envType=daily-question&envId=2026-07-29)
+* [3280. Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/?envType=problem-list-v2&envId=2cmnhthh)
