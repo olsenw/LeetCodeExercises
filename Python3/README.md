@@ -1695,3 +1695,4 @@ Replace `template` with the correct problem name.
 * [3518. Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/?envType=daily-question&envId=2026-07-29)
 * [3280. Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3678. Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1805. Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
