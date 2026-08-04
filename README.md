@@ -1691,6 +1691,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1805. Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/?envType=daily-question&envId=2026-08-04)
 
 
 ### Exercise Templates for Various Languages
@@ -3387,3 +3388,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1805. Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/?envType=daily-question&envId=2026-08-04)
