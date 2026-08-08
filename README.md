@@ -1695,6 +1695,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3310. Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/?envType=daily-question&envId=2026-08-05)
 * [2299. Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3348. Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/?envType=daily-question&envId=2026-08-07)
+* [3302. Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/description/?envType=daily-question&envId=2026-08-08)
 
 
 ### Exercise Templates for Various Languages
@@ -3395,3 +3396,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3310. Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/?envType=daily-question&envId=2026-08-05)
 * [2299. Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3348. Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/?envType=daily-question&envId=2026-08-07)
+* [3302. Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/description/?envType=daily-question&envId=2026-08-08)
