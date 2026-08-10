@@ -1704,3 +1704,4 @@ Replace `template` with the correct problem name.
 * [3348. Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/?envType=daily-question&envId=2026-08-07)
 * [3302. Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/description/?envType=daily-question&envId=2026-08-08)
 * [2765. Longest Alternating Subarray](https://leetcode.com/problems/longest-alternating-subarray/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [2614. Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/description/?envType=problem-list-v2&envId=2cmnhthh)
