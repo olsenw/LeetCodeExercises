@@ -1711,3 +1711,4 @@ Replace `template` with the correct problem name.
 * [3090. Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/description/?envType=daily-question&envId=2026-08-14)
 * [3702. Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/description/?envType=daily-question&envId=2026-08-15)
 * [2029. Stone Game IX](https://leetcode.com/problems/stone-game-ix/description/?envType=daily-question&envId=2026-08-16)
+* [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/description/?envType=daily-question&envId=2026-08-17)
