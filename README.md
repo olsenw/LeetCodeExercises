@@ -1706,6 +1706,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2029. Stone Game IX](https://leetcode.com/problems/stone-game-ix/description/?envType=daily-question&envId=2026-08-16)
 * [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/description/?envType=daily-question&envId=2026-08-17)
 * [3471. Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/?envType=daily-question&envId=2026-08-18)
+* [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/?envType=daily-question&envId=2026-08-19)
 
 
 ### Exercise Templates for Various Languages
@@ -3417,3 +3418,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2029. Stone Game IX](https://leetcode.com/problems/stone-game-ix/description/?envType=daily-question&envId=2026-08-16)
 * [1563. Stone Game V](https://leetcode.com/problems/stone-game-v/description/?envType=daily-question&envId=2026-08-17)
 * [3471. Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/?envType=daily-question&envId=2026-08-18)
+* [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/?envType=daily-question&envId=2026-08-19)
