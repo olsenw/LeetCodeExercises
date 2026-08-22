@@ -1709,6 +1709,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/?envType=daily-question&envId=2026-08-19)
 * [3069. Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/?envType=daily-question&envId=2026-08-20)
 * [3116. Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/?envType=daily-question&envId=2026-08-21)
+* [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/?envType=daily-question&envId=2026-08-22)
 
 
 ### Exercise Templates for Various Languages
@@ -3423,3 +3424,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/?envType=daily-question&envId=2026-08-19)
 * [3069. Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/?envType=daily-question&envId=2026-08-20)
 * [3116. Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/?envType=daily-question&envId=2026-08-21)
+* [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/?envType=daily-question&envId=2026-08-22)
