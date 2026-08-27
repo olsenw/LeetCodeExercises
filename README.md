@@ -1714,6 +1714,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1872. Stone Game VIII](https://leetcode.com/problems/stone-game-viii/description/?envType=daily-question&envId=2026-08-24)
 * [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/description/?envType=daily-question&envId=2026-08-25)
 * [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/?envType=daily-question&envId=2026-08-26)
+* [3720. Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/description/?envType=daily-question&envId=2026-08-27)
 
 
 ### Exercise Templates for Various Languages
@@ -3433,3 +3434,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1872. Stone Game VIII](https://leetcode.com/problems/stone-game-viii/description/?envType=daily-question&envId=2026-08-24)
 * [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/description/?envType=daily-question&envId=2026-08-25)
 * [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/?envType=daily-question&envId=2026-08-26)
+* [3720. Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/description/?envType=daily-question&envId=2026-08-27)
