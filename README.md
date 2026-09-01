@@ -1719,6 +1719,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2739. Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/?envType=daily-question&envId=2026-08-30)
 * [3997. Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01)
 
 
 ### Exercise Templates for Various Languages
@@ -3443,3 +3444,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2739. Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/?envType=daily-question&envId=2026-08-30)
 * [3997. Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01)
