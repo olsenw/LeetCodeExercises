@@ -1722,6 +1722,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01)
 * [3875. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/description/?envType=daily-question&envId=2026-09-02)
 * [3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/?envType=daily-question&envId=2026-09-03)
+* [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04)
 
 
 ### Exercise Templates for Various Languages
@@ -3449,3 +3450,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01)
 * [3875. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/description/?envType=daily-question&envId=2026-09-02)
 * [3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/?envType=daily-question&envId=2026-09-03)
+* [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04)
