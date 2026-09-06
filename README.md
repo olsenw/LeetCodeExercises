@@ -1724,6 +1724,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/?envType=daily-question&envId=2026-09-03)
 * [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04)
 * [3904. Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05)
+* [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/?envType=daily-question&envId=2026-09-06)
 
 
 ### Exercise Templates for Various Languages
@@ -3453,3 +3454,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/?envType=daily-question&envId=2026-09-03)
 * [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04)
 * [3904. Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05)
+* [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/?envType=daily-question&envId=2026-09-06)
