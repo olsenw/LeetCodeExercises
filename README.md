@@ -1725,6 +1725,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04)
 * [3904. Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05)
 * [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/?envType=daily-question&envId=2026-09-06)
+* [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/?envType=daily-question&envId=2026-09-07)
 
 
 ### Exercise Templates for Various Languages
@@ -3455,3 +3456,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04)
 * [3904. Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05)
 * [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/?envType=daily-question&envId=2026-09-06)
+* [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/?envType=daily-question&envId=2026-09-07)
