@@ -1727,6 +1727,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/?envType=daily-question&envId=2026-09-06)
 * [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/?envType=daily-question&envId=2026-09-07)
 * [3870. Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/?envType=daily-question&envId=2026-09-08)
+* [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/?envType=daily-question&envId=2026-09-09)
 
 
 ### Exercise Templates for Various Languages
@@ -3459,3 +3460,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/?envType=daily-question&envId=2026-09-06)
 * [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/?envType=daily-question&envId=2026-09-07)
 * [3870. Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/?envType=daily-question&envId=2026-09-08)
+* [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/?envType=daily-question&envId=2026-09-09)
