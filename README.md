@@ -1729,6 +1729,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3870. Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/?envType=daily-question&envId=2026-09-08)
 * [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/?envType=daily-question&envId=2026-09-09)
 * [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3463,3 +3464,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3870. Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/?envType=daily-question&envId=2026-09-08)
 * [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/?envType=daily-question&envId=2026-09-09)
 * [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/?envType=problem-list-v2&envId=2cmnhthh)
