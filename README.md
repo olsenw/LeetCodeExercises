@@ -1733,6 +1733,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3414. Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description/?envType=daily-question&envId=2026-09-12)
 * [2660. Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3707. Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [2472. Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/?envType=daily-question&envId=2026-09-15)
 
 
 ### Exercise Templates for Various Languages
@@ -3471,3 +3472,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3414. Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description/?envType=daily-question&envId=2026-09-12)
 * [2660. Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3707. Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [2472. Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/?envType=daily-question&envId=2026-09-15)
