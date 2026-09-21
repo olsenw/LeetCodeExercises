@@ -1746,3 +1746,4 @@ Replace `template` with the correct problem name.
 * [1520. Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/?envType=daily-question&envId=2026-09-18)
 * [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/?envType=daily-question&envId=2026-09-19)
 * [4030. Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [3524. Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/description/?envType=daily-question&envId=2026-09-21)
