@@ -1748,3 +1748,4 @@ Replace `template` with the correct problem name.
 * [4030. Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3524. Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/description/?envType=daily-question&envId=2026-09-21)
 * [3525. Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/description/?envType=daily-question&envId=2026-09-22)
+* [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/?envType=problem-list-v2&envId=ng5yboc7)
