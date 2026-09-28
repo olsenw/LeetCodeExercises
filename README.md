@@ -1746,6 +1746,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1096. Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/?envType=daily-question&envId=2026-09-25)
 * [4038. Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3959. Check Good Integer](https://leetcode.com/problems/check-good-integer/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3497,3 +3498,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1096. Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/?envType=daily-question&envId=2026-09-25)
 * [4038. Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [3959. Check Good Integer](https://leetcode.com/problems/check-good-integer/description/?envType=problem-list-v2&envId=2cmnhthh)
