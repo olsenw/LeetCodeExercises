@@ -1755,3 +1755,4 @@ Replace `template` with the correct problem name.
 * [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3959. Check Good Integer](https://leetcode.com/problems/check-good-integer/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2267. Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/?envType=daily-question&envId=2026-09-29)
+* [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/?envType=problem-list-v2&envId=ng5yboc7)
