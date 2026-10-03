@@ -1751,6 +1751,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [4065. Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [4061. Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3507,3 +3508,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [4065. Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [4061. Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/description/?envType=problem-list-v2&envId=2cmnhthh)
