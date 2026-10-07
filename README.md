@@ -1755,6 +1755,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1947. Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07)
 
 
 ### Exercise Templates for Various Languages
@@ -3515,3 +3516,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1947. Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07)
