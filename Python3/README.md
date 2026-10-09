@@ -1764,3 +1764,4 @@ Replace `template` with the correct problem name.
 * [1947. Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07)
 * [2383. Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/?envType=daily-question&envId=2026-10-09)
