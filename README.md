@@ -1767,6 +1767,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/?envType=daily-question&envId=2026-10-16)
 * [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/description/?envType=daily-question&envId=2026-10-17)
 * [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)
 
 
 ### Exercise Templates for Various Languages
@@ -3539,3 +3540,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/?envType=daily-question&envId=2026-10-16)
 * [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/description/?envType=daily-question&envId=2026-10-17)
 * [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/?envType=problem-list-v2&envId=2cmnhthh)
+* [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)
