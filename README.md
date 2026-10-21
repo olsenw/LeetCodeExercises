@@ -1769,6 +1769,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)
 * [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/?envType=daily-question&envId=2026-10-20)
+* [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/?envType=daily-question&envId=2026-10-21)
 
 
 ### Exercise Templates for Various Languages
@@ -3543,3 +3544,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)
 * [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/?envType=daily-question&envId=2026-10-20)
+* [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/?envType=daily-question&envId=2026-10-21)
