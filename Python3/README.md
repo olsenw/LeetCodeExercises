@@ -1778,3 +1778,4 @@ Replace `template` with the correct problem name.
 * [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/?envType=daily-question&envId=2026-10-20)
 * [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/?envType=daily-question&envId=2026-10-21)
 * [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/description/?envType=daily-question&envId=2026-10-22)
+* [3644. Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/description/?envType=daily-question&envId=2026-10-23)
