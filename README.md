@@ -1774,6 +1774,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3644. Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/description/?envType=daily-question&envId=2026-10-23)
 * [2710. Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/?envType=daily-question&envId=2026-10-26)
+* [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/description/?envType=daily-question&envId=2026-10-27)
 
 
 ### Exercise Templates for Various Languages
@@ -3554,3 +3555,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [2710. Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [851. Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/?envType=problem-list-v2&envId=ng5yboc7)
 * [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/?envType=daily-question&envId=2026-10-26)
+* [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/description/?envType=daily-question&envId=2026-10-27)
