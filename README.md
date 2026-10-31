@@ -1778,6 +1778,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/submissions/2183622219/?envType=daily-question&envId=2026-10-28)
 * [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/description/?envType=daily-question&envId=2026-10-29)
 * [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/description/?envType=daily-question&envId=2026-10-30)
+* [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/description/?envType=daily-question&envId=2026-10-31)
 
 
 ### Exercise Templates for Various Languages
@@ -3562,3 +3563,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/submissions/2183622219/?envType=daily-question&envId=2026-10-28)
 * [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/description/?envType=daily-question&envId=2026-10-29)
 * [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/description/?envType=daily-question&envId=2026-10-30)
+* [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/description/?envType=daily-question&envId=2026-10-31)
