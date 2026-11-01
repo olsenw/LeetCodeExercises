@@ -1787,3 +1787,4 @@ Replace `template` with the correct problem name.
 * [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/description/?envType=daily-question&envId=2026-10-29)
 * [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/description/?envType=daily-question&envId=2026-10-30)
 * [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/description/?envType=daily-question&envId=2026-10-31)
+* [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/?envType=daily-question&envId=2026-11-01)
