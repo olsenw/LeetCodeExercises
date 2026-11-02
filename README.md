@@ -1780,6 +1780,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/description/?envType=daily-question&envId=2026-10-30)
 * [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/description/?envType=daily-question&envId=2026-10-31)
 * [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/?envType=daily-question&envId=2026-11-01)
+* [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3566,3 +3567,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/description/?envType=daily-question&envId=2026-10-30)
 * [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/description/?envType=daily-question&envId=2026-10-31)
 * [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/?envType=daily-question&envId=2026-11-01)
+* [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/?envType=problem-list-v2&envId=2cmnhthh)
