@@ -1790,3 +1790,4 @@ Replace `template` with the correct problem name.
 * [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/?envType=daily-question&envId=2026-11-01)
 * [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3736. Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description/?envType=daily-question&envId=2026-11-03)
+* [3505. Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/description/?envType=daily-question&envId=2026-11-04)
