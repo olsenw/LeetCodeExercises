@@ -1783,6 +1783,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3736. Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description/?envType=daily-question&envId=2026-11-03)
 * [3505. Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/description/?envType=daily-question&envId=2026-11-04)
+* [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/?envType=daily-question&envId=2026-11-05)
 
 
 ### Exercise Templates for Various Languages
@@ -3572,3 +3573,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3736. Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description/?envType=daily-question&envId=2026-11-03)
 * [3505. Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/description/?envType=daily-question&envId=2026-11-04)
+* [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/?envType=daily-question&envId=2026-11-05)
