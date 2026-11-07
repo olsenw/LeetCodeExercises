@@ -1793,3 +1793,4 @@ Replace `template` with the correct problem name.
 * [3505. Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/description/?envType=daily-question&envId=2026-11-04)
 * [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/?envType=daily-question&envId=2026-11-05)
 * [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/description/?envType=daily-question&envId=2026-11-06)
+* [1882. Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/description/?envType=daily-question&envId=2026-11-07)
