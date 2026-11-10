@@ -1788,6 +1788,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1882. Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/description/?envType=daily-question&envId=2026-11-07)
 * [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/?envType=daily-question&envId=2026-11-09)
+* [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/description/?envType=daily-question&envId=2026-11-10)
 
 
 ### Exercise Templates for Various Languages
@@ -3582,3 +3583,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1882. Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/description/?envType=daily-question&envId=2026-11-07)
 * [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/?envType=daily-question&envId=2026-11-09)
+* [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/description/?envType=daily-question&envId=2026-11-10)
