@@ -1797,3 +1797,4 @@ Replace `template` with the correct problem name.
 * [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/?envType=daily-question&envId=2026-11-09)
 * [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/description/?envType=daily-question&envId=2026-11-10)
+* [3789. Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/description/?envType=daily-question&envId=2026-11-11)
