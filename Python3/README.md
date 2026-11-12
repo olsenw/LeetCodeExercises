@@ -1798,3 +1798,4 @@ Replace `template` with the correct problem name.
 * [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/?envType=daily-question&envId=2026-11-09)
 * [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/description/?envType=daily-question&envId=2026-11-10)
 * [3789. Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/description/?envType=daily-question&envId=2026-11-11)
+* [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/?envType=problem-list-v2&envId=2cmnhthh)
