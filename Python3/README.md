@@ -1799,3 +1799,7 @@ Replace `template` with the correct problem name.
 * [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/description/?envType=daily-question&envId=2026-11-10)
 * [3789. Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/description/?envType=daily-question&envId=2026-11-11)
 * [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/?envType=problem-list-v2&envId=2cmnhthh)
+* 
+* 
+* 
+* [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/?envType=daily-question&envId=2026-11-16)
