@@ -1795,6 +1795,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * 
 * 
 * [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/?envType=daily-question&envId=2026-11-16)
+* [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/?envType=daily-question&envId=2026-11-17)
 
 ### Exercise Templates for Various Languages
 * [Python3](/Python3/template.py)
@@ -3595,3 +3596,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * 
 * 
 * [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/?envType=daily-question&envId=2026-11-16)
+* [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/?envType=daily-question&envId=2026-11-17)
