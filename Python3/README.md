@@ -1805,3 +1805,4 @@ Replace `template` with the correct problem name.
 * [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/?envType=daily-question&envId=2026-11-16)
 * [2911. Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/?envType=daily-question&envId=2026-11-17)
 * [306. Additive Number](https://leetcode.com/problems/additive-number/description/?envType=problem-list-v2&envId=ng5yboc7)
+* [2567. Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/description/?envType=daily-question&envId=2026-11-19)
