@@ -1808,3 +1808,4 @@ Replace `template` with the correct problem name.
 * [2567. Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/description/?envType=daily-question&envId=2026-11-19)
 * [3041. Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/?envType=daily-question&envId=2026-11-20)
 * [3331. Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21)
+* [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/?envType=problem-list-v2&envId=2cmnhthh)
