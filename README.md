@@ -1804,6 +1804,7 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3411. Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/description/?envType=daily-question&envId=2026-11-24)
 * [3934. Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/description/?envType=daily-question&envId=2026-11-25)
+* [1880. Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/?envType=problem-list-v2&envId=2cmnhthh)
 
 
 ### Exercise Templates for Various Languages
@@ -3614,3 +3615,4 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 * [1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/description/?envType=problem-list-v2&envId=2cmnhthh)
 * [3411. Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/description/?envType=daily-question&envId=2026-11-24)
 * [3934. Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/description/?envType=daily-question&envId=2026-11-25)
+* [1880. Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/?envType=problem-list-v2&envId=2cmnhthh)
